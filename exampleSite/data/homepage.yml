@@ -63,6 +63,10 @@ service:
   enable: true
   title: Services
   item:
+  - title: Network Configuration
+    icon: ''
+    content: "*requires special setup"
+    highlighted: ''
   - title: Software Troubleshooting
     icon: ''
     content: ''
