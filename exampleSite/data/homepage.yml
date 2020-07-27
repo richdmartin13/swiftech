@@ -63,13 +63,25 @@ service:
   enable: true
   title: Services
   item:
-  - title: Network Configuration
+  - title: Device Setup
     icon: ''
-    content: "*requires special setup"
+    content: ''
+    highlighted: ''
+  - title: Password Management
+    icon: ''
+    content: ''
     highlighted: ''
   - title: Software Troubleshooting
     icon: ''
     content: ''
+    highlighted: ''
+  - title: Tech Tutorials
+    icon: ''
+    content: ''
+    highlighted: ''
+  - title: Network Configuration
+    icon: ''
+    content: "*requires special setup"
     highlighted: ''
 portfolio:
   enable: true
