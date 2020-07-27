@@ -3,11 +3,10 @@ banner:
   title: Take the work <br> out of working <br> from home
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: 'Dropbyte was created in 2020 with one goal in mind: to make working from
+    home easier in a time where flexibility and reliability are paramount. Our idea
+    is simple: we provide remote tech support to fix your problems quickly - wherever
+    you are.'
   button:
     enable: true
     label: know more
