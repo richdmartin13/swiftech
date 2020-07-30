@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: PAGES
 - type: document
   path: themes/raditian-free-hugo-theme/data/homepage.yml
   label: Home Page
@@ -12,11 +14,6 @@ sections:
   label: root
   create: all
   match: "**/*"
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
 upload_dir: static
 public_path: ''
 front_matter_path: ''
