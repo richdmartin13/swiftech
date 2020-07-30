@@ -9,6 +9,8 @@ sections:
 - type: document
   path: themes/raditian-free-hugo-theme/data/homepage.yml
   label: Home Page
+- type: heading
+  label: FILES
 - type: directory
   path: ''
   label: root
