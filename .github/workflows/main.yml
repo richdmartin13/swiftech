@@ -26,5 +26,5 @@ jobs:
     - uses: pulimento/github-action-hugo-deploy-to-firebase@master
       with:
         firebase-token: ${{ secrets.FIREBASE_TOKEN }}
-        alias: ${{ dropbyte-ch }} // OPTIONAL
+        alias: ${{ "dropbyte-ch" }} // OPTIONAL
   
