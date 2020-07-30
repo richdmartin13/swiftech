@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: themes/raditian-free-hugo-theme/data/homepage.yml
+  label: Home Page
+  match: "**/*"
 - type: directory
   path: ''
   label: root
