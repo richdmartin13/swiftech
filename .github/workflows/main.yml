@@ -27,4 +27,5 @@ jobs:
       uses: wajahatkarim3/hugo-on-fire@v0.67.1
       env: 
         FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+        PROJECT: "dropbyte-ch"
   
