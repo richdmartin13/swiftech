@@ -21,11 +21,10 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-
-    # Runs a single command using the runners shell
-    - name: Hugo on Fire
-      uses: wajahatkarim3/hugo-on-fire@v0.67.1
-      env: 
-        FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
-        PROJECT_ID: "dropbyte-ch"
+      with:
+        submodules: true
+    - uses: pulimento/github-action-hugo-deploy-to-firebase@master
+      with:
+        firebase-token: ${{ secrets.FIREBASE_TOKEN }}
+        alias: ${{ dropbyte-ch }} // OPTIONAL
   
