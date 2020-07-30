@@ -13,7 +13,7 @@ sections:
   label: FILES
 - type: directory
   path: ''
-  label: root
+  label: dropbyte.ch
   create: all
   match: "**/*"
 upload_dir: static
