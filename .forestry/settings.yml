@@ -1,19 +1,24 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: "/static/admin"
 webhook_url: 
 sections:
+- type: document
+  path: config.toml
+  label: config
+- type: heading
+  label: PAGES
+- type: document
+  path: themes/raditian-free-hugo-theme/data/homepage.yml
+  label: Home Page
+- type: heading
+  label: FILES
 - type: directory
   path: ''
-  label: root
+  label: dropbyte.ch
   create: all
   match: "**/*"
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
 upload_dir: static
 public_path: ''
 front_matter_path: ''

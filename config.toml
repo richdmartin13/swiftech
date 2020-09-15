@@ -1,90 +1,64 @@
 baseURL = "https://dropbyte.ch"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
-
-# Plugins
-[params.plugins]
-
-  # CSS Plugins
-  [[params.plugins.css]]
-  URL = "css/main.css"
-  [[params.plugins.css]]
-  URL = "css/rad-icons.css"
-  [[params.plugins.css]]
-  URL = "css/custom.css"
-
-  # JS Plugins
-  [[params.plugins.js]]
-  URL = "js/rad-animations.js"
-  [[params.plugins.js]]
-  URL = "js/sticky-header.js"
-  [[params.plugins.js]]
-  URL = "js/library/fontfaceobserver.js"
-
-
-# navigation
-[menu]
-
-  [[menu.header]]
-  name = "About"
-  URL = "#about"
-  weight = 2
-
-  [[menu.header]]
-  name = "Services"
-  URL = "#portfolio"
-  weight = 3
-
-  [[menu.header]]
-  name = "Services"
-  URL = "#portfolio"
-  weight = 3
-
-  [[menu.header]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
-
-
-  [[menu.footer]]
-  name = "About"
-  URL = "#about"
-  weight = 1
-
-  [[menu.footer]]
-  name = "Services"
-  URL = "#portfolio"
-  weight = 2
-
-  [[menu.footer]]
-  name = "Pricing"
-  URL = "#pricing"
-  weight = 3
-
-  [[menu.footer]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 5
-
-    [[menu.footer]]
-  name = "QuickBytes"
-  URL = "http://learn.dropbyte.ch"
-  weight = 4
-
-
+[[menu.footer]]
+URL = "http://learn.dropbyte.ch"
+name = "QuickBytes"
+weight = 4
+[[menu.footer]]
+URL = "#contact"
+name = "Contact"
+weight = 5
+[[menu.footer]]
+URL = "#pricing"
+name = "Pricing"
+weight = 3
+[[menu.footer]]
+URL = "#portfolio"
+name = "Services"
+weight = 2
+[[menu.footer]]
+URL = "#about"
+name = "About"
+weight = 1
+[[menu.header]]
+URL = "#pricing"
+name = "Pricing"
+url = ""
+weight = 3
+[[menu.header]]
+URL = "#contact"
+name = "Contact"
+weight = 4
+[[menu.header]]
+URL = "#portfolio"
+name = "Services"
+weight = 2
+[[menu.header]]
+URL = "#about"
+name = "About"
+weight = 1
 [params]
-
-  sections = ["showcase", "about", "client-and-work", "pricing", "testimonial", "contact", "newsletter"]
-
-  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
-
-  [params.logo]
-    text1 = "Drop"
-    text2 = "Byte"
-
-  [params.footer]
-      copyright = "© DropByte and "
-      [params.footer.radity_logo]
-        x = "img/general/design-and-code-radity.png"
-        _2x = "img/general/design-and-code-radity@2x.png"
-        alt = "Design & Code - Radity"
+googleTagManagerID = "GTM-000000"
+sections = ["showcase", "about", "client-and-work", "pricing", "testimonial", "contact", "newsletter"]
+[params.footer]
+copyright = "© DropByte and "
+[params.footer.radity_logo]
+_2x = "img/general/design-and-code-radity@2x.png"
+alt = "Design & Code - Radity"
+x = "img/general/design-and-code-radity.png"
+[params.logo]
+text1 = "Drop"
+text2 = "Byte"
+[[params.plugins.css]]
+URL = "css/main.css"
+[[params.plugins.css]]
+URL = "css/rad-icons.css"
+[[params.plugins.css]]
+URL = "css/custom.css"
+[[params.plugins.js]]
+URL = "js/rad-animations.js"
+[[params.plugins.js]]
+URL = "js/sticky-header.js"
+[[params.plugins.js]]
+URL = "js/library/fontfaceobserver.js"
