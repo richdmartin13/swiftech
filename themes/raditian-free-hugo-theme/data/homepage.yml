@@ -17,7 +17,7 @@ showcase:
   button2:
     icon: "icon-smile-fill"
     btnText: "Schedule a Session"
-    URL: "https://dropbyte.hbportal.co/schedule/5f6144be79cb801c01a1bf7d"
+    URL: "https://meet.dropbyte.ch"
 
   socialLinks:
   
@@ -96,7 +96,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Schedule a Session"
-        URL: "https://dropbyte.hbportal.co/schedule/5f6144be79cb801c01a1bf7d"
+        URL: "https://meet.dropbyte.ch"
       button2:
         icon: "icon-arrow-right"
         btnText: "Get Zoom"
