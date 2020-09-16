@@ -15,7 +15,7 @@ showcase:
     btnText: "Get Zoom"
     URL: "https://zoom.us/download"
   button2:
-    icon: "icon-smile-fill"
+    icon: "icon-profile-fill"
     btnText: "Schedule a Session"
     URL: "http://meet.dropbyte.ch"
 
