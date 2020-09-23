@@ -1,199 +1,172 @@
-# showcase
+---
 showcase:
   enable: true
-  title: "Tech help, on your time."
-  subtitle: ""
-  description: "Got a problem? Just grab some time with us and we'll start a video chat with you on Zoom. It's that easy. With DropByte, your tech steps out of the way - allowing you to get more done with less hassle."
+  title: Tech help, on your time.
+  subtitle: ''
+  description: Got a problem? Just grab some time with us and we'll start a video
+    chat with you on Zoom. It's that easy. With DropByte, your tech steps out of the
+    way - allowing you to get more done with less hassle.
   image:
-    x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2x.png"
+    x: img/showcase/showcase.png
+    _2x: img/showcase/showcase@2x.png
   imageMobile:
-    x: "img/showcase/showcase-mobile.jpg"
-
+    x: img/showcase/showcase-mobile.jpg
   button:
-    icon: "icon-smile-fill"
-    btnText: "Get Zoom"
-    URL: "https://zoom.us/download"
+    icon: icon-smile-fill
+    btnText: Get Zoom
+    URL: https://zoom.us/download
   button2:
-    icon: "icon-profile-fill"
-    btnText: "Schedule a Session"
-    URL: "http://meet.dropbyte.ch"
-
+    icon: icon-profile-fill
+    btnText: Schedule a Session
+    URL: http://meet.dropbyte.ch
   socialLinks:
-  
-  #  - icon: "linkedin"
-  #    URL: "https://www.linkedin.com/company/radity/"
-
-  #  - icon: "github"
-  #    URL: "https://github.com/radity"
-
-  #  - icon: "twitter"
-  #    URL: "https://twitter.com/radity"
-
-  #  - icon: "dribbble"
-  #    URL: "https://dribbble.com/radity"
-
-  #  - icon: "behance"
-  #    URL: "https://www.behance.net/radity-digital"
-
-  #  - icon: "youtube"
-  #    URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
-
-  #  - icon: "instagram"
-  #    URL: "https://www.instagram.com/teamradity/"
-
-  #  - icon: "facebook"
-  #    URL: "https://www.facebook.com/raditycom/"
-
-  #  - icon: "codepen"
-  #    URL: "#"
-
-  #  - icon: "yelp"
-  #    URL: "https://www.yelp.com/"
-
-# about
+  - icon: github
+    URL: https://github.com/DropByte
+  - icon: twitter
+    URL: https://twitter.com/DropByteTech
 about:
   enable: true
-  title: "Who are We?"
-  content: '<p class="lead">
-    DropByte was founded in July 2020, with one goal in mind: to help people learn how to use their tech - and do it better.
-    </p>
-    <p class="lead">
-    We''re a tech support company that''s different from any you''ve seen before. We do all of our work via Zoom video chat, so we are always a call away.
-    If you have a problem that requires on-site work, we''ll work with our partners at TwoTone Tech Support to send a professional to your home. And
-    unlike other tech support companies, we''re not looking for the quick fix that''ll have you calling back next week - we find real solutions,
-    just for you.
-    </p>'
+  title: Who are We?
+  content: '<p class="lead"> DropByte was founded in July 2020, with one goal in mind:
+    to help people learn how to use their tech - and do it better. </p> <p class="lead">
+    We''re a tech support company that''s different from any you''ve seen before.
+    We do all of our work via Zoom video chat, so we are always a call away. If you
+    have a problem that requires on-site work, we''ll work with our partners at TwoTone
+    Tech Support to send a professional to your home. And unlike other tech support
+    companies, we''re not looking for the quick fix that''ll have you calling back
+    next week - we find real solutions, just for you. </p>'
   button:
-    icon: "icon-smile-fill"
-    btnText: "Learn More"
+    icon: icon-smile-fill
+    btnText: Learn More
     URL: "#contact"
   image:
-    x: "img/who-am-i/user-pic.png"
-    _2x: "img/who-am-i/user-pic@2x.png"
-
-# Client & Work
+    x: img/who-am-i/user-pic.png
+    _2x: img/who-am-i/user-pic@2x.png
 client_and_work:
-  title: "Our Services"
+  title: Our Services
   enable: true
-
-  clients:
-
+  clients: 
   works:
-    - title: "QuickBytes"
-      description: "QuickBytes are bite-sized tutorials designed to help you learn about your stuff. Whether it's a program or a device, we've got you covered. Don't see a guide? Contact us and let us know."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "See QuickBytes"
-        URL: "https://learn.dropbyte.ch"
-      image:
-        x: "img/works/learn.png"
-        _2x: "img/works/learn.png"
-      is_even: true
-
-    - title: "Remote Support"
-      description: "We leverage Zoom Video Conferencing to meet with you face-to-face and address your problems. Just schedule a meeting with us and you'll be back up and running in no time."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Schedule a Session"
-        URL: "http://meet.dropbyte.ch"
-      button2:
-        icon: "icon-arrow-right"
-        btnText: "Get Zoom"
-        URL: "https://zoom.us/download"
-      image:
-        x: "img/works/support.png"
-        _2x: "img/works/support.png"
-      is_even: false
-
-    - title: "Tech Management"
-      description: "Available as a monthly subscription, our Tech Management program puts your tech in the background. With benefits like device setup, personal recommendations, priority support and more, you can get back to the things you care about most - and forget about the things you don't."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Coming Soon"
-        URL: "https://dropbyte.ch/#contact"
-      image:
-        x: "img/works/subscribe.png"
-        _2x: "img/works/subscribe.png"
-      is_even: true
-
-      # experience
+  - title: QuickBytes
+    description: QuickBytes are bite-sized tutorials designed to help you learn about
+      your stuff. Whether it's a program or a device, we've got you covered. Don't
+      see a guide? Contact us and let us know.
+    button:
+      icon: icon-arrow-right
+      btnText: See QuickBytes
+      URL: https://learn.dropbyte.ch
+    image:
+      x: img/works/learn.png
+      _2x: img/works/learn.png
+    is_even: true
+  - title: Remote Support
+    description: We leverage Zoom Video Conferencing to meet with you face-to-face
+      and address your problems. Just schedule a meeting with us and you'll be back
+      up and running in no time.
+    button:
+      icon: icon-arrow-right
+      btnText: Schedule a Session
+      URL: http://meet.dropbyte.ch
+    button2:
+      icon: icon-arrow-right
+      btnText: Get Zoom
+      URL: https://zoom.us/download
+    image:
+      x: img/works/support.png
+      _2x: img/works/support.png
+    is_even: false
+  - title: Tech Management
+    description: Available as a monthly subscription, our Tech Management program
+      puts your tech in the background. With benefits like device setup, personal
+      recommendations, priority support and more, you can get back to the things you
+      care about most - and forget about the things you don't.
+    button:
+      icon: icon-arrow-right
+      btnText: Coming Soon
+      URL: https://dropbyte.ch/#contact
+    image:
+      x: img/works/subscribe.png
+      _2x: img/works/subscribe.png
+    is_even: true
 pricing:
   enable: true
-  title: "Pricing"
-  description: "Need help fast? Try our QuickBytes - they're free tutorials that can help in a pinch. If you'd rather us help, you can schedule time with us and we'll assist you remotely, on your time. And if you're looking for something more, including personal recommendations, priority support, routine checkups and more, ask about our Tech Management Program."
+  title: Pricing
+  description: Need help fast? Try our QuickBytes - they're free tutorials that can
+    help in a pinch. If you'd rather us help, you can schedule time with us and we'll
+    assist you remotely, on your time. And if you're looking for something more, including
+    personal recommendations, priority support, routine checkups and more, ask about
+    our Tech Management Program.
   button:
-    icon: "icon-smile-fill"
-    btnText: "Get in Touch"
-    URL: "https://dropbyte.ch/#contact"
+    icon: icon-smile-fill
+    btnText: Get in Touch
+    URL: https://dropbyte.ch/#contact
   button2:
-    icon: "icon-profile-fill"
-    btnText: "See QuickBytes"
-    URL: "https://learn.dropbyte.ch"
-
+    icon: icon-profile-fill
+    btnText: See QuickBytes
+    URL: https://learn.dropbyte.ch
   items:
-    - title: "Access to QuickBytes"
-      company: "FREE"
-      duration: "Always Free"
-
-    - title: "Remote Support Sessions"
-      company: "$30 PER HOUR"
-      duration: "Pay As You Go"
-
-    - title: "Tech Management"
-      company: "$20 PER MONTH"
-      duration: "Subscribe Monthly"
-
-# testimonial
+  - title: Access to QuickBytes
+    company: FREE
+    duration: Always Free
+  - title: Remote Support Sessions
+    company: "$30 PER HOUR"
+    duration: Pay As You Go
+  - title: Tech Management
+    company: "$20 PER MONTH"
+    duration: Subscribe Monthly
 testimonial:
   enable: false
-  title: "Testimonials"
+  title: Testimonials
   items:
-    - name: "Daniel Jordan"
-      position: "Phonet, CEO"
-      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
-      image:
-        x: "img/testimonials/daniel-jordan.jpg"
-        _2x: "img/testimonials/daniel-jordan@2x.jpg"
-
-    - name: "Jonathan Peters"
-      position: "Textic, CEO"
-      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
-      image:
-        x: "img/testimonials/jonathan-peters.jpg"
-        _2x: "img/testimonials/jonathan-peters@2x.jpg"
-
-    - name: "Antonio Willis"
-      position: "Cyberse, CEO"
-      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
-      image:
-        x: "img/testimonials/antonio-willis.jpg"
-        _2x: "img/testimonials/antonio-willis@2x.jpg"
-
-# contact
+  - name: Daniel Jordan
+    position: Phonet, CEO
+    content: Cold calling can be a great way to generate quality leads. You get to
+      speak to the gatekeepers and stakeholders, and you get a great insight into
+      their requirements and influences. But cold calling is an art-form. It can be
+      daunting, it’s always a lot of work, and you always need to make a good impression.
+    image:
+      x: img/testimonials/daniel-jordan.jpg
+      _2x: img/testimonials/daniel-jordan@2x.jpg
+  - name: Jonathan Peters
+    position: Textic, CEO
+    content: Whether you or your loved one is encountering the natural decrease in
+      mobility that occurs with the passing of time, or deals with an illness-related
+      lack of physical agility, a stair lift can be the ideal way to put you in charge
+      of your home again. Regardless of the shape or make of your living accommodation.
+    image:
+      x: img/testimonials/jonathan-peters.jpg
+      _2x: img/testimonials/jonathan-peters@2x.jpg
+  - name: Antonio Willis
+    position: Cyberse, CEO
+    content: In this digital generation where information can be easily obtained within
+      seconds, business cards still have retained their importance in the achievement
+      of increased business exposure and business sales. If your business already
+      has a bunch of printed cards distributed to a number of potential customers
+      and yet.
+    image:
+      x: img/testimonials/antonio-willis.jpg
+      _2x: img/testimonials/antonio-willis@2x.jpg
 contact:
   enable: true
-  title: "Contact"
+  title: Contact
   form:
-    action: "https://formspree.io/xrgyrwda"
-    method: "POST"
-    full_name: "Full Name"
-    email: "Email Address"
-    message: "Type Your Message Here"
+    action: https://formspree.io/xrgyrwda
+    method: POST
+    full_name: Full Name
+    email: Email Address
+    message: Type Your Message Here
   phone:
-    title: "Phone Number"
+    title: Phone Number
     number: "(865) 272-9554"
   email:
-    title: "Email"
-    email: '<a href="mailto:hello@dropbyte.ch">hello@dropbyte.ch</a>'
+    title: Email
+    email: <a href="mailto:hello@dropbyte.ch">hello@dropbyte.ch</a>
   button:
-    icon: "icon-mail-fill"
-    btnText: "Send Message"
-
-# newsletter
+    icon: icon-mail-fill
+    btnText: Send Message
 newsletter:
-  enable: true
-  title: "Newsletter subscription"
-  success_message: "Successfully subscribed"
-  error_message: "Our Newsletter isn't set up yet. Please check later."
-  note: "We'll never share your email with anyone else."
+  enable: false
+  title: Newsletter subscription
+  success_message: Successfully subscribed
+  error_message: Our Newsletter isn't set up yet. Please check later.
+  note: We'll never share your email with anyone else.
