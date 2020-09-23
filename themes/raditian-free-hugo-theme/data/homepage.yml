@@ -20,6 +20,8 @@ showcase:
     btnText: Schedule a Session
     URL: http://meet.dropbyte.ch
   socialLinks:
+  - icon: github
+    URL: https://github.com/richdmartin13
   - icon: twitter
     URL: https://twitter.com/DropByteTech
 about:
