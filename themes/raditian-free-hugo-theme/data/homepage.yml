@@ -165,7 +165,7 @@ contact:
     icon: icon-mail-fill
     btnText: Send Message
 newsletter:
-  enable: true
+  enable: false
   title: Newsletter subscription
   success_message: Successfully subscribed
   error_message: Our Newsletter isn't set up yet. Please check later.
