@@ -42,17 +42,17 @@
                             e = b.getElementsByTagName(s)[0]; e.parentNode.insertBefore(t, e);
                         })(window, document, "script", "https://widget.honeybook.com/assets_users_production/websiteplacements/placement-controller.min.js", "5f613727f924250298c86ded");
                     </script>
-                </div>
-                <div class="col-12 col-lg-5 contact__info">
-                    <h4>{{ .Site.Data.homepage.contact.phone.title }}</h4>
-                    <span>{{ .Site.Data.homepage.contact.phone.number }}</span>
-                    <h4>{{ .Site.Data.homepage.contact.email.title }}</h4>
-                    <span>{{ .Site.Data.homepage.contact.email.email | safeHTML }}</span>
-                    <h4>{{ .Site.Data.homepage.contact.address.title }}</h4>
-                    <span>{{ .Site.Data.homepage.contact.address.address | safeHTML }}</span>
+                    </div>
+                    <div class="col-12 col-lg-5 contact__info">
+                        <h4>{{ .Site.Data.homepage.contact.phone.title }}</h4>
+                        <span>{{ .Site.Data.homepage.contact.phone.number }}</span>
+                        <h4>{{ .Site.Data.homepage.contact.email.title }}</h4>
+                        <span>{{ .Site.Data.homepage.contact.email.email | safeHTML }}</span>
+                        <h4>{{ .Site.Data.homepage.contact.address.title }}</h4>
+                        <span>{{ .Site.Data.homepage.contact.address.address | safeHTML }}</span>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
 </section>
 {{ end }}
