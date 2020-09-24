@@ -22,7 +22,7 @@ URL = "#about"
 name = "About"
 weight = 1
 [[menu.header]]
-URL = ""
+URL = "http://client.dropbyte.ch"
 name = "Log In"
 url = "http://client.dropbyte.ch"
 weight = "6"
