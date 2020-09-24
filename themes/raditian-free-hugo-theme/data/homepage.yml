@@ -12,7 +12,7 @@ showcase:
   imageMobile:
     x: img/showcase/showcase-mobile.jpg
   button:
-    icon: videocam
+    icon: videocam-outline
     btnText: Get Zoom
     URL: https://zoom.us/download
   button2:
