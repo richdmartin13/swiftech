@@ -64,7 +64,7 @@ client_and_work:
       and address your problems. Just schedule a meeting with us and you'll be back
       up and running in no time.
     button:
-      icon: icon-arrow-right
+      icon: videocam
       btnText: Schedule a Session
       URL: http://meet.dropbyte.ch
     button2:
