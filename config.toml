@@ -22,6 +22,11 @@ URL = "#about"
 name = "About"
 weight = 1
 [[menu.header]]
+URL = ""
+name = "Log In"
+url = "dropbyte.hbportal.co/app/"
+weight = "5"
+[[menu.header]]
 URL = "#pricing"
 name = "Pricing"
 url = ""
