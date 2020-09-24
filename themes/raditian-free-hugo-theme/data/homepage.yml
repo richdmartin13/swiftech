@@ -83,7 +83,7 @@ client_and_work:
     button:
       icon: reader
       btnText: Learn More
-      URL: https://dropbyte.ch/#contact
+      URL: https://learn.dropbyte.ch/dropbyte/dropbyte-tech-management/
     image:
       x: img/works/subscribe.png
       _2x: img/works/subscribe.png
