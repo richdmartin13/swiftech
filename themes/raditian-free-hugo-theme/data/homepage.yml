@@ -16,7 +16,7 @@ showcase:
     btnText: Get Zoom
     URL: https://zoom.us/download
   button2:
-    icon: schedule
+    icon: calendar-outline
     btnText: Schedule a Session
     URL: http://meet.dropbyte.ch
   socialLinks:
