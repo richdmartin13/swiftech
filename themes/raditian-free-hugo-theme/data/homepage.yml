@@ -68,7 +68,7 @@ client_and_work:
       btnText: Schedule a Session
       URL: http://meet.dropbyte.ch
     button2:
-      icon: videocam
+      icon: videocam-outline
       btnText: Get Zoom
       URL: https://zoom.us/download
     image:
