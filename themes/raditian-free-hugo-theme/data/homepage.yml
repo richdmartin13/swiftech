@@ -97,11 +97,11 @@ pricing:
     personal recommendations, priority support, routine checkups and more, ask about
     our Tech Management Program.
   button:
-    icon: icon-smile-fill
+    icon: send
     btnText: Get in Touch
     URL: https://dropbyte.ch/#contact
   button2:
-    icon: icon-profile-fill
+    icon: newspaper
     btnText: See QuickBytes
     URL: https://learn.dropbyte.ch
   items:
