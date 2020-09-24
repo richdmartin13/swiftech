@@ -34,7 +34,7 @@
           {{ .description }}
         </p>
         <a href="{{ .button.URL | absURL }}" class="btn btn-primary"
-          >{{ .button.btnText }}<i class="{{ .button.icon }}"></i
+          >{{ .button.btnText }}<span class="material-icons">{{ .button.icon }}</span
         ></a>
       </div>
       <div class="col-12 col-md-7 pl-md-0 text-right">
@@ -62,10 +62,10 @@
           {{ .description }}
         </p>
         <a href="{{ .button2.URL | absURL }}" class="btn btn-primary"
-        >{{ .button2.btnText }}<i class="{{ .button.icon }}"></i
+        >{{ .button2.btnText }}<span class="material-icons">{{ .button2.icon }}</span
       ></a>
         <a href="{{ .button.URL | absURL }}" class="btn btn-primary"
-          >{{ .button.btnText }}<i class="{{ .button.icon }}"></i
+          >{{ .button.btnText }}<span class="material-icons">{{ .button.icon }}</span
         ></a>
       </div>
       {{ end }}

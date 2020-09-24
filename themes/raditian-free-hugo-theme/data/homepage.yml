@@ -12,11 +12,11 @@ showcase:
   imageMobile:
     x: img/showcase/showcase-mobile.jpg
   button:
-    icon: icon-smile-fill
+    icon: videocam
     btnText: Get Zoom
     URL: https://zoom.us/download
   button2:
-    icon: icon-profile-fill
+    icon: schedule
     btnText: Schedule a Session
     URL: http://meet.dropbyte.ch
   socialLinks:
@@ -52,7 +52,7 @@ client_and_work:
       your stuff. Whether it's a program or a device, we've got you covered. Don't
       see a guide? Contact us and let us know.
     button:
-      icon: icon-arrow-right
+      icon: fact_check
       btnText: See QuickBytes
       URL: https://learn.dropbyte.ch
     image:
@@ -64,11 +64,11 @@ client_and_work:
       and address your problems. Just schedule a meeting with us and you'll be back
       up and running in no time.
     button:
-      icon: videocam
+      icon: schedule
       btnText: Schedule a Session
       URL: http://meet.dropbyte.ch
     button2:
-      icon: icon-arrow-right
+      icon: videocam
       btnText: Get Zoom
       URL: https://zoom.us/download
     image:
@@ -81,8 +81,8 @@ client_and_work:
       recommendations, priority support and more, you can get back to the things you
       care about most - and forget about the things you don't.
     button:
-      icon: icon-arrow-right
-      btnText: Coming Soon
+      icon: outbond
+      btnText: Learn More
       URL: https://dropbyte.ch/#contact
     image:
       x: img/works/subscribe.png
