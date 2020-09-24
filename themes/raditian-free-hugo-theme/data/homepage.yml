@@ -97,7 +97,8 @@ pricing:
     personal recommendations, priority support, routine checkups and more, ask about
     our Tech Management Program.
   button:
-    icon: send
+    icon: mail
+    icon2: arrow-forward
     btnText: Get in Touch
     URL: https://dropbyte.ch/#contact
   button2:
