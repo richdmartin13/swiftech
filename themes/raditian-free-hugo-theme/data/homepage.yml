@@ -76,10 +76,10 @@ client_and_work:
       _2x: img/works/support.png
     is_even: false
   - title: DropByte Premium
-    description: Available as a monthly subscription, our DropByte Premium program
-      puts your tech in the background. With benefits like device setup, personal
-      recommendations, our client portal and more, you can get back to the things
-      you care about most - and forget about the things you don't.
+    description: Available as a monthly subscription, DropByte Premium puts your tech
+      in the background. With benefits like device setup, personal recommendations,
+      our client portal and more, you can get back to the things you care about most
+      - and forget about the things you don't.
     button:
       icon: reader
       btnText: Learn More
