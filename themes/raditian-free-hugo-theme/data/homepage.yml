@@ -75,11 +75,11 @@ client_and_work:
       x: img/works/support.png
       _2x: img/works/support.png
     is_even: false
-  - title: Tech Management
-    description: Available as a monthly subscription, our Tech Management program
+  - title: DropByte Premium
+    description: Available as a monthly subscription, our DropByte Premium program
       puts your tech in the background. With benefits like device setup, personal
-      recommendations, priority support and more, you can get back to the things you
-      care about most - and forget about the things you don't.
+      recommendations, our client portal and more, you can get back to the things
+      you care about most - and forget about the things you don't.
     button:
       icon: reader
       btnText: Learn More
