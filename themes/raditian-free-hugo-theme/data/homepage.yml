@@ -119,6 +119,9 @@ pricing:
     btnText: See QuickBytes
     URL: https://learn.dropbyte.ch
   items:
+  - title: DropByte Hosting & CMS
+    company: "$10 PER MONTH"
+    duration: Get Out There
   - title: Access to QuickBytes
     company: FREE
     duration: Always Free
