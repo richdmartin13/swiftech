@@ -119,15 +119,15 @@ pricing:
     btnText: See QuickBytes
     URL: https://learn.dropbyte.ch
   items:
-  - title: DropByte Hosting & CMS
-    company: "$10 PER MONTH"
-    duration: Get Out There
   - title: Access to QuickBytes
     company: FREE
     duration: Always Free
   - title: Remote Support Sessions
     company: "$30 PER HOUR"
     duration: Pay As You Go
+  - title: DropByte Hosting & CMS
+    company: "$10 PER MONTH"
+    duration: Go Global
   - title: DropByte Premium
     company: "$20 PER MONTH"
     duration: Subscribe Monthly
