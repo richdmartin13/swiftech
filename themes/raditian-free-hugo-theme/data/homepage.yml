@@ -102,8 +102,8 @@ client_and_work:
       btnText: Get in Touch
       URL: https://dropbyte.ch/#contact
     image:
-      x: img/works/subscribe.png
-      _2x: img/works/subscribe.png
+      x: img/works/subscription.png
+      _2x: img/works/subscription.png
     is_even: false
 pricing:
   enable: true
