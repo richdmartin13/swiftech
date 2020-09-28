@@ -100,7 +100,7 @@ client_and_work:
     image:
       x: img/works/subscribe.png
       _2x: img/works/subscribe.png
-    is_even: true
+    is_even: false
 pricing:
   enable: true
   title: Pricing
