@@ -47,19 +47,6 @@ client_and_work:
   enable: true
   clients: 
   works:
-  - title: Website Development & Hosting
-    description: Get a website for personal use or for your business. DropByte uses
-      Hugo, GitHub, Firebase and Forestry to create beautiful websites that will show
-      off your best side. And with Forestry, editing your site yourself is simple
-      - we'll set it up so you can make changes on the fly.
-    button:
-      icon: planet
-      btnText: Learn More
-      URL: "#"
-    image:
-      x: img/works/website.png
-      _2x: img/works/website.png
-    is_even: true
   - title: QuickBytes
     description: QuickBytes are bite-sized tutorials designed to help you learn about
       your stuff. Whether it's a program or a device, we've got you covered. Don't
@@ -88,6 +75,19 @@ client_and_work:
       x: img/works/support.png
       _2x: img/works/support.png
     is_even: false
+  - title: Website Development & Hosting
+    description: Get a website for personal use or for your business. DropByte uses
+      Hugo, GitHub, Firebase and Forestry to create beautiful websites that will show
+      off your best side. And with Forestry, editing your site yourself is simple
+      - we'll set it up so you can make changes on the fly.
+    button:
+      icon: planet
+      btnText: Learn More
+      URL: "#"
+    image:
+      x: img/works/website.png
+      _2x: img/works/website.png
+    is_even: true
   - title: DropByte Premium
     description: Available as a monthly subscription, DropByte Premium puts your tech
       in the background. With benefits like device setup, personal recommendations,
