@@ -6,19 +6,19 @@ URL = "http://learn.dropbyte.ch"
 name = "QuickBytes"
 weight = 4
 [[menu.footer]]
-URL = "#contact"
+URL = "https://dropbyte.ch/#contact"
 name = "Contact"
 weight = 5
 [[menu.footer]]
-URL = "#pricing"
+URL = "https://dropbyte.ch/#pricing"
 name = "Pricing"
 weight = 3
 [[menu.footer]]
-URL = "#portfolio"
+URL = "https://dropbyte.ch/#portfolio"
 name = "Services"
 weight = 2
 [[menu.footer]]
-URL = "#about"
+URL = "https://dropbyte.ch/#about"
 name = "About"
 weight = 1
 [[menu.header]]
@@ -27,20 +27,20 @@ name = "Log In"
 url = "https://client.dropbyte.ch/login"
 weight = "6"
 [[menu.header]]
-URL = "#pricing"
+URL = "https://dropbyte.ch/#pricing"
 name = "Pricing"
 url = ""
 weight = 3
 [[menu.header]]
-URL = "#contact"
+URL = "https://dropbyte.ch/#contact"
 name = "Contact"
 weight = 4
 [[menu.header]]
-URL = "#portfolio"
+URL = "https://dropbyte.ch/#portfolio"
 name = "Services"
 weight = 2
 [[menu.header]]
-URL = "#about"
+URL = "https://dropbyte.ch/#about"
 name = "About"
 weight = 1
 [params]
