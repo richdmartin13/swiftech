@@ -1,8 +1,11 @@
 ---
-title: "DropByte Referral Program"
-date: 2020-09-29T13:46:07-04:00
-draft: false
+title: DropByte Referral Program
+date: 2020-09-29T13:46:07.000-04:00
 layout: branded-form
----
 
-#### If you have referred a customer
+---
+\#### Refer a Friend
+
+With DropByte's referral program, you can refer a friend and get a free session with us. Once your friend schedules a session with us, we'll send you a confirmation email for your free session.
+
+`Don’t worry - we won’t email them until after they’ve gotten in touch with us.`
