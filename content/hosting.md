@@ -9,7 +9,9 @@ layout: more
 
 #### How Our Web Platform Works
 DropByte uses Hugo, Forestry, Firebase and Github  
+
 `Here's the breakdown:`
+
 * Hugo is a static site generator. Much like wordpress or other sites, it uses highly customizable themes. The DropByte website is a perfect example of all that a Hugo site can do. If you'd like to learn more about Hugo, check it out [here](https://gohugo.io).
 * Forestry is a content management system for Hugo sites[^1]. We'll set it up for you and provide you with a password that you an use with your email address. From there, you can quickly edit the content of your website, but any larger changes (ie. images, formatting, and organization) will still have to be made by us. Find out more at their [website](https://forestry.io).
 * Firebase is where your website is hosted. By default, your website will have a web address like [your-name-here].web.app, but we can set up your domain address for you, if you have one. If you don't, we'll help you get one if you like.
