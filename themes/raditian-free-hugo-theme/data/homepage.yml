@@ -112,12 +112,13 @@ pricing:
     help in a pinch. If you'd rather us help, you can schedule time with us and we'll
     assist you remotely, on your time. And if you're looking for something more, including
     personal recommendations, access to our client portal, routine checkups and more,
-    ask about DropByte Premium.
+    ask about DropByte Premium. And now, you can refer a friend and get free remote
+    sessions when they schedule their first session with us.
   button:
-    icon: mail
+    icon: person-add
     icon2: arrow-forward
-    btnText: Get in Touch
-    URL: https://dropbyte.ch/#contact
+    btnText: Refer a Friend
+    URL: https://client.dropbyte.ch/refer
   button2:
     icon: newspaper
     btnText: See QuickBytes
