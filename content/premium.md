@@ -36,7 +36,7 @@ With DropByte Premium, you'll get plenty of benefits that help you get the most 
 * DropByte Premium subscribers can add up to 5 family members to an account for an extra $5 per user, per month.
 * If you are a business, please [contact us](https://dropbyte.ch/#contact) for other options.
 
-[^1]: `Note: Monthly checkups are for informational purposes only. You will still have to schedule time with us if you would like any issues to be resolved.`
+[^1]: `Note: Monthly checkups are for informational purposes only and are limited to 30 minutes. You will still have to schedule time with us if you would like any issues to be resolved.`
 
 
 
