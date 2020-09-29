@@ -118,7 +118,7 @@ pricing:
     icon: person-add
     icon2: arrow-forward
     btnText: Refer a Friend
-    URL: https://client.dropbyte.ch/refer
+    URL: https://dropbyte.ch/refer
   button2:
     icon: newspaper
     btnText: See QuickBytes
