@@ -1,0 +1,23 @@
+{{ if .Site.Data.article.premium.enable }}
+<section class="section rad-animation-group pb-0" id="about">
+  <div class="container rad-fade-down">
+    <div class="row d-flex flex-column-reverse flex-md-row">
+      <div class="about__profile-picture col-12 col-md-6">
+        <img
+          class="lozad img-responsive image-left-overflow"
+          src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+          data-src="{{ .Site.Data.article.main.image.x | absURL }}"
+          data-srcset="{{ .Site.Data.article.main.image.x | absURL }} 1x, {{ .Site.Data.article.main.image._2x | absURL }} 2x"
+          alt=""
+        />
+      </div>
+      <div class="col-12 col-md-6 my-auto my-auto">
+        <h2>{{ .Title }}</h2>
+        <p class="lead">
+          {{ .Content | safeHTML }}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

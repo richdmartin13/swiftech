@@ -83,7 +83,7 @@ client_and_work:
     button:
       icon: planet
       btnText: Learn More
-      URL: "#"
+      URL: https://dropbyte.ch/hosting/
     image:
       x: img/works/web.png
       _2x: img/works/web.png
@@ -96,7 +96,7 @@ client_and_work:
     button:
       icon: reader
       btnText: Learn More
-      URL: https://learn.dropbyte.ch/dropbyte/dropbyte-tech-management/
+      URL: https://dropbyte.ch/premium/
     button2:
       icon: mail
       btnText: Get in Touch
@@ -136,7 +136,7 @@ pricing:
     company: "$20 PER MONTH"
     duration: Subscribe Monthly
 testimonial:
-  enable: false
+  enable: true
   title: Testimonials
   items:
   - name: Daniel Jordan

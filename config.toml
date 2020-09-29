@@ -45,7 +45,8 @@ name = "About"
 weight = 1
 [params]
 googleTagManagerID = "GTM-000000"
-sections = ["showcase", "about", "client-and-work", "pricing", "testimonial", "contact", "newsletter"]
+homepage = ["showcase", "about", "client-and-work", "pricing", "contact", "newsletter"]
+article = ["article"]
 [params.footer]
 copyright = "© DropByte and "
 [params.footer.radity_logo]
@@ -67,3 +68,21 @@ URL = "js/rad-animations.js"
 URL = "js/sticky-header.js"
 [[params.plugins.js]]
 URL = "js/library/fontfaceobserver.js"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xhtml = false

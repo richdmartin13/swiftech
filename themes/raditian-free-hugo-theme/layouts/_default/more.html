@@ -14,7 +14,7 @@
 
 	{{ partial "header.html" . }}
 
-	{{ range .Site.Params.homepage }}
+	{{ range .Site.Params.article }}
 	{{ partial . $ }}
 	{{ end }}
 
