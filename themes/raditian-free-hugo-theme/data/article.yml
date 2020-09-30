@@ -4,8 +4,8 @@ main:
   title: ""
   content: ""
   image: 
-    x: img/article/question.png
-    _2x: img/article/question.png
+    x: img/article/article.png
+    _2x: img/article/article.png
 premium:
   enable: true
 hosting:
