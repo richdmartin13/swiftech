@@ -5,4 +5,5 @@ draft: false
 layout: branded-form
 ---
 
-#### If you have referred a customer
+#### Refer a Friend
+With DropByte's referral program, you can refer a friend and get a free session with us. Once your friend schedules a session with us, we'll send you a confirmation email for your free session. 
