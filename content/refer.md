@@ -8,9 +8,5 @@ layout: branded-form
 
 With DropByte's referral program, you can refer a friend and get a free session with us. Once your friend schedules a session with us, we'll send you a confirmation email for your free session.
 
-<<<<<<< HEAD
 #### Refer a Friend
 With DropByte's referral program, you can refer a friend and get a free session with us. Once your friend schedules a session with us, we'll send you a confirmation email for your free session. 
-=======
-`Don’t worry - we’ll only email them to follow up on your referral.`
->>>>>>> a57b7d3f6647306eca28cded7d5999eef5070675
