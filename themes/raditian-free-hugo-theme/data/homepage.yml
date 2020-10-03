@@ -76,8 +76,10 @@ client_and_work:
       _2x: img/works/support.png
     is_even: false
   - title: Website Development & Hosting
-    description: Get a website for personal use or for your business. We use low-cost services, 
-    so you pay less too. Whether you want to make a blog or an e-commerce site, we've got you covered.
+    description: Get a website for personal use or for your business. DropByte uses
+      Hugo, GitHub, Firebase and Forestry to create beautiful websites that will show
+      off your best side. And with Forestry, editing your site yourself is simple
+      - we'll set it up so you can make changes on the fly.
     button:
       icon: planet
       btnText: Learn More
@@ -129,7 +131,7 @@ pricing:
     company: "$30 PER HOUR"
     duration: Pay As You Go
   - title: DropByte Hosting & CMS
-    company: "$6 PER MONTH"
+    company: "$10 PER MONTH"
     duration: Go Global
   - title: DropByte Premium
     company: "$20 PER MONTH"
