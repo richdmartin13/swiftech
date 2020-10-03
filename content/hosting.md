@@ -37,5 +37,5 @@ into your website. Find out more at [SnipCart](https://snipcart.com).
 * E-Commerce sites pay hosting & CMS services + vendor fees[^2]
 * Domain registration fees and any other applicable fees will be billed to you.
 
-[^1]: `Currently, we only support Hugo sites with Forestry. We can host any website that you may have code for, but we will not be able to provide content management services.`  
+[^1]: `Currently, we only support Hugo sites with Forestry. We can host any website that you may have code for, but we will not be able to provide content management services.`
 [^2]: `Square's charges are 2.9% + 30¢ per transaction, and SnipCart's charges are 2% per transaction. This brings the total charge to 4.9% + 30¢ per transaction, as of the writing of this article. DropByte is not responsible for changes in prices from our vendors.`
