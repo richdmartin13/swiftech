@@ -76,10 +76,8 @@ client_and_work:
       _2x: img/works/support.png
     is_even: false
   - title: Website Development & Hosting
-    description: Get a website for personal use or for your business. DropByte uses
-      Hugo, GitHub, Firebase and Forestry to create beautiful websites that will show
-      off your best side. And with Forestry, editing your site yourself is simple
-      - we'll set it up so you can make changes on the fly.
+    description: Let us help you create your own space on the web for whatever's next.
+      Bring your own website and host it with us, or we'll build one with powerful features.
     button:
       icon: planet
       btnText: Learn More
