@@ -26,7 +26,7 @@ DropByte uses Hugo and Github for development, Forestry for content management, 
 * Square is a payment processing platform which allows for invoicing, online payments, e-commerce and more. To learn more about how Square works,
 check out their [website](https://squareup.com).
 * SnipCart is an interface for services like Square. Instead of having to use their payment flow, SnipCart allows you to seamlessly integrate payments
-into your website.
+into your website. Find out more at [SnipCart](https://snipcart.com).
 
 ***
 
