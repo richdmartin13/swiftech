@@ -20,6 +20,8 @@ showcase:
     btnText: Schedule a Session
     URL: http://meet.dropbyte.ch/60min
   socialLinks:
+  - icon: instagram
+    URL: https://www.instagram.com/dropbyte.ch/
   - icon: github
     URL: https://github.com/DropByte
   - icon: twitter
@@ -77,7 +79,8 @@ client_and_work:
     is_even: false
   - title: Website Development & Hosting
     description: Let us help you create your own space on the web for whatever's next.
-      Bring your own website and host it with us, or we'll build one with powerful features.
+      Bring your own website and host it with us, or we'll build one with powerful
+      features.
     button:
       icon: planet
       btnText: Learn More
