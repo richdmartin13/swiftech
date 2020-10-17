@@ -12,18 +12,16 @@ showcase:
   imageMobile:
     x: img/showcase/showcase-mobile.jpg
   button:
-    icon: videocam
-    btnText: Get Zoom
-    URL: https://zoom.us/download
-  button2:
     icon: calendar
     btnText: Schedule a Session
     URL: http://meet.dropbyte.ch/60min
+  button2:
+    icon: videocam
+    btnText: Get Zoom
+    URL: https://zoom.us/download
   socialLinks:
   - icon: instagram
     URL: https://www.instagram.com/dropbyte.ch/
-  - icon: github
-    URL: https://github.com/DropByte
   - icon: twitter
     URL: https://twitter.com/DropByteTech
 about:
@@ -61,19 +59,20 @@ client_and_work:
     image:
       x: img/works/learn.png
       _2x: img/works/learn.png
+    has_search: false
     is_even: true
   - title: Remote Support
     description: We leverage Zoom Video Conferencing to meet with you face-to-face
       and address your problems. Just schedule a meeting with us and you'll be back
       up and running in no time.
     button:
-      icon: calendar
-      btnText: Schedule a Session
-      URL: http://meet.dropbyte.ch/60min
-    button2:
       icon: videocam
       btnText: Get Zoom
       URL: https://zoom.us/download
+    button2:
+      icon: calendar
+      btnText: Schedule a Session
+      URL: http://meet.dropbyte.ch/60min
     image:
       x: img/works/support.png
       _2x: img/works/support.png
