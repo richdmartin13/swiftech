@@ -95,13 +95,13 @@ client_and_work:
       our client portal and more, you can get back to the things you care about most
       - and forget about the things you don't.
     button:
-      icon: reader
-      btnText: Learn More
-      URL: https://dropbyte.ch/premium/
-    button2:
       icon: mail
       btnText: Get in Touch
       URL: https://dropbyte.ch/#contact
+    button2:
+      icon: reader
+      btnText: Learn More
+      URL: https://dropbyte.ch/premium/
     image:
       x: img/works/subscription.png
       _2x: img/works/subscription.png
