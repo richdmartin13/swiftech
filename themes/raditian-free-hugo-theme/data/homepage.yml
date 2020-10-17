@@ -29,14 +29,15 @@ showcase:
 about:
   enable: true
   title: Who are We?
-  content: '<p class="lead"> DropByte was founded in July 2020, with one goal in mind:
-    to help people learn how to use their tech - and do it better. </p> <p class="lead">
-    We''re a tech support company that''s different from any you''ve seen before.
-    We do all of our work via Zoom video chat, so we are always a call away. If you
-    have a problem that requires on-site work, we''ll work with our partners at TwoTone
-    to send a professional to your home. And unlike other tech support companies,
-    we''re not looking for the quick fix that''ll have you calling back next week
-    - we find real solutions, just for you. </p>'
+  content: "<p class=\"lead\"> DropByte is a project by Richard Martin that was started
+    in July 2020, with one goal in mind: to help people learn how to use their tech,
+    and do it better.</p> \n<p class=\"lead\"> At present, DropByte is a team of one.
+    Nonetheless, our goal is different than anything you've seen before. All of our
+    work is done via Zoom video chat, so we are always a call away. If you have a
+    problem, we'll work with our partners at TwoTone to send a professional to your
+    home. And unlike other tech support companies, we''re not looking for the quick
+    fix that''ll have you calling back next week - we find real solutions, just for
+    you.</p>"
   button:
     icon: icon-smile-fill
     btnText: Learn More
