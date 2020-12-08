@@ -1,0 +1,9 @@
+---
+referral:
+  enable: true
+  title: ""
+  content: ""
+  image: 
+    x: img/refer/referral.png
+    _2x: img/refer/referral.png
+---

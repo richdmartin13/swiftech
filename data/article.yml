@@ -1,0 +1,13 @@
+---
+main: 
+  enable: true
+  title: ""
+  content: ""
+  image: 
+    x: img/article/article.png
+    _2x: img/article/article.png
+premium:
+  enable: true
+hosting:
+  enable: true
+---
