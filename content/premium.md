@@ -1,12 +1,12 @@
 ---
-title: "DropByte Premium"
+title: DropByte Premium
 date: 2020-09-28T23:20:17-04:00
 draft: false
 layout: more
-subtitle: img/works/learn.png
+subtitle: img/works/learn.svg
 ---
+***
 
----
 #### What You'll Get Out of Premium
 With DropByte Premium, you'll get plenty of benefits that help you get the most out of your tech. We have four tiers available: 
 
@@ -59,8 +59,8 @@ In addition to exclusive access to our client portal, prorated billing, discount
 * 5 Free Monthly Checkups
 * 3 Free Remote Sessions
 * 9 Additional Members (10 Total)
-  
----  
+
+---
 
 #### DropByte Premium Pricing
 * DropByte Premium is billed to you at the applicable tiered rate monthly on a recurring basis until cancelled. 
