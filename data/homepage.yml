@@ -41,8 +41,8 @@ about:
     btnText: Learn More
     URL: "#contact"
   image:
-    x: img/who-am-i/user-pic.png
-    _2x: img/who-am-i/user-pic@2x.png
+    x: img/who-am-i/team.svg
+    _2x: img/who-am-i/team.svg
 client_and_work:
   title: Our Services
   enable: true
@@ -57,8 +57,8 @@ client_and_work:
       btnText: See QuickBytes
       URL: https://learn.dropbyte.ch
     image:
-      x: img/works/learn.png
-      _2x: img/works/learn.png
+      x: img/works/learn.svg
+      _2x: img/works/learn.svg
     has_search: false
     is_even: true
   - title: Remote Support
@@ -74,8 +74,8 @@ client_and_work:
       btnText: Schedule a Session
       URL: http://meet.dropbyte.ch/60min
     image:
-      x: img/works/support.png
-      _2x: img/works/support.png
+      x: img/works/support.svg
+      _2x: img/works/support.svg
     is_even: false
   - title: Website Development & Hosting
     description: Let us help you create your own space on the web for whatever's next.
@@ -86,8 +86,8 @@ client_and_work:
       btnText: Learn More
       URL: https://dropbyte.ch/hosting/
     image:
-      x: img/works/web.png
-      _2x: img/works/web.png
+      x: img/works/hosting.svg
+      _2x: img/works/hosting.svg
     is_even: true
   - title: DropByte Premium
     description: Available as a monthly subscription, DropByte Premium puts your tech
@@ -103,8 +103,8 @@ client_and_work:
       btnText: Learn More
       URL: https://dropbyte.ch/premium/
     image:
-      x: img/works/subscription.png
-      _2x: img/works/subscription.png
+      x: img/works/subscribe.svg
+      _2x: img/works/subscribe.svg
     is_even: false
 pricing:
   enable: true
