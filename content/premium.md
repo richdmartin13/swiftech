@@ -21,7 +21,7 @@ With DropByte Premium, you'll get plenty of benefits that help you get the most 
 
 ##### All Plans include:
 
-##### Onboarding Session
+###### Onboarding Session
 Once enrolled in one of our premium subscriptions, we will arrange a one-time onboarding meeting with you for one hour. Our primary goal during this meeting will be to understand your needs and get to know you better. This meeting will be provided at no cost to you 
 
 ###### Access to DropByte's Client Portal, where you can:
