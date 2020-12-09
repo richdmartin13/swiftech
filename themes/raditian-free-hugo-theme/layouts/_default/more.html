@@ -14,9 +14,11 @@
 
 	{{ partial "header.html" . }}
 
-	{{ range .Site.Params.article }}
-	{{ partial . $ }}
-	{{ end }}
+	<div class="flex-1-col">
+		{{ range .Site.Params.article }}
+		{{ partial . $ }}
+		{{ end }}
+	</div>
 
 	{{ partial "footer.html" . }}
     {{ partial "base-foot.html" . }}

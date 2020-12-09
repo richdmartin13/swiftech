@@ -77,35 +77,35 @@ client_and_work:
       x: img/works/support.svg
       _2x: img/works/support.svg
     is_even: false
-  - title: Website Development & Hosting
-    description: Let us help you create your own space on the web for whatever's next.
-      Bring your own website and host it with us, or we'll build one with powerful
-      features.
-    button:
-      icon: planet
-      btnText: Learn More
-      URL: https://dropbyte.ch/hosting/
-    image:
-      x: img/works/hosting.svg
-      _2x: img/works/hosting.svg
-    is_even: true
+  # - title: Website Development & Hosting
+  #   description: Let us help you create your own space on the web for whatever's next.
+  #     Bring your own website and host it with us, or we'll build one with powerful
+  #     features.
+  #   button:
+  #     icon: planet
+  #     btnText: Learn More
+  #     URL: https://dropbyte.ch/hosting/
+  #   image:
+  #     x: img/works/hosting.svg
+  #     _2x: img/works/hosting.svg
+  #   is_even: true
   - title: DropByte Premium
     description: Available as a monthly subscription, DropByte Premium puts your tech
       in the background. With benefits like device setup, personal recommendations,
       our client portal and more, you can get back to the things you care about most
       - and forget about the things you don't.
+    # button:
+    #   icon: mail
+    #   btnText: Get in Touch
+    #   URL: https://dropbyte.ch/#contact
     button:
-      icon: mail
-      btnText: Get in Touch
-      URL: https://dropbyte.ch/#contact
-    button2:
       icon: reader
       btnText: Learn More
       URL: https://dropbyte.ch/premium/
     image:
       x: img/works/subscribe.svg
       _2x: img/works/subscribe.svg
-    is_even: false
+    is_even: true
 pricing:
   enable: true
   title: Pricing
@@ -116,14 +116,14 @@ pricing:
     ask about DropByte Premium. And now, you can refer a friend and get free remote
     sessions when they schedule their first session with us.
   button:
-    icon: person-add
+    icon: card
     icon2: arrow-forward
+    btnText: View Pricing
+    URL: https://dropbyte.ch/pricing
+  button2:
+    icon: person-add
     btnText: Refer a Friend
     URL: https://dropbyte.ch/refer
-  button2:
-    icon: newspaper
-    btnText: See QuickBytes
-    URL: https://learn.dropbyte.ch
   items:
   - title: Access to QuickBytes
     company: FREE
@@ -131,14 +131,14 @@ pricing:
   - title: Remote Support Sessions
     company: "$30 PER HOUR"
     duration: Pay As You Go
-  - title: DropByte Hosting & CMS
-    company: "$10 PER MONTH + APPLICABLE FEES"
-    duration: We'll help, or bring yours
+  # - title: DropByte Hosting & CMS
+  #   company: "$10 PER MONTH + APPLICABLE FEES"
+  #   duration: We'll help, or bring yours
   - title: DropByte Premium
-    company: "$20 PER MONTH"
+    company: "STARTING AT $10 PER MONTH"
     duration: Subscribe Monthly
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   items:
   - name: Daniel Jordan
