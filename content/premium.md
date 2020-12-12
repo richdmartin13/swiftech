@@ -62,6 +62,7 @@ In addition to exclusive access to our client portal, prorated billing, discount
 * 2 Free Monthly Checkups
 * 1 Free Remote Session
 * 1 Additional Free Member (2 Total)
+* Quick On-Call Sessions
 
 **Enterprise**
 
@@ -69,6 +70,7 @@ In addition to exclusive access to our client portal, prorated billing, discount
 * 3 Free Remote Sessions
 * 9 Additional Free Members (10 Total)
 * Unlimited Members
+* Quick On-Call Sessions
 
 ***
 

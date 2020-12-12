@@ -10,17 +10,18 @@ URL = "https://dropbyte.ch/#contact"
 name = "Contact"
 weight = 5
 [[menu.footer]]
-URL = "https://dropbyte.ch/#pricing"
+URL = "/pricing"
 name = "Pricing"
 weight = 3
 [[menu.footer]]
-URL = "https://dropbyte.ch/#portfolio"
+URL = "/services"
 name = "Services"
 weight = 2
 [[menu.footer]]
-URL = "https://dropbyte.ch/#about"
+URL = "/about"
 name = "About"
 weight = 1
+
 [[menu.header]]
 URL = "https://client.dropbyte.ch/login"
 name = "Log In"
@@ -29,25 +30,32 @@ weight = "6"
 [[menu.header]]
 URL = "https://dropbyte.ch/#pricing"
 name = "Pricing"
-url = ""
+url = "/pricing"
 weight = 3
+# [[menu.header]]
+# URL = "https://dropbyte.ch/#contact"
+# name = "Contact"
+# weight = 4
+# [[menu.header]]
+# URL = "/services"
+# name = "Services"
+# weight = 2
+# [[menu.header]]
+# parent = "Services"
+# name = "QuickBytes"
+# URL = "https://learn.dropbyte.ch"
+# weight = 1
 [[menu.header]]
-URL = "https://dropbyte.ch/#contact"
-name = "Contact"
-weight = 4
-[[menu.header]]
-URL = "https://dropbyte.ch/#portfolio"
-name = "Services"
-weight = 2
-[[menu.header]]
-URL = "https://dropbyte.ch/#about"
+URL = "/about"
 name = "About"
 weight = 1
 [params]
 googleTagManagerID = "GTM-000000"
-homepage = ["showcase", "about", "client-and-work", "pricing", "contact", "newsletter"]
+homepage = ["showcase", "client-and-work", "pricing", "leads", "contact"]
 article = ["article"]
 form = ["form"]
+about = ["about", "testimonial"]
+services = ["client-and-work", "pricing", "leads"]
 [params.footer]
 copyright = "© DropByte and "
 [params.footer.radity_logo]

@@ -37,3 +37,24 @@ ion-icon {
 table {
   width: 100%;
 }
+
+.btn-leads {
+  margin: 10px;
+  margin-top: 20px;
+}
+
+.card-noborder {
+  padding: 20px;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-end;
+  align-items: space-between;
+}
+
+.lead-img {
+  max-height: 160px;
+}
+
+.testimonial__author-info span {
+  color: #50cc98;
+}

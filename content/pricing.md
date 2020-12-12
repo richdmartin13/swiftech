@@ -8,6 +8,8 @@ subtitle: img/works/learn.svg
 ---
 ***
 
+`Please Note: We are currently working on updating this page.`
+
 ### QuickBytes
 QuickBytes are our free, snack-sized lessons on technology, made just for you. At this time, they are freely available; however, it is possible that they are placed under DropByte Premium benefits.
 

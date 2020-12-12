@@ -25,7 +25,7 @@ showcase:
   - icon: twitter
     URL: https://twitter.com/DropByteTech
 about:
-  enable: true
+  enable: false
   title: Who are We?
   content: "<p class=\"lead\"> DropByte is a project by Richard Martin that was started
     in July 2020, with one goal in mind: to help people learn how to use their tech,
@@ -45,7 +45,7 @@ about:
     _2x: img/who-am-i/team.svg
 client_and_work:
   title: Our Services
-  enable: true
+  enable: false
   clients: 
   works:
   - title: QuickBytes
@@ -84,7 +84,7 @@ client_and_work:
   #   button:
   #     icon: planet
   #     btnText: Learn More
-  #     URL: https://dropbyte.ch/hosting/
+  #     URL: /hosting/
   #   image:
   #     x: img/works/hosting.svg
   #     _2x: img/works/hosting.svg
@@ -101,7 +101,7 @@ client_and_work:
     button:
       icon: reader
       btnText: Learn More
-      URL: https://dropbyte.ch/premium/
+      URL: /premium
     image:
       x: img/works/subscribe.svg
       _2x: img/works/subscribe.svg
@@ -111,7 +111,7 @@ pricing:
   title: Pricing
   description: Need help fast? Try our QuickBytes - they're free tutorials that can
     help in a pinch. If you'd rather us help, you can schedule time with us and we'll
-    assist you remotely, on your time. And if you're looking for something more, including
+    assist you, on your time. And if you're looking for something more, including
     personal recommendations, access to our client portal, routine checkups and more,
     ask about DropByte Premium. And now, you can refer a friend and get free remote
     sessions when they schedule their first session with us.
@@ -119,17 +119,20 @@ pricing:
     icon: card
     icon2: arrow-forward
     btnText: View Pricing
-    URL: https://dropbyte.ch/pricing
+    URL: /pricing
   button2:
     icon: person-add
     btnText: Refer a Friend
-    URL: https://dropbyte.ch/refer
+    URL: /refer
   items:
   - title: Access to QuickBytes
     company: FREE
     duration: Always Free
   - title: Remote Support Sessions
     company: "$30 PER HOUR"
+    duration: Pay As You Go
+  - title: On-Site Meetings
+    company: "$50 PER HOUR"
     duration: Pay As You Go
   # - title: DropByte Hosting & CMS
   #   company: "$10 PER MONTH + APPLICABLE FEES"
@@ -138,7 +141,7 @@ pricing:
     company: "STARTING AT $10 PER MONTH"
     duration: Subscribe Monthly
 testimonial:
-  enable: false
+  enable: true
   title: Testimonials
   items:
   - name: Daniel Jordan
@@ -193,3 +196,32 @@ newsletter:
   success_message: Successfully subscribed
   error_message: Our Newsletter isn't set up yet. Please check later.
   note: We'll never share your email with anyone else.
+leads: 
+  enable: true
+  title: Get Started
+  items:
+  - url: https://learn.dropbyte.ch
+    icon: newspaper
+    content: QuickBytes
+    image:
+      x: img/works/learn.svg
+      _2x: img/works/learn.svg
+  - url: https://dropbyte.hbportal.co/schedule/5f6144be79cb801c01a1bf7d
+    icon: videocam
+    content: Remote Session
+    image:
+      x: img/works/support.svg
+      _2x: img/works/support.svg
+  - url: https://dropbyte.hbportal.co/schedule/5fcfc167fb7bbf0783a2661f
+    icon: business
+    content: On-Site Meeting
+    image:
+      x: img/works/in-person.svg
+      _2x: img/works/in-person.svg
+  - url: https://dropbyte.hbportal.co/schedule/5fcfc255bd4ffb2598f7beea
+    icon: document-text
+    content: Free Consultation
+    image:
+      x: img/works/consultation.svg
+      _2x: img/works/consultation.svg
+
