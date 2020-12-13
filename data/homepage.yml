@@ -89,89 +89,67 @@ client_and_work:
   #     x: img/works/hosting.svg
   #     _2x: img/works/hosting.svg
   #   is_even: true
-  - title: DropByte Premium
-    description: Available as a monthly subscription, DropByte Premium puts your tech
-      in the background. With benefits like device setup, personal recommendations,
-      our client portal and more, you can get back to the things you care about most
-      - and forget about the things you don't.
-    # button:
-    #   icon: mail
-    #   btnText: Get in Touch
-    #   URL: https://dropbyte.ch/#contact
-    button:
-      icon: reader
-      btnText: Learn More
-      URL: /premium
-    image:
-      x: img/works/subscribe.svg
-      _2x: img/works/subscribe.svg
-    is_even: true
-pricing:
-  enable: true
-  title: Pricing
-  description: Need help fast? Try our QuickBytes - they're free tutorials that can
-    help in a pinch. If you'd rather us help, you can schedule time with us and we'll
-    assist you, on your time. And if you're looking for something more, including
-    personal recommendations, access to our client portal, routine checkups and more,
-    ask about DropByte Premium. And now, you can refer a friend and get free remote
-    sessions when they schedule their first session with us.
-  button:
-    icon: card
-    icon2: arrow-forward
-    btnText: View Pricing
-    URL: /pricing
-  button2:
-    icon: person-add
-    btnText: Refer a Friend
-    URL: /refer
-  items:
-  - title: Access to QuickBytes
-    company: FREE
-    duration: Always Free
-  - title: Remote Support Sessions
-    company: "$30 PER HOUR"
-    duration: Pay As You Go
-  - title: On-Site Meetings
-    company: "$50 PER HOUR"
-    duration: Pay As You Go
-  # - title: DropByte Hosting & CMS
-  #   company: "$10 PER MONTH + APPLICABLE FEES"
-  #   duration: We'll help, or bring yours
-  - title: DropByte Premium
-    company: "STARTING AT $10 PER MONTH"
-    duration: Subscribe Monthly
-testimonial:
-  enable: true
-  title: Testimonials
-  items:
-  - name: Daniel Jordan
-    position: Phonet, CEO
-    content: Cold calling can be a great way to generate quality leads. You get to
-      speak to the gatekeepers and stakeholders, and you get a great insight into
-      their requirements and influences. But cold calling is an art-form. It can be
-      daunting, it’s always a lot of work, and you always need to make a good impression.
-    image:
-      x: img/testimonials/daniel-jordan.jpg
-      _2x: img/testimonials/daniel-jordan@2x.jpg
-  - name: Jonathan Peters
-    position: Textic, CEO
-    content: Whether you or your loved one is encountering the natural decrease in
-      mobility that occurs with the passing of time, or deals with an illness-related
-      lack of physical agility, a stair lift can be the ideal way to put you in charge
-      of your home again. Regardless of the shape or make of your living accommodation.
-    image:
-      x: img/testimonials/jonathan-peters.jpg
-      _2x: img/testimonials/jonathan-peters@2x.jpg
-  - name: Antonio Willis
-    position: Cyberse, CEO
-    content: In this digital generation where information can be easily obtained within
-      seconds, business cards still have retained their importance in the achievement
-      of increased business exposure and business sales. If your business already
-      has a bunch of printed cards distributed to a number of potential customers
-      and yet.
-    image:
-      x: img/testimonials/antonio-willis.jpg
-      _2x: img/testimonials/antonio-willis@2x.jpg
+  # - title: DropByte Premium
+  #   description: Available as a monthly subscription, DropByte Premium puts your tech
+  #     in the background. With benefits like device setup, personal recommendations,
+  #     our client portal and more, you can get back to the things you care about most
+  #     - and forget about the things you don't.
+  #   # button:
+  #   #   icon: mail
+  #   #   btnText: Get in Touch
+  #   #   URL: https://dropbyte.ch/#contact
+  #   button:
+  #     icon: reader
+  #     btnText: Learn More
+  #     URL: /enterprise
+  #   image:
+  #     x: img/works/subscribe.svg
+  #     _2x: img/works/subscribe.svg
+  #   is_even: true
+# pricing:
+#   enable: false
+#   title: Pricing
+#   description: Need help fast? Try our QuickBytes - they're free tutorials that can
+#     help in a pinch. If you'd rather us help, you can schedule time with us and we'll
+#     assist you, on your time. And if you're looking for something more, including
+#     personal recommendations, access to our client portal, routine checkups and more,
+#     ask about DropByte Premium. And now, you can refer a friend and get free remote
+#     sessions when they schedule their first session with us.
+#   button:
+#     icon: card
+#     icon2: arrow-forward
+#     btnText: View Pricing
+#     URL: /pricing
+#   button2:
+#     icon: person-add
+#     btnText: Refer a Friend
+#     URL: /refer
+#   items:
+#   - title: Access to QuickBytes
+#     company: FREE
+#     duration: Always Free
+#   - title: Remote Support Sessions
+#     company: "$30 PER HOUR"
+#     duration: Pay As You Go
+#   - title: On-Site Meetings
+#     company: "$50 PER HOUR"
+#     duration: Pay As You Go
+#   - title: DropByte Premium
+#     company: "STARTING AT $10 PER MONTH"
+#     duration: Subscribe Monthly
+# testimonial:
+#   enable: true
+#   title: Testimonials
+#   items:
+#   - name: Daniel Jordan
+#     position: Phonet, CEO
+#     content: Cold calling can be a great way to generate quality leads. You get to
+#       speak to the gatekeepers and stakeholders, and you get a great insight into
+#       their requirements and influences. But cold calling is an art-form. It can be
+#       daunting, it’s always a lot of work, and you always need to make a good impression.
+#     image:
+#       x: img/testimonials/daniel-jordan.jpg
+#       _2x: img/testimonials/daniel-jordan@2x.jpg
 contact:
   enable: true
   title: Contact
