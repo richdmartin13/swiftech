@@ -27,8 +27,8 @@ name = "Log In"
 url = "https://client.dropbyte.ch/login"
 weight = "6"
 [[menu.header]]
-name = "Pricing"
-url = "/pricing"
+name = "Services"
+url = "/services"
 weight = 3
 # [[menu.header]]
 # URL = "https://dropbyte.ch/#contact"
