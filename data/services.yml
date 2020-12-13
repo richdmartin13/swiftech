@@ -90,10 +90,10 @@ pricing:
     check out DropByte Enterprise. And now, you can refer a friend and get free remote
     sessions when they schedule their first session with us.
   button:
-    icon: card
+    icon: mail
     icon2: arrow-forward
-    btnText: View Pricing
-    URL: /pricing
+    btnText: Contact Us
+    URL: "https://dropbyte.us/#contact"
   button2:
     icon: person-add
     btnText: Refer a Friend

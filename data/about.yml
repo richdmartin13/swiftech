@@ -3,7 +3,7 @@ about:
   enable: true
   title: Who are We?
   content: "<p class=\"lead\"> DropByte is a project by Richard Martin that was started
-    in July 2020, with one goal in mind: to help people learn how to use their tech,
+    in July 2020 in Knoxville, TN, with one goal in mind: to help people learn how to use their tech,
     and do it better.</p> \n<p class=\"lead\"> Our goal at DropByte is different than anything 
     you've seen before. While we do on-site visits, we do most of our work via Zoom Video Conferencing,
     so we're always a call away. 
@@ -23,7 +23,7 @@ client_and_work:
   clients: 
   works:
   - title: QuickBytes
-    description: QuickBytes are bite-sized tutorials designed to help you learn about
+    description: QuickBytes are snack-sized tutorials designed to help you learn about
       your stuff. Whether it's a program or a device, we've got you covered. Don't
       see a guide? Contact us and let us know.
     button:
