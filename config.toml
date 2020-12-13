@@ -52,8 +52,8 @@ googleTagManagerID = "GTM-000000"
 homepage = ["showcase", "client-and-work", "pricing", "leads", "contact"]
 article = ["article"]
 form = ["form"]
-about = ["about", "testimonial"]
-services = ["client-and-work", "enterprise-perks", "pricing", "leads"]
+about = ["about", "testimonial", "contact"]
+services = ["client-and-work", "enterprise-perks", "pricing", "leads", "contact"]
 subscribe = ["enterprise-perks", "leads", "contact" ]
 [params.footer]
 copyright = "© DropByte and "
