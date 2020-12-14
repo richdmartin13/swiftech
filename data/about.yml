@@ -15,8 +15,8 @@ about:
     btnText: Learn More
     URL: "#contact"
   image:
-    x: img/who-am-i/team.svg
-    _2x: img/who-am-i/team.svg
+    x: /img/who-am-i/team.svg
+    _2x: /img/who-am-i/team.svg
 testimonial:
   enable: true
   title: Meet the Team
