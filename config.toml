@@ -4,15 +4,19 @@ theme = "raditian-free-hugo-theme"
 [[menu.footer]]
 URL = "http://learn.dropbyte.ch"
 name = "QuickBytes"
-weight = 4
+weight = 5
 [[menu.footer]]
 URL = "https://dropbyte.ch/#contact"
 name = "Contact"
-weight = 5
+weight = 6
 [[menu.footer]]
-URL = "/pricing"
-name = "Pricing"
+URL = "/premium"
+name = "Premium"
 weight = 3
+[[menu.footer]]
+URL = "/enterprise"
+name = "Enterprise"
+weight = 4
 [[menu.footer]]
 URL = "/services"
 name = "Services"
