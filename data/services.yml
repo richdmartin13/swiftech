@@ -76,7 +76,7 @@ client_and_work:
     button2:
       icon: rocket
       btnText: Join Now
-      URL: https://dropbyte.ch/#contact
+      URL: /subscribe
     image:
       x: img/works/subscribe.svg
       _2x: img/works/subscribe.svg
@@ -92,7 +92,7 @@ client_and_work:
     button2:
       icon: rocket
       btnText: Join Now
-      URL: https://dropbyte.ch/#contact
+      URL: /subscribe
     image:
       x: img/works/business.svg
       _2x: img/works/business.svg
