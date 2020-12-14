@@ -10,12 +10,25 @@ sections:
 - type: heading
   label: PAGES
 - type: document
-  path: themes/raditian-free-hugo-theme/data/homepage.yml
-  label: Home Page
+  path: data/homepage.yml
+  label: Home
 - type: document
   path: data/about.yml
-  label: About Page
+  label: About
+- type: document
+  path: data/services.yml
+  label: Services
   match: "**/*"
+- type: document
+  path: data/premium.yml
+  label: Premium
+  match: "**/*"
+- type: document
+  path: data/enterprise.yml
+  label: Enterprise
+  match: "**/*"
+- type: heading
+  label: CONTENT
 - type: directory
   path: content
   label: Content
