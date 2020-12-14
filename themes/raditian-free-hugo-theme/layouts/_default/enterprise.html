@@ -14,7 +14,7 @@
 
 	{{ partial "header.html" . }}
 
-	{{ range .Site.Params.subscribe }}
+	{{ range .Site.Params.enterprise }}
 	{{ partial . $ }}
 	{{ end }}
 

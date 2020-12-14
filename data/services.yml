@@ -39,8 +39,8 @@ client_and_work:
     is_even: true
   - title: On-Site Meetings
     description: Have an issue that's a little more hands on? No problem.
-      We'll want you to schedule a consultation first, just so we can be ready.
-      Then, schedule any time that works for you, and we'll be out there.
+      If we're in the area, we'll schedule a quick remote consultation, then
+      we'll be out there when it works best for you.
     button:
       icon: newspaper
       btnText: Schedule a Consultation
@@ -65,14 +65,14 @@ client_and_work:
   #     x: img/works/hosting.svg
   #     _2x: img/works/hosting.svg
   #   is_even: true
-  - title: DropByte Enterprise
-    description: Looking for business tech support? DropByte Enterprise brings
-      unique benefits. Enjoy discounts, on-call consultations, systems management
-      and more. Contact us to get a quote that fits your business model.
+  - title: DropByte Premium
+    description: DropByte Premium is built for home and family. With benefits 
+      geared towards saving you time and money, you can finally sit back and 
+      let your tech do the heavy lifting.
     button:
       icon: reader
       btnText: Learn More
-      URL: /subscribe
+      URL: /premium
     button2:
       icon: rocket
       btnText: Join Now
@@ -81,12 +81,29 @@ client_and_work:
       x: img/works/subscribe.svg
       _2x: img/works/subscribe.svg
     is_even: true
+  - title: DropByte Enterprise
+    description: Looking for business tech support? DropByte Enterprise brings
+      unique benefits. Enjoy discounts, on-call consultations, systems management
+      and more. Contact us to get a quote that fits your business model.
+    button:
+      icon: reader
+      btnText: Learn More
+      URL: /enterprise
+    button2:
+      icon: rocket
+      btnText: Join Now
+      URL: https://dropbyte.ch/#contact
+    image:
+      x: img/works/business.svg
+      _2x: img/works/business.svg
+    is_even: false
 pricing:
   enable: true
   title: Pricing
   description: Need help fast? Try our QuickBytes - they're free tutorials that can
     help in a pinch. If you'd rather us help, you can schedule time with us and we'll
-    assist you, on your time. And if you're looking for business tech support,
+    assist you remotely or in person, on your time. If you'd like personal tech support,
+    DropByte Premium will put you at ease. And if you're looking for business tech support,
     check out DropByte Enterprise. And now, you can refer a friend and get free remote
     sessions when they schedule their first session with us.
   button:
@@ -101,16 +118,19 @@ pricing:
   items:
   - title: Access to QuickBytes
     company: FREE
-    duration: Always Free
+    duration: Learn Something
   - title: Remote Support Sessions
     company: "$30 PER HOUR"
-    duration: Pay As You Go
+    duration: For Most Issues
   - title: On-Site Meetings
     company: "$50 PER HOUR"
-    duration: Pay As You Go
+    duration: For the Tough Stuff
+  - title: DropByte Premium
+    company: "$15 PER MONTH"
+    duration: Personal Tech Support
   - title: DropByte Enterprise
     company: "CONTACT US"
-    duration: Subscribe Monthly
+    duration: Better Business Support
 testimonial:
   enable: true
   title: Meet the Team

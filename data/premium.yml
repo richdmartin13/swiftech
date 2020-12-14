@@ -1,0 +1,141 @@
+---
+# about:
+#   enable: false
+#   title: Who are We?
+#   content: "<p class=\"lead\"> DropByte is a project by Richard Martin that was started
+#     in July 2020, with one goal in mind: to help people learn how to use their tech,
+#     and do it better.</p> \n<p class=\"lead\"> Our goal at DropByte is different than anything 
+#     you've seen before. While we do on-site visits, we do most of our work via Zoom Video Conferencing,
+#     so we're always a call away. 
+#     And unlike other tech support companies, we''re not looking for the quick
+#     fix that''ll have you calling back next week - we find real solutions, just for
+#     you.</p>"
+#   button:
+#     icon: icon-smile-fill
+#     btnText: Learn More
+#     URL: "#contact"
+#   image:
+#     x: img/who-am-i/team.svg
+#     _2x: img/who-am-i/team.svg
+subscribe:
+  title: DropByte Premium
+  enable: true
+  clients: 
+  benefits:
+  - title: Enjoy Discounts
+    description: When you enroll in DropByte Premium, you'll also get a 20% discount on all DropByte Services.
+      Plus, remote sessions and on-site meetings are billed quarter-hourly instead of by the hour, so you'll get 
+      more out of your time.
+    image:
+      x: img/subscribe/save.svg
+      _2x: img/subscribe/save.svg
+    is_even: true
+    # button:
+    #   icon: newspaper
+    #   btnText: See QuickBytes
+    #   URL: https://learn.dropbyte.ch
+  - title: Get Answers Faster
+    description: We understand that some issues can't wait. With DropByte Premium, you'll be able
+      to skip the scheduling and get right to us for a quick consultation. After that, we'll schedule a time
+      to solve the problem if it's not a quick fix.
+    image:
+      x: img/subscribe/on-call.svg
+      _2x: img/subscribe/on-call.svg
+    is_even: false
+    # button:
+    #   icon: newspaper
+    #   btnText: See QuickBytes
+    #   URL: https://learn.dropbyte.ch
+  - title: Get to Know Us
+    description: We'll keep tabs on your hardware and software, so you don't have to. Whether you're looking to upgrade
+      your home office, or add smart home appliances to your house, we've got you covered. And if you're looking to
+      improve your home network, we can do that, too.
+    image:
+      x: img/subscribe/personal.svg
+      _2x: img/subscribe/personal.svg
+    is_even: true
+    # button:
+    #   icon: newspaper
+    #   btnText: See QuickBytes
+    #   URL: https://learn.dropbyte.ch
+  - title: Add Your Family, too.
+    description: "DropByte Premium is perfect for the family. When we find a problem that affects
+    your family members too, we'll make sure everyone's taken care of. Take care of everyone in the
+    family when you add them for only $5 per member, per month."
+    image:
+      x: img/subscribe/family.svg
+      _2x: img/subscribe/family.svg
+    is_even: false
+    # button:
+    #   icon: newspaper
+    #   btnText: See QuickBytes
+    #   URL: https://learn.dropbyte.ch
+pricing:
+  enable: false
+  title: Pricing
+  description: Need help fast? Try our QuickBytes - they're free tutorials that can
+    help in a pinch. If you'd rather us help, you can schedule time with us and we'll
+    assist you remotely, on your time. And if you're looking for something more, including
+    personal recommendations, access to our client portal, routine checkups and more,
+    ask about DropByte Premium. And now, you can refer a friend and get free remote
+    sessions when they schedule their first session with us.
+  button:
+    icon: card
+    icon2: arrow-forward
+    btnText: View Pricing
+    URL: https://dropbyte.ch/pricing
+  button2:
+    icon: person-add
+    btnText: Refer a Friend
+    URL: https://dropbyte.ch/refer
+  items:
+  - title: Access to QuickBytes
+    company: FREE
+    duration: Always Free
+  - title: Remote Support Sessions
+    company: "$30 PER HOUR"
+    duration: Pay As You Go
+  # - title: DropByte Hosting & CMS
+  #   company: "$10 PER MONTH + APPLICABLE FEES"
+  #   duration: We'll help, or bring yours
+  - title: DropByte Premium
+    company: "STARTING AT $10 PER MONTH"
+    duration: Subscribe Monthly
+testimonial:
+  enable: true
+  title: Meet the Team
+  items:
+  - name: Richard Martin
+    position: DropByte Creator
+    content: I created DropByte because I wanted to share my knowledge about technology with others.
+             I figured out that Zoom was also perfectly usable as a tech support tool. And so, DropByte began. 
+             At present, DropByte is just a project that I'm working on. My hopes are to expand to serve both 
+             local and domestic clients, and to build a helpful knowledgebase covering
+             a vast range of tech-related subjects.
+    image:
+      x: https://richdmart.in/assets/images/avatar.png
+      _2x: https://richdmart.in/assets/images/avatar.png
+contact:
+  enable: true
+  title: Contact
+  form:
+    action: https://formspree.io/xrgyrwda
+    method: POST
+    full_name: Full Name
+    email: Email Address
+    message: Type Your Message Here
+  phone:
+    title: Phone Number
+    number: "(865) 272-9554"
+  email:
+    title: Email
+    email: <a href="mailto:hello@dropbyte.ch">hello@dropbyte.ch</a>
+  button:
+    icon: icon-mail-fill
+    btnText: Send Message
+newsletter:
+  enable: false
+  title: Newsletter subscription
+  success_message: Successfully subscribed
+  error_message: Our Newsletter isn't set up yet. Please check later.
+  note: We'll never share your email with anyone else.

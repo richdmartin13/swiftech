@@ -49,12 +49,13 @@ name = "About"
 weight = 1
 [params]
 googleTagManagerID = "GTM-000000"
-homepage = ["showcase", "client-and-work", "pricing", "leads", "contact"]
+homepage = ["showcase", "leads", "contact"]
 article = ["article"]
 form = ["form"]
 about = ["about", "testimonial", "contact"]
-services = ["client-and-work", "enterprise-perks", "pricing", "leads", "contact"]
-subscribe = ["enterprise-perks", "leads", "contact" ]
+services = ["client-and-work", "pricing", "leads", "contact"]
+premium = ["premium-perks", "leads", "contact" ]
+enterprise = ["enterprise-perks", "leads", "contact" ]
 [params.footer]
 copyright = "© DropByte and "
 [params.footer.radity_logo]

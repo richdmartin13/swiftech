@@ -176,7 +176,7 @@ newsletter:
   note: We'll never share your email with anyone else.
 leads: 
   enable: true
-  title: Get Started
+  title: How Can We Help?
   items:
   - url: https://learn.dropbyte.ch
     icon: newspaper
