@@ -53,7 +53,7 @@ name = "About"
 weight = 1
 [params]
 googleTagManagerID = "GTM-000000"
-homepage = ["showcase", "leads", "contact"]
+homepage = ["showcase", "overview", "leads", "contact"]
 article = ["article"]
 form = ["form"]
 subscribe = ["subscribe-form"]

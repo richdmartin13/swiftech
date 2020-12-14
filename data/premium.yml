@@ -3,6 +3,10 @@ subscribe:
   title: DropByte Premium
   enable: true
   clients: 
+  button:
+    icon: rocket
+    btnText: Join Now
+    URL: /subscribe
   benefits:
   - title: Enjoy Discounts
     description: When you enroll in DropByte Premium, you'll also get a 20% discount on all DropByte Services.

@@ -58,3 +58,9 @@ table {
 .testimonial__author-info span {
   color: #50cc98;
 }
+
+.cta-button {
+  width: 30%;
+  margin: 0 auto;
+  display: block;
+}
