@@ -1,5 +1,5 @@
 ---
-title: Join Now
+title: Sign Up for DropByte
 date: 2020-09-29T13:46:07.000-04:00
 layout: subscribe-form
 
