@@ -1,7 +1,23 @@
 baseURL = "https://dropbyte.ch"
 languageCode = "en-us"
-theme = "raditian-free-hugo-theme"
 pluralizeListTitles = false
+theme = "raditian-free-hugo-theme"
+[markup.goldmark.extensions]
+definitionList = true
+footnote = true
+linkify = true
+strikethrough = true
+table = true
+taskList = true
+typographer = true
+[markup.goldmark.parser]
+attribute = true
+autoHeadingID = true
+autoHeadingIDType = "github"
+[markup.goldmark.renderer]
+hardWraps = false
+unsafe = false
+xhtml = false
 [[menu.footer]]
 URL = "/quickbytes"
 name = "QuickBytes"
@@ -26,7 +42,6 @@ weight = 2
 URL = "/about"
 name = "About"
 weight = 1
-
 [[menu.header]]
 name = "Log In"
 url = "https://client.dropbyte.ch/login"
@@ -35,34 +50,21 @@ weight = "6"
 name = "Services"
 url = "/services"
 weight = 3
-# [[menu.header]]
-# URL = "https://dropbyte.ch/#contact"
-# name = "Contact"
-# weight = 4
-# [[menu.header]]
-# URL = "/services"
-# name = "Services"
-# weight = 2
-# [[menu.header]]
-# parent = "Services"
-# name = "QuickBytes"
-# URL = "https://learn.dropbyte.ch"
-# weight = 1
 [[menu.header]]
 URL = "/about"
 name = "About"
 weight = 1
 [params]
-googleTagManagerID = "GTM-000000"
-homepage = ["showcase", "overview", "leads", "contact"]
-article = ["article"]
-form = ["form"]
-subscribe = ["subscribe-form"]
 about = ["about", "team", "testimonial", "contact"]
-services = ["client-and-work", "pricing", "leads", "contact"]
-premium = ["premium-perks", "leads", "contact" ]
-enterprise = ["enterprise-perks", "leads", "contact" ]
+article = ["article"]
+enterprise = ["enterprise-perks", "leads", "contact"]
+form = ["form"]
+googleTagManagerID = "GTM-000000"
+homepage = ["showcase", "leads", "contact"]
+premium = ["premium-perks", "leads", "contact"]
 quickbytes = ["search", "leads", "contact"]
+services = ["client-and-work", "pricing", "leads", "contact"]
+subscribe = ["subscribe-form"]
 [params.footer]
 copyright = "© DropByte and "
 [params.footer.radity_logo]
@@ -84,21 +86,3 @@ URL = "js/rad-animations.js"
 URL = "js/sticky-header.js"
 [[params.plugins.js]]
 URL = "js/library/fontfaceobserver.js"
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      definitionList = true
-      footnote = true
-      linkify = true
-      strikethrough = true
-      table = true
-      taskList = true
-      typographer = true
-    [markup.goldmark.parser]
-      attribute = true
-      autoHeadingID = true
-      autoHeadingIDType = "github"
-    [markup.goldmark.renderer]
-      hardWraps = false
-      unsafe = false
-      xhtml = false
