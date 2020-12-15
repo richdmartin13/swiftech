@@ -11,9 +11,9 @@ about:
     fix that''ll have you calling back next week - we find real solutions, just for
     you.</p>"
   button:
-    icon: icon-smile-fill
-    btnText: Learn More
-    URL: "#contact"
+    icon: rocket
+    btnText: Our Services
+    URL: "/services"
   image:
     x: /img/who-am-i/team.svg
     _2x: /img/who-am-i/team.svg
