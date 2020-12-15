@@ -1,0 +1,31 @@
+{{ if .Site.Data.quickbytes.search.enable }}
+<section class="section rad-animation-group section--border-bottom">
+    <div class="container">
+        <header>
+        <div style="display: flex; flex-flow: row wrap; align-items: center; justify-content: flex-start; width: 100%;">
+            <ion-icon name="{{ .Params.icon }}" size="large"></ion-icon>
+            <h3 style="margin-bottom: 0; margin-left: 10px;"> {{ .Title }} QuickBytes</h3>
+        </div>
+        </header>
+        <div class="row row--padded mb-0 rad-fade-down">
+                <!-- Ranges through content/posts/*.md -->
+                {{ range .Pages }}
+                <div class="col-12 col-md-8 mb-2 mb-md-0 category">
+                    <a class="category-link" href="{{.Permalink}}">
+                        <div class="testimonial__author category-link">
+                            <span class="lozad team-image icon-container-sm">
+                                <ion-icon name="{{ .Params.icon }}"
+                                    style="text-align: center; margin: 0 auto; color: #fff" />
+                            </span>
+                            <div class="testimonial__author-info">
+                                <h4>{{ .Params.title }}</h4>
+                                <span style="text-transform: capitalize;">{{ .Params.type }}</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

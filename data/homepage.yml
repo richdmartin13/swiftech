@@ -52,7 +52,7 @@ leads:
   enable: true
   title: How Can We Help?
   items:
-  - url: https://learn.dropbyte.ch
+  - url: /quickbytes
     icon: newspaper
     content: QuickBytes
     image:
@@ -96,7 +96,7 @@ overview:
     button2:
       icon: newspaper
       btnText: See QuickBytes
-      URL: https://learn.dropbyte.ch
+      URL: /quickbytes
   - title: Cover Work and Home
     description: Subscribe to DropByte and enjoy discounts, on-call services and more. 
       If you're looking for personal tech support, check out DropByte Premium. And if you want
@@ -124,5 +124,5 @@ overview:
   #   button:
   #     icon: newspaper
   #     btnText: See QuickBytes
-  #     URL: https://learn.dropbyte.ch
+  #     URL: /quickbytes
 

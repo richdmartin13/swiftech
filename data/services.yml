@@ -11,7 +11,7 @@ client_and_work:
     button2:
       icon: newspaper
       btnText: See QuickBytes
-      URL: https://learn.dropbyte.ch
+      URL: /quickbytes
     button:
       icon: mail
       btnText: Contact Us

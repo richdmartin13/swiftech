@@ -1,0 +1,38 @@
+{{ if .Site.Data.quickbytes.meta.enable }}
+<section class="section rad-animation-group section--border-bottom">
+    <div class="container">
+        <div style="display: flex; flex-flow: row wrap-reverse;">
+            <div class="col-12 col-md-7 pl-md-0 text-right">
+                <img class='lozad img-responsive img-clip-right-backward }}'
+                    src="{{ .Site.Data.quickbytes.meta.image }}" alt="{{ .Site.Data.quickbytes.meta.title }}" />
+            </div>
+            <div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto">
+                <h2 class="rad-fade-down">{{ .Site.Data.quickbytes.meta.title }}</h2>
+                <h3>{{ .Site.Data.quickbytes.meta.subtitle }}</h3>
+                <p class="lead">
+                    {{ .Site.Data.quickbytes.meta.description }}
+                </p>
+            </div>
+        </div>
+        <h3 style="margin-top: 52px; margin-bottom: 0px;"> {{ .Site.Data.quickbytes.search.category_title }}</h3>
+        <div class="row row--padded mb-0 rad-fade-down" style="margin-bottom: 52px!important;">
+            {{ range .Site.Data.quickbytes.search.categories }}
+            <div class="col-12 col-md-3 mb-2 mb-md-0 category">
+                <a class="category-link" href="{{ .url }}">
+                    <div class="testimonial__author category-link">
+                        <span class="lozad team-image icon-container">
+                            <ion-icon name="{{ .icon }}" size="large"
+                                style="text-align: center; margin: 0 auto; color: #fff" />
+                        </span>
+                        <div class="testimonial__author-info">
+                            <h4>{{ .name }}</h4>
+                            <span style="text-transform: capitalize;">{{ .type }}</span>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

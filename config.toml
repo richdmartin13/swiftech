@@ -1,8 +1,9 @@
 baseURL = "https://dropbyte.ch"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
+pluralizeListTitles = false
 [[menu.footer]]
-URL = "http://learn.dropbyte.ch"
+URL = "/quickbytes"
 name = "QuickBytes"
 weight = 5
 [[menu.footer]]
@@ -61,6 +62,7 @@ about = ["about", "team", "testimonial", "contact"]
 services = ["client-and-work", "pricing", "leads", "contact"]
 premium = ["premium-perks", "leads", "contact" ]
 enterprise = ["enterprise-perks", "leads", "contact" ]
+quickbytes = ["search", "leads", "contact"]
 [params.footer]
 copyright = "© DropByte and "
 [params.footer.radity_logo]

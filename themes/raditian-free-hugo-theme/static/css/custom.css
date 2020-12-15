@@ -71,3 +71,41 @@ table {
   height: 78px;
   border-radius: 100%
 }
+
+.icon-container {
+  background-color: #50cc98; 
+  display: flex; 
+  align-items: center; 
+  justify-content: center;
+  border: 1px solid rgba(51,51,51,0.2);
+  border-radius: 100%
+}
+
+.icon-container-sm {
+  background-color: #50cc98; 
+  display: flex; 
+  align-items: center; 
+  justify-content: center;
+  border: 1px solid rgba(51,51,51,0.2);
+  border-radius: 100%;
+  height: 52px;
+  width: 52px;
+}
+
+.category-link:hover {
+  text-decoration: none;
+}
+
+.category {
+  border: 1px solid rgba(51,51,51,0.2);
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-right: 20px;
+  margin-bottom: 10px !important;
+}
+
+.category:hover {
+  border: 1px solid #50cc98;
+  text-decoration: none;
+}
