@@ -9906,6 +9906,13 @@ html, html body {
     border-radius: 100%
 }
 
+.team-image {
+    margin-right: 16px;
+    width: 78px;
+    height: 78px;
+    border-radius: 100%
+  }
+
 .testimonial__author-info {
     display: flex;
     flex-direction: column;
