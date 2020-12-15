@@ -18,17 +18,19 @@ sections:
 - type: document
   path: data/services.yml
   label: Services
-  match: "**/*"
 - type: document
   path: data/premium.yml
   label: Premium
-  match: "**/*"
 - type: document
   path: data/enterprise.yml
   label: Enterprise
-  match: "**/*"
 - type: heading
   label: CONTENT
+- type: directory
+  path: content/quickbytes
+  label: QuickBytes
+  create: all
+  match: "**/*"
 - type: directory
   path: content
   label: Content
