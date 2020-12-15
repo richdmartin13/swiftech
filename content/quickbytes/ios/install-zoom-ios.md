@@ -7,6 +7,7 @@ draft: false
 # search related keywords
 keywords: ["zoom", "iOS", "video", "call", "conferencing", "remote", "setup", "set", "up", "support", "help", "iPhone"]
 icon: videocam
+layout: article
 ---
 
 ### What You'll Need
