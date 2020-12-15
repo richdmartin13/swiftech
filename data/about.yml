@@ -17,9 +17,23 @@ about:
   image:
     x: /img/who-am-i/team.svg
     _2x: /img/who-am-i/team.svg
-testimonial:
+team:
   enable: true
   title: Meet the Team
+  items:
+  - name: Richard Martin
+    position: Founder, IT Specialist
+    image:
+      x: https://richdmart.in/assets/images/avatar.png
+      _2x: https://richdmart.in/assets/images/avatar.png
+  # - name: Daniel Beckett
+  #   position: Finance & Marketing Consultant
+  #   image:
+  #     x: https://media-exp1.licdn.com/dms/image/C4D03AQE1UtG-zT4ZuA/profile-displayphoto-shrink_400_400/0/1582311788347?e=1613606400&v=beta&t=aoKVRLHbT7L6EuSD2IurYauaufsQh888dmGrv4MI3Rg
+  #     _2x: https://media-exp1.licdn.com/dms/image/C4D03AQE1UtG-zT4ZuA/profile-displayphoto-shrink_400_400/0/1582311788347?e=1613606400&v=beta&t=aoKVRLHbT7L6EuSD2IurYauaufsQh888dmGrv4MI3Rg
+testimonial:
+  enable: true
+  title: Testimonials
   items:
   - name: Richard Martin
     position: DropByte Creator

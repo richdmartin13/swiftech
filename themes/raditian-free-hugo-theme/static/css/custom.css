@@ -64,3 +64,10 @@ table {
   margin: 0 auto;
   display: block;
 }
+
+.team-image {
+  margin-right: 16px;
+  width: 104px;
+  height: 104px;
+  border-radius: 100%
+}
