@@ -77,52 +77,15 @@ leads:
       x: img/works/consultation.svg
       _2x: img/works/consultation.svg
 overview:
-  title: What We Do
   enable: true
-  clients: 
-  benefits:
-  - title: Tech Support, but Different
-    description: We provide tech support through remote and in-person sessions, so if you
-      have an issue, fixing it is as simple as grabbing some time with us. And if you'd like 
-      to try it yourself, we've made QuickBytes to guide you.
-    image:
-      x: img/works/support.svg
-      _2x: img/works/support.svg
-    is_even: false
-    button:
-      icon: flash
-      btnText: Our Services
-      URL: /services
-    button2:
-      icon: newspaper
-      btnText: See QuickBytes
-      URL: /quickbytes
-  - title: Cover Work and Home
-    description: Subscribe to DropByte and enjoy discounts, on-call services and more. 
-      If you're looking for personal tech support, check out DropByte Premium. And if you want
-      affordable, straight-forward business tech support, DropByte Enterprise was built for you.
-    image:
-      x: img/works/subscribe.svg
-      _2x: img/works/subscribe.svg
-    is_even: true
-    button2:
-      icon: business
-      btnText: DropByte Enterprise
-      URL: /enterprise
-    button:
-      icon: home
-      btnText: DropByte Premium
-      URL: /premium
-  # - title: By and For Small Business
-  #   description: DropByte was created around the idea that tech support should not only fix
-  #     problems, but that it should help people understand them. And with more business being done
-  #     remotely than ever, we can help you stay connected - so you can focus on what matters.
-  #   image:
-  #     x: img/works/business.svg
-  #     _2x: img/works/business.svg
-  #   is_even: false
-  #   button:
-  #     icon: newspaper
-  #     btnText: See QuickBytes
-  #     URL: /quickbytes
-
+  content: Unlike other tech support companies, we're not looking for the quick
+    fix that'll have you calling back next week - we find real solutions, just for
+    you.
+  button:
+    icon: ribbon
+    btnText: About Us
+    URL: /about
+  button2:
+    icon: rocket
+    btnText: Our Services
+    URL: /services
