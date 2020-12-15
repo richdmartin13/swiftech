@@ -78,7 +78,10 @@ table {
   align-items: center; 
   justify-content: center;
   border: 1px solid rgba(51,51,51,0.2);
-  border-radius: 100%
+  border-radius: 100%;
+  height: 104px;
+  width: 104px;
+  min-width: 104px;
 }
 
 .icon-container-sm {
@@ -90,6 +93,7 @@ table {
   border-radius: 100%;
   height: 52px;
   width: 52px;
+  min-width: 52px;
 }
 
 .category-link:hover {
