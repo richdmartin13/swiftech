@@ -1,11 +1,22 @@
 +++
-date = 2020-07-01T00:00:00Z
-keywords = ["Print", "Cut", "Paste", "Copy", "Shortcut", "Mac", "Keyboard", "Tips"]
-lastmod = 2020-07-01T00:00:00Z
-title = "Useful Keyboard Shortcuts for Mac"
-weight = 3
+custom = false
+date = "2020-07-01T00:00:00.000+00:00"
+description = ""
 icon = "videocam"
+keywords = ["Print", "Cut", "Paste", "Copy", "Shortcut", "Mac", "Keyboard", "Tips"]
+lastmod = "2020-07-01T00:00:00.000+00:00"
 layout = "guide"
+outcomes = []
+steps = []
+title = "Useful Keyboard Shortcuts for Mac"
+type = ""
+weight = 3
+[[requirements]]
+icon = "logo-apple"
+name = "Mac"
+[[requirements]]
+icon = "keyboard"
+name = "Mac Keyboard"
 
 +++
 ![header](header.jpg "image")

@@ -59,3 +59,5 @@ fields:
   - type: text
     name: icon
     label: icon
+pages:
+- content/quickbytes/mac/useful-keyboard-shortcuts-for-mac.md
