@@ -24,7 +24,7 @@ directions = "Fill out all Meta fields. The layout will always be \"guide,\" and
 image = ""
 name = "META"
 [[steps]]
-directions = "Add all requirements for the job. They should be as brief as possible. "
+directions = "Add all requirements for the job. They should be as brief as possible - think one or two words, nothing more. Then, add an icon."
 image = ""
 name = "Requirements"
 
