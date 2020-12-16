@@ -7,7 +7,7 @@ keywords = ["Print", "Cut", "Paste", "Copy", "Shortcut", "Mac", "Keyboard", "Tip
 lastmod = "2020-07-01T00:00:00.000+00:00"
 layout = "guide"
 title = "Useful Keyboard Shortcuts for Mac"
-type = ""
+type = "Shortcuts"
 weight = 3
 [[outcomes]]
 icon = "happy"
