@@ -27,5 +27,13 @@ name = "META"
 directions = "Add all requirements for the job. They should be as brief as possible - think one or two words, nothing more. Then, add an icon."
 image = ""
 name = "Requirements"
+[[steps]]
+directions = "Next, add steps. These should be as descriptive as possible. If you have an image, you'll have to set \"enableimg\" to true, and upload or select a helpful image."
+image = ""
+name = "Steps"
+[[steps]]
+directions = "Outcomes look just like requirements - they need to be short, but descriptive. These are the end results of the guide, and the iconography should be positive or informative. "
+image = ""
+name = "Outcomes"
 
 +++
