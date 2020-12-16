@@ -71,4 +71,3 @@ name = "⌘ + Shift + 5"
 weight = "8"
 
 +++
-![header](header.jpg "image")
