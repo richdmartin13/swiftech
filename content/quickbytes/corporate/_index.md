@@ -1,5 +1,5 @@
 ---
-title: "Beta"
+title: "Corporate"
 draft: false
 # meta description
 description : "this is meta description"
