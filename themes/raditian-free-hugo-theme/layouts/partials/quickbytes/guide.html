@@ -34,6 +34,11 @@
             <div style="display: flex; flex-flow: column nowrap;">
                 {{ range .Params.steps }}
                 <div class="step">
+                    <div class="testimonial__author-info step-header">
+                        <div class="icon-container-sm" style="margin-right: 20px;">
+                            <h5 style="color: white; margin: 0">{{ .weight }}</h6>
+                        </div>
+                    </div>
                     <div style="flex: 2" class="testimonial__author-info">
                         <span style="text-transform: uppercase;">{{ .name }}</span>
                         <p style="margin: 0;">{{ .directions }}</p>

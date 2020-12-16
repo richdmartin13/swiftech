@@ -184,7 +184,7 @@ table {
   width: 100%;
   display: flex;
   flex-flow: row wrap;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-evenly;
   min-height: 100px;
   margin-bottom: 20px;
@@ -194,4 +194,11 @@ table {
   flex: 1;
   height: 200px;
   border: none;
+}
+
+.step-header {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: flex-start;
+  justify-content: flex-start;
 }
