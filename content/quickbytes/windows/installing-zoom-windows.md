@@ -7,6 +7,7 @@ draft: false
 # search related keywords
 keywords: ["zoom", "windows", "video", "call", "conferencing"]
 icon: videocam
+layout: guide
 ---
 
 ### What You'll Need

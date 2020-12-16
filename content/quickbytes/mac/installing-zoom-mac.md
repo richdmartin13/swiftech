@@ -7,7 +7,7 @@ draft: false
 # search related keywords
 keywords: ["zoom", "mac", "video", "call", "conferencing"]
 icon: videocam
-layout: article
+layout: guide
 ---
 
 ### What You'll Need

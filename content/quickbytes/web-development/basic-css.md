@@ -10,6 +10,7 @@ nextLessonURL = "https://dropbyte.us/bytes/grouping-elements"
 tags = ["Web Development", "HTML"]
 title = "Basic CSS"
 type = "research"
+layout = "guide"
 
 icon = "logo-css3"
 +++

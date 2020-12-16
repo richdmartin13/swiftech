@@ -13,6 +13,7 @@ tags:
 - HTML
 nextLessonURL: https://dropbyte.us/bytes/images-links
 nextLessonName: 'Next: Images and Links'
+layout: guide
 
 icon: logo-html5
 

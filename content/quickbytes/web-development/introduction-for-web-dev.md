@@ -11,6 +11,7 @@ nextLessonURL = "https://dropbyte.us/bytes/basic-html-page/"
 tags = ["Web Development", "HTML"]
 title = "Introduction for Web Dev"
 type = "research"
+layout = "guide"
 
 icon = "logo-html5"
 

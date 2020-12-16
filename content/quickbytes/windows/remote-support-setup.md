@@ -7,6 +7,7 @@ draft: false
 # search related keywords
 keywords: ["zoom", "mac", "video", "call", "conferencing", "remote", "setup", "set", "up", "support", "help", "windows"]
 icon: videocam
+layout: guide
 ---
 
 ### What You'll Need

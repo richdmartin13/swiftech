@@ -11,7 +11,7 @@ nextLessonURL = "https://dropbyte.us/bytes/css-classes-and-ids"
 tags = ["Web Development", "HTML"]
 title = "Layouts with FlexBox"
 type = "research"
-
+layout = "guide"
 icon = "logo-css3"
 
 +++

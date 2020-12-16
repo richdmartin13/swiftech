@@ -5,6 +5,7 @@ lastmod = 2020-07-01T00:00:00Z
 title = "Useful Keyboard Shortcuts for Mac"
 weight = 3
 icon = "videocam"
+layout = "guide"
 
 +++
 ![header](header.jpg "image")
