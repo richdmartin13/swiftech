@@ -1,0 +1,61 @@
+---
+label: QuickByte
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: icon
+  label: icon
+- type: boolean
+  name: custom
+  label: custom
+- type: text
+  name: type
+  label: type
+- type: field_group_list
+  name: requirements
+  label: requirements
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: icon
+    label: icon
+- type: field_group_list
+  name: steps
+  label: steps
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: directions
+    label: directions
+  - type: file
+    name: image
+    label: image
+  - type: boolean
+    name: enableimg
+    label: enableimg
+  - type: text
+    name: weight
+    label: weight
+- type: field_group_list
+  name: outcomes
+  label: outcomes
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: icon
+    label: icon
