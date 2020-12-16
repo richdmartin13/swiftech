@@ -47,3 +47,5 @@ fields:
   - type: text
     name: icon
     label: icon
+pages:
+- content/quickbytes/beta/creating-a-quickbyte.md
