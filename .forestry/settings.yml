@@ -19,6 +19,9 @@ sections:
   path: data/services.yml
   label: Services
 - type: document
+  path: data/quickbytes.yml
+  label: QuickBytes
+- type: document
   path: data/premium.yml
   label: Premium
 - type: document
