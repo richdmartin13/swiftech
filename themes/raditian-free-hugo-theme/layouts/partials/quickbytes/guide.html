@@ -10,8 +10,12 @@
                 <h3 style="margin-bottom: 0; margin-left: 10px;"> {{ .Title }} </h3>
             </div>
         </header>
-        <div class="guide"
-            style="display: flex; flex-flow: column nowrap; width: 100%">
+
+        <div class="row--padded mb-0 rad-fade-down" style="padding-top: 20px;">
+            {{ .Content }}
+        </div>
+
+        <div class="guide" style="display: flex; flex-flow: column nowrap; width: 100%">
             <h3>Requirements</h3>
             <hr>
             <div style="display: flex; flex-flow: row wrap;">
@@ -24,40 +28,36 @@
             </div>
         </div>
 
-        <div class="guide"
-        style="display: flex; flex-flow: column nowrap; width: 100%">
-        <h3>Steps</h3>
-        <hr>
-        <div style="display: flex; flex-flow: column nowrap;">
-            {{ range .Params.steps }}
-            <div class="step">
-                <div style="flex: 4">
-                    <h5>{{ .name }}</h5>
-                    <p style="margin: 0;">{{ .directions }}</p>
+        <div class="guide" style="display: flex; flex-flow: column nowrap; width: 100%">
+            <h3>Steps</h3>
+            <hr>
+            <div style="display: flex; flex-flow: column nowrap;">
+                {{ range .Params.steps }}
+                <div class="step">
+                    <div style="flex: 2" class="testimonial__author-info">
+                        <span style="text-transform: uppercase;">{{ .name }}</span>
+                        <p style="margin: 0;">{{ .directions }}</p>
+                    </div>
+                    {{ if .enableimg }}
+                    <img src="{{ .imgsrc }}" alt="" />
+                    {{ end }}
                 </div>
-                <img src="{{ .image }}" alt=""/>
+                {{ end }}
             </div>
-            {{ end }}
-        </div>
-    </div>
-
-        <div class="guide">
-            {{ .Content }}
         </div>
 
-        <div class="guide"
-        style="display: flex; flex-flow: column nowrap; width: 100%">
-        <h3>Outcomes</h3>
-        <hr>
-        <div style="display: flex; flex-flow: row wrap;">
-            {{ range .Params.outcomes }}
-            <div class="chip">
-                <ion-icon name="{{ .icon }}"></ion-icon>
-                <p style="margin: 0; margin-left: 5px;">{{ .name }}</p>
+        <div class="guide" style="display: flex; flex-flow: column nowrap; width: 100%">
+            <h3>Outcomes</h3>
+            <hr>
+            <div style="display: flex; flex-flow: row wrap;">
+                {{ range .Params.outcomes }}
+                <div class="chip">
+                    <ion-icon name="{{ .icon }}"></ion-icon>
+                    <p style="margin: 0; margin-left: 5px;">{{ .name }}</p>
+                </div>
+                {{ end }}
             </div>
-            {{ end }}
         </div>
-    </div>
     </div>
     </div>
 </section>

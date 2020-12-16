@@ -186,9 +186,11 @@ table {
   flex-flow: row wrap;
   align-items: center;
   justify-content: space-evenly;
+  min-height: 128px;
 }
 
 .step img {
   flex: 1;
   height: 200px;
+  border: none;
 }
