@@ -11,6 +11,7 @@ tags = ["Web Development", "HTML"]
 title = "CSS Classes and IDs"
 type = "research"
 layout = "guide"
+custom = true
 
 icon = "logo-css3"
 

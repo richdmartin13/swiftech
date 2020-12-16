@@ -12,6 +12,7 @@ tags = ["Web Development", "HTML"]
 title = "Introduction for Web Dev"
 type = "research"
 layout = "guide"
+custom = true
 
 icon = "logo-html5"
 

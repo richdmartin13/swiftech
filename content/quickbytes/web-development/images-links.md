@@ -14,6 +14,7 @@ tags:
 nextLessonURL: https://dropbyte.us/bytes/basic-css
 nextLessonName: 'Next: Basic CSS'
 layout: guide
+custom: true
 
 icon: image
 

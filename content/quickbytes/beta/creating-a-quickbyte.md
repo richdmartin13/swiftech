@@ -3,6 +3,7 @@ description = "A Short Guide on Writing QuickBytes"
 icon = "pencil"
 layout = "guide"
 title = "Creating a QuickByte"
+custom = false
 [[outcomes]]
 icon = "thumbs-up"
 name = "Helpful"

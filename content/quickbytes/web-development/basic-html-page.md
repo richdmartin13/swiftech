@@ -14,6 +14,7 @@ tags:
 nextLessonURL: https://dropbyte.us/bytes/images-links
 nextLessonName: 'Next: Images and Links'
 layout: guide
+custom: true
 
 icon: logo-html5
 

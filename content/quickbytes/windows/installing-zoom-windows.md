@@ -11,6 +11,7 @@ keywords:
 - conferencing
 icon: videocam
 layout: guide
+custom: false
 requirements:
 - name: Windows PC
   icon: logo-windows

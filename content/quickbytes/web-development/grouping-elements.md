@@ -11,6 +11,7 @@ tags = ["Web Development", "HTML"]
 title = "Grouping Elements"
 type = "research"
 layout = "guide"
+custom = true
 
 icon = "logo-html5"
 

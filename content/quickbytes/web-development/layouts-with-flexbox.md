@@ -13,6 +13,7 @@ title = "Layouts with FlexBox"
 type = "research"
 layout = "guide"
 icon = "logo-css3"
+custom = true
 
 +++
 ### Getting Started
