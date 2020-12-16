@@ -2,7 +2,7 @@
 <section class="section rad-animation-group section--border-bottom">
     <div class="container" style="width: 100%">
         <header>
-        <div style="display: flex; flex-flow: row wrap; align-items: center; justify-content: flex-start; width: 100%;">
+        <div style="display: flex; flex-flow: row nowrap; align-items: center; justify-content: flex-start; width: 100%;">
             <a href="/quickbytes" class="category-link icontainer" style="color: #101010">
                 <ion-icon name="arrow-back" size="small" style="color: #fff; margin: 0 auto;"></ion-icon>
             </a>
@@ -10,7 +10,7 @@
             <h3 style="margin-bottom: 0; margin-left: 10px;"> {{ .Title }} QuickBytes</h3>
         </div>
         </header>
-        <div class="row row--padded mb-0 rad-fade-down" style="display: flex; flex-flow: row wrap; align-items: center; justify-content: center; width: 100%">
+        <div class="row row--padded mb-0 rad-fade-down" style="display: flex; flex-flow: row wrap; align-items: center; justify-content: flex-start; width: 100%; margin: 20px auto;">
                 <!-- Ranges through content/posts/*.md -->
                 {{ range .Pages }}
                 <div class="col-12 col-md-8 mb-2 mb-md-0 category">
