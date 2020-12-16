@@ -179,3 +179,16 @@ table {
   border: 1px solid #50CC98;
   margin: 5px;
 }
+
+.step {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.step img {
+  flex: 1;
+  height: 200px;
+}

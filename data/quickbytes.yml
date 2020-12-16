@@ -35,9 +35,9 @@ search:
       type: programming
       icon: logo-html5
       url: web-development/
-    # - name: Beta
-    #   type: Corporate
-    #   icon: cog
-    #   url: beta/
+    - name: Beta
+      type: Corporate
+      icon: cog
+      url: beta/
 
     

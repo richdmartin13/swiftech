@@ -24,6 +24,23 @@
             </div>
         </div>
 
+        <div class="guide"
+        style="display: flex; flex-flow: column nowrap; width: 100%">
+        <h3>Steps</h3>
+        <hr>
+        <div style="display: flex; flex-flow: column nowrap;">
+            {{ range .Params.steps }}
+            <div class="step">
+                <div style="flex: 4">
+                    <h5>{{ .name }}</h5>
+                    <p style="margin: 0;">{{ .directions }}</p>
+                </div>
+                <img src="{{ .image }}" alt=""/>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+
         <div class="guide">
             {{ .Content }}
         </div>

@@ -8,6 +8,13 @@ icon: cog
 requirements:
   - name: DropByte Admin
     icon: lock-closed
+steps: 
+  - name: Step One
+    directions: Just see if this works
+    image: /img/works/support.svg
+  - name: Step Two
+    directions: Just see if this works, too
+    image: /img/works/support.svg
 outcomes:
   - name: Good-Looking
     icon: happy
