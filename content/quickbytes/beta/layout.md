@@ -3,6 +3,7 @@ title: Layout Beta
 description: this is meta description
 layout: guide
 icon: cog
+custom: false
 requirements:
 - name: DropByte Admin
   icon: lock-closed

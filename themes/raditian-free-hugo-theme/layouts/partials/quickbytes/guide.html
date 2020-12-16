@@ -11,6 +11,14 @@
             </div>
         </header>
 
+        {{ if .Params.custom }}
+
+        <div class="row--padded mb-0 rad-fade-down guide" style="padding-top: 20px;">
+            {{ .Content }}
+        </div>
+
+        {{ else }}
+
         <div class="row--padded mb-0 rad-fade-down" style="padding-top: 20px;">
             {{ .Content }}
         </div>
@@ -63,6 +71,7 @@
                 {{ end }}
             </div>
         </div>
+        {{ end }}
         {{ partial "leads.html" . }}
     </div>
     </div>
