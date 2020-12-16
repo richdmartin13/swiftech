@@ -22,6 +22,12 @@ name = "Mac"
 icon = "chatbox-elipses"
 name = "Mac Keyboard"
 [[steps]]
+directions = "If you want to take a screenshot of a small area quickly, hold ⌘ and the Shift key and press 4. Then, just click and drag your cursor around the area of the screen you want to capture."
+enableimg = false
+image = ""
+name = "⌘ + Shift + 4"
+weight = "10"
+[[steps]]
 directions = "Instead of right-clicking or two-finger-clicking and clicking \"copy,\" you can simply use ⌘C. This can really speed things up if you are copying text a lot."
 enableimg = false
 image = ""
@@ -52,22 +58,28 @@ image = ""
 name = "⌘ + P"
 weight = "5"
 [[steps]]
+directions = "If you ever need to select a whole list of files or all the text in a document, press ⌘A and Mac OS will select everything."
+enableimg = false
+image = ""
+name = "⌘ + A"
+weight = "6"
+[[steps]]
 directions = "⌘Q Allows you to quit programs in Mac OS. Instead of minimizing (-) or closing (x) windows, it's better to completely quit the programs. You can do this with ⌘Q. "
 enableimg = false
 image = ""
 name = "⌘ + Q"
-weight = "6"
+weight = "7"
 [[steps]]
 directions = "If you want to search for a program, file, website, or even do quick calculations, press ⌘ and the Space Bar. It will bring up Spotlight, which allows you to search anything."
 enableimg = false
 image = ""
 name = "⌘ + Space"
-weight = "7"
+weight = "8"
 [[steps]]
 directions = "If you ever want to take a screenshot, hold down ⌘, the Shift Key, and 5. You'll see a toolbar on the bottom where you can choose between full screen, selection, or screen recording."
 enableimg = false
 image = ""
 name = "⌘ + Shift + 5"
-weight = "8"
+weight = "9"
 
 +++
