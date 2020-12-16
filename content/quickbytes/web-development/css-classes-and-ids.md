@@ -9,7 +9,7 @@ nextLessonName = "Next: Layouts with FlexBox"
 nextLessonURL = "https://dropbyte.us/bytes/layouts-with-flexbox"
 tags = ["Web Development", "HTML"]
 title = "CSS Classes and IDs"
-type = "research"
+type = "CSS"
 layout = "guide"
 custom = true
 

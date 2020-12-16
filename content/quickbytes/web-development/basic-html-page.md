@@ -5,7 +5,7 @@ bg_image: "/uploads/silvio-kundt-fixg8kipog8-unsplash.jpg"
 description: This lesson provides a basic introduction to developing a web page. At
   the end, a simple page with a header and paragraph will be displayed.
 image: images/courses/programming.svg
-type: research
+type: HTML
 author: Richard Martin
 category: Programming
 tags:

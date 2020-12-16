@@ -10,7 +10,7 @@ nextLessonName = "Next: Making a Web Page in HTML"
 nextLessonURL = "https://dropbyte.us/bytes/basic-html-page/"
 tags = ["Web Development", "HTML"]
 title = "Introduction for Web Dev"
-type = "research"
+type = "HTML"
 layout = "guide"
 custom = true
 

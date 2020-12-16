@@ -3,6 +3,7 @@ title: Installing Zoom on Windows
 date: 2020-07-28
 lastmod: 2020-07-28
 weight: "4"
+type: Zoom
 keywords:
 - zoom
 - windows

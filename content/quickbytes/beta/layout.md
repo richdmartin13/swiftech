@@ -4,6 +4,7 @@ description: this is meta description
 layout: guide
 icon: cog
 custom: false
+type: Corporate
 requirements:
 - name: DropByte Admin
   icon: lock-closed

@@ -9,7 +9,7 @@ nextLessonName = "Next: CSS Classes and IDs"
 nextLessonURL = "https://dropbyte.us/bytes/css-classes-and-ids"
 tags = ["Web Development", "HTML"]
 title = "Grouping Elements"
-type = "research"
+type = "HTML"
 layout = "guide"
 custom = true
 

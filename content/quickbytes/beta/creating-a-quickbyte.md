@@ -4,6 +4,7 @@ icon = "pencil"
 layout = "guide"
 title = "Creating a QuickByte"
 custom = false
+type = "Corporate"
 [[outcomes]]
 icon = "thumbs-up"
 name = "Helpful"
