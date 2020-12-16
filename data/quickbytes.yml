@@ -3,41 +3,35 @@ meta:
   enable: true
   title: QuickBytes
   subtitle: Snack-Sized Tech Lessons
-  description: QuickBytes are Snack-Sized Lessons about your tech. They're designed to be short
-    and easy - and if it's too hard, we're always here to help. You'll find everything here from 
-    basic tech guides to intermediate web design, and if you can't find what you're looking for,
-    feel free to ask us to make one for you. Just click a category below to get started.
-  image: /img/works/learn.svg
-
-search: 
+  description: QuickBytes are Snack-Sized Lessons about your tech. They're designed
+    to be short and easy - and if it's too hard, we're always here to help. You'll
+    find everything here from basic tech guides to intermediate web design, and if
+    you can't find what you're looking for, feel free to ask us to make one for you.
+    Just click a category below to get started.
+  image: "/img/works/learn.svg"
+search:
   enable: true
   placeholder: What's Wrong?
   category_title: Categories
   selected_category: 
   categories:
-    - name: Windows
-      type: desktop
-      icon: logo-windows
-      url: windows/
-    - name: Mac
-      type: desktop
-      icon: logo-apple
-      url: mac/
-    - name: Android
-      type: mobile
-      icon: logo-android
-      url: android/
-    - name: iOS
-      type: mobile
-      icon: logo-apple
-      url: ios/
-    - name: Web Development
-      type: programming
-      icon: logo-html5
-      url: web-development/
-    - name: Beta
-      type: Corporate
-      icon: cog
-      url: beta/
-
-    
+  - name: Windows
+    type: desktop
+    icon: logo-windows
+    url: windows/
+  - name: Mac
+    type: desktop
+    icon: logo-apple
+    url: mac/
+  - name: Android
+    type: mobile
+    icon: logo-android
+    url: android/
+  - name: iOS
+    type: mobile
+    icon: logo-apple
+    url: ios/
+  - name: Web Development
+    type: programming
+    icon: logo-html5
+    url: web-development/

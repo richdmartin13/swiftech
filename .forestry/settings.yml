@@ -21,7 +21,6 @@ sections:
 - type: document
   path: data/quickbytes.yml
   label: QuickBytes
-  match: "**/*"
 - type: document
   path: data/premium.yml
   label: Premium
