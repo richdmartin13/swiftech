@@ -12,9 +12,13 @@ steps:
   - name: Step One
     directions: Just see if this works
     image: /img/works/support.svg
+    enableimg: false
+    weight: 1
   - name: Step Two
     directions: Just see if this works, too
     image: /img/works/support.svg
+    weight: 2
+    enableimg: false
 outcomes:
   - name: Good-Looking
     icon: happy
