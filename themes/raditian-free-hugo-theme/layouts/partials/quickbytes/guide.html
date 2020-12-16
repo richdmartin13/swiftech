@@ -1,6 +1,9 @@
 <section class="section rad-animation-group section--border-bottom">
     <div class="container">
         <header>
+            <div style="display: flex; align-items: center; justify-content: flex-start; width: 100%">
+                <img src="{{ .Params.header}}" alt="" style="max-height: 300px; margin-bottom: 52px;"/>
+            </div>
             <div
                 style="display: flex; flex-flow: row wrap; align-items: center; justify-content: flex-start; width: 100%;">
                 <a href="../" class="category-link icontainer" style="color: #101010">
@@ -9,7 +12,6 @@
                 <ion-icon name="{{ .Params.icon }}" size="large"></ion-icon>
                 <h3 style="margin-bottom: 0; margin-left: 10px;"> {{ .Title }} </h3>
             </div>
-            <img src="{{ .Params.header}}" alt=""/>
         </header>
 
         {{ if .Params.custom }}
