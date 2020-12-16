@@ -22,12 +22,6 @@ name = "Mac"
 icon = "chatbox-elipses"
 name = "Mac Keyboard"
 [[steps]]
-directions = "If you want to take a screenshot of a small area quickly, hold ⌘ and the Shift key and press 4. Then, just click and drag your cursor around the area of the screen you want to capture."
-enableimg = false
-image = ""
-name = "⌘ + Shift + 4"
-weight = "10"
-[[steps]]
 directions = "Instead of right-clicking or two-finger-clicking and clicking \"copy,\" you can simply use ⌘C. This can really speed things up if you are copying text a lot."
 enableimg = false
 image = ""
@@ -81,5 +75,11 @@ enableimg = false
 image = ""
 name = "⌘ + Shift + 5"
 weight = "9"
+[[steps]]
+directions = "If you want to take a screenshot of a small area quickly, hold ⌘ and the Shift key and press 4. Then, just click and drag your cursor around the area of the screen you want to capture."
+enableimg = false
+image = ""
+name = "⌘ + Shift + 4"
+weight = "10"
 
 +++
