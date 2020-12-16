@@ -19,7 +19,7 @@ name = "Faster Work"
 icon = "logo-apple"
 name = "Mac"
 [[requirements]]
-icon = "keyboard"
+icon = "chatbox-elipses"
 name = "Mac Keyboard"
 [[steps]]
 directions = "Instead of right-clicking or two-finger-clicking and clicking \"copy,\" you can simply use ⌘C. This can really speed things up if you are copying text a lot."
