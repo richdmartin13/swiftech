@@ -15,6 +15,10 @@ search:
   category_title: Categories
   selected_category: 
   categories:
+  - name: DropByte News
+    type: Information
+    icon: newspaper
+    url: news
   - name: Windows
     type: desktop
     icon: logo-windows
