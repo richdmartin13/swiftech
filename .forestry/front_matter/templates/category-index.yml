@@ -17,3 +17,5 @@ fields:
 - type: text
   name: icon
   label: icon
+pages:
+- content/quickbytes/news/dropbyte-news.md
