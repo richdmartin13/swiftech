@@ -6,6 +6,7 @@ icon: cog
 custom: false
 type: Corporate
 kind: post
+category: corporate
 requirements:
 - name: DropByte Admin
   icon: lock-closed
