@@ -18,22 +18,28 @@ requirements:
   icon: cellular
 steps:
 - name: App Store
-  directions: Open the App Store from your home screen. You can also tap "Get Zoom" on our home page to get right to the Zoom App download on the App Store.
+  directions: Open the App Store from your home screen. You can also tap "Get Zoom"
+    on our home page to get right to the Zoom App download on the App Store.
   image: "/img/works/support.svg"
   enableimg: false
   weight: "1"
 - name: Search
-  directions: Press "Search" in the lower right corner. Then, tap the search bar on the top and type in "Zoom."
+  directions: Press "Search" in the lower right corner. Then, tap the search bar on
+    the top and type in "Zoom."
   image: "/img/works/support.svg"
   weight: "2"
   enableimg: false
 - name: Download Zoom
-  directions: Download "ZOOM Cloud Meetings." It should have a blue app icon with a video camera. You may have to enter your Apple ID and/or payment information, but Zoom is free.
+  directions: Download "ZOOM Cloud Meetings." It should have a blue app icon with
+    a video camera. You may have to enter your Apple ID and/or payment information,
+    but Zoom is free.
   image: "/img/works/support.svg"
   weight: "3"
   enableimg: false
 - name: Open Zoom
-  directions: After Zoom is install, it should appear on your home screen. Open the app and sign in. Zoom will prompt you for microphone and camera access - both of which you should accept.
+  directions: After Zoom is install, it should appear on your home screen. Open the
+    app and sign in. Zoom will prompt you for microphone and camera access - both
+    of which you should accept.
   image: "/img/works/support.svg"
   weight: "4"
   enableimg: false
@@ -44,5 +50,6 @@ outcomes:
   icon: happy
 - name: Audible on Zoom
   icon: mic
+header: "/undraw_everywhere_together_bdmn.svg"
 
 ---
