@@ -2,7 +2,7 @@
 description = ""
 icon = "newspaper"
 kind = "page"
-layout = "category-list"
+layout = "category_list"
 title = "DropByte News"
 
 +++
