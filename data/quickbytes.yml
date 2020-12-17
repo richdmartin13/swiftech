@@ -38,4 +38,4 @@ search:
   - name: DropByte News
     type: Information
     icon: newspaper
-    url: news
+    url: news/
