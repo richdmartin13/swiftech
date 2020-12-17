@@ -1,5 +1,5 @@
 ---
-title: Layout Beta
+title: Layout Template
 description: this is meta description
 layout: guide
 icon: cog
@@ -12,7 +12,7 @@ requirements:
   icon: lock-closed
 steps:
 - name: Step One
-  directions: Just see if this works
+  directions: A step that's provided to the user
   image: "/img/works/support.svg"
   enableimg: true
   weight: "1"
