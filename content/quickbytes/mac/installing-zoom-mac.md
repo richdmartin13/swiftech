@@ -1,15 +1,42 @@
 ---
-title: "Installing Zoom on Mac"
-date: 2020-07-28
-lastmod: 2020-07-28
+title: Installing Zoom on Mac
+date: '2020-07-28'
+lastmod: '2020-07-28'
 weight: 4
-draft: false
-# search related keywords
-keywords: ["zoom", "mac", "video", "call", "conferencing"]
+keywords:
+- zoom
+- mac
+- video
+- call
+- conferencing
 icon: videocam
 layout: guide
----
+header: "/undraw_video_call_kxyp.svg"
+type: Zoom
+requirements:
+- name: Wi-Fi
+  icon: wifi
+- name: Web Browser
+  icon: browser
+- name: Microphone
+  icon: mic
+- icon: videocam
+  name: Camera
+- name: Mac
+  icon: logo-apple
+- name: Mac OS 10.10 +
+  icon: logo-apple
+steps:
+- name: Open a web browser, or a new tab on your current web browser
+  directions: Open a web browser, or a new tab on your current web browser
+  image: ''
+  enableimg: false
+  weight: "1"
+description: ''
+custom: false
+outcomes: []
 
+---
 ### What You'll Need
 
 * A Mac desktop or laptop running Mac OS 10.10 and Higher
