@@ -46,7 +46,7 @@ fields:
     name: directions
     label: directions
   - type: file
-    name: image
+    name: imgsrc
     label: image
   - type: boolean
     name: enableimg
