@@ -5,6 +5,7 @@ layout: guide
 icon: cog
 custom: false
 type: Corporate
+kind: post
 requirements:
 - name: DropByte Admin
   icon: lock-closed
