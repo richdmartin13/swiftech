@@ -41,46 +41,46 @@ image = ""
 name = "⌘ + X"
 weight = "3"
 [[steps]]
+directions = "Mistakes happen all the time, but there's no need to worry about them! With ⌘Z, you can undo many mistakes. Plus, you can redo them with ⌘ + Shift + Z. "
+enableimg = false
+image = ""
+name = "⌘ + Z"
+weight = "4"
+[[steps]]
 directions = "If you ever need to save what you're working on, just use ⌘S to do it quickly. If you haven't saved the file already, Mac OS will ask you how you want to save it. Otherwise, it's saved over the last one."
 enableimg = false
 image = ""
 name = "⌘ + S"
-weight = "4"
+weight = "5"
 [[steps]]
 directions = "Printing is much easier than it seems - from any website or document, you can use ⌘P to print what you're looking at."
 enableimg = false
 image = ""
 name = "⌘ + P"
-weight = "5"
+weight = "6"
 [[steps]]
 directions = "If you ever need to select a whole list of files or all the text in a document, press ⌘A and Mac OS will select everything."
 enableimg = false
 image = ""
 name = "⌘ + A"
-weight = "6"
+weight = "7"
 [[steps]]
 directions = "⌘Q Allows you to quit programs in Mac OS. Instead of minimizing (-) or closing (x) windows, it's better to completely quit the programs. You can do this with ⌘Q. "
 enableimg = false
 image = ""
 name = "⌘ + Q"
-weight = "7"
+weight = "8"
 [[steps]]
 directions = "If you want to search for a program, file, website, or even do quick calculations, press ⌘ and the Space Bar. It will bring up Spotlight, which allows you to search anything."
 enableimg = false
 image = ""
 name = "⌘ + Space"
-weight = "8"
+weight = "9"
 [[steps]]
 directions = "If you ever want to take a screenshot, hold down ⌘, the Shift Key, and 5. You'll see a toolbar on the bottom where you can choose between full screen, selection, or screen recording."
 enableimg = false
 image = ""
 name = "⌘ + Shift + 5"
-weight = "9"
-[[steps]]
-directions = "If you want to take a screenshot of a small area quickly, hold ⌘ and the Shift key and press 4. Then, just click and drag your cursor around the area of the screen you want to capture."
-enableimg = false
-image = ""
-name = "⌘ + Shift + 4"
 weight = "10"
 
 +++
