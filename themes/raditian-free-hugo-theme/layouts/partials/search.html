@@ -33,16 +33,16 @@
             </div>
             {{ end }}
         </div>
-        <h3 style="margin-top: 52px; margin-bottom: 0px;"> All QuickBytes</h3>
-        <div class="row row--padded mb-0 rad-fade-down" style="display: flex; flex-flow: row wrap; align-items: center; justify-content: flex-start; width: 100%;">
-            <!-- Ranges through content/posts/*.md -->
+        <!-- <h3 style="margin-top: 52px; margin-bottom: 0px;"> All QuickBytes</h3>
+        <div class="row row--padded mb-0 rad-fade-down"
+            style="display: flex; flex-flow: row wrap; align-items: center; justify-content: flex-start; width: 100%;">
+            Ranges through content/posts/*.md
             {{ range where .Site.Pages "Params.layout" "==" "guide"}}
             <div class="col-12 col-md-8 mb-2 mb-md-0 category">
                 <a class="category-link" href="{{.Permalink}}">
                     <div class="testimonial__author category-link">
                         <span class="lozad team-image icon-container-sm">
-                            <ion-icon name="{{ .Params.icon }}"
-                                style="text-align: center; margin: 0 auto; color: #fff" />
+                            <ion-icon name="{{ .Params.icon }}" style="text-align: center; margin: 0 auto; color: #fff" />
                         </span>
                         <div class="testimonial__author-info">
                             <h4>{{ .Params.title }}</h4>
@@ -52,7 +52,7 @@
                 </a>
             </div>
             {{ end }}
-    </div>
+        </div> -->
     </div>
 </section>
 {{ end }}
