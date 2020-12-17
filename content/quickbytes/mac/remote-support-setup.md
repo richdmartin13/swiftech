@@ -26,23 +26,33 @@ steps:
   image: "/img/works/support.svg"
   enableimg: false
   weight: "1"
+  imgsrc: ''
 - name: Sign into Zoom's Website
-  directions: Go to http://zoom.us and click "sign in" in the upper right corner. If you do not already have an account, you will have to click "Sign up, it's free" instead and make an account.
+  directions: Go to http://zoom.us and click "sign in" in the upper right corner.
+    If you do not already have an account, you will have to click "Sign up, it's free"
+    instead and make an account.
   image: "/img/works/support.svg"
   weight: "2"
   enableimg: false
+  imgsrc: ''
 - name: Open Settings
-  directions: Once you are signed in to your account, you should see a link on the left called "Settings." Click here, and scroll about halfway down until you see an option for remote control.
+  directions: Once you are signed in to your account, you should see a link on the
+    left called "Settings." Click here, and scroll about halfway down until you see
+    an option for remote control.
   image: "/img/works/support.svg"
   weight: "3"
   enableimg: false
+  imgsrc: ''
 - name: Enable Remote Access
-  directions: If the setting for remote control is not turned on, click the switch on the right to enable it.
+  directions: If the setting for remote control is not turned on, click the switch
+    on the right to enable it.
   image: "/img/works/support.svg"
   weight: "4"
   enableimg: false
+  imgsrc: ''
 outcomes:
 - name: Remote Access is Enabled
   icon: videocam
+header: "/undraw_video_call_kxyp.svg"
 
 ---
