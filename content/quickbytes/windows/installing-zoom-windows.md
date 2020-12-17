@@ -33,30 +33,31 @@ steps:
   weight: "1"
   image: ''
 - name: Get Zoom
-  directions: Go to [Zoom's Download Page](https:zoom.us/download) in a new tab. You
-    can do this by right clicking "Open Link in New Tab."
+  directions: Go to https:zoom.us/download in a new tab. You can do this by right
+    clicking "Open Link in New Tab." Alternatively, you can click "Get Zoom" on our
+    homepage.
   enableimg: false
   weight: "2"
   image: ''
 - name: Download Zoom
   directions: Find the heading, "Zoom Client for Meetings." Click the download button,
     and allow downloads from zoom.us if prompted.
-  enableimg: false
+  enableimg: true
   imgsrc: "../zoom-download.jpg"
   weight: "3"
-  image: ''
+  image: "/capture.PNG"
 - name: Install Zoom
   directions: In your downloads folder, you should see a file named "ZoomInstaller.exe"
     or just "ZoomInstaller." Double click this file.
-  enableimg: false
+  enableimg: true
   weight: "4"
-  image: ''
+  image: "/zoom-installer.PNG"
 - name: Launch Zoom
   directions: Zoom should now show up in your applications. Click it to launch and
     enter a Zoom Meeting ID, or click a Zoom Invitation link to begin a call.
-  enableimg: false
+  enableimg: true
   weight: "5"
-  image: ''
+  image: "/zoom-client.PNG"
 - name: Allow Permissions
   directions: Zoom may prompt you for camera and microphone access. Allow all of these
     permissions.
