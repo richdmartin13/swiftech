@@ -84,3 +84,4 @@ name = "⌘ + Shift + 5"
 weight = "10"
 
 +++
+There are several cumbersome tasks that can be done faster with keyboard shortcuts. These are just a handful of keyboard combinations, but they're worth checking out.
