@@ -191,10 +191,10 @@ table {
 }
 
 .step img {
-  flex: 1;
   max-height: 200px;
   max-width: 80%;
   border: none;
+  align-self: flex-end;
 }
 
 .step-header {
