@@ -43,21 +43,20 @@ steps:
   directions: Find the heading, "Zoom Client for Meetings." Click the download button,
     and allow downloads from zoom.us if prompted.
   enableimg: true
-  imgsrc: "../zoom-download.jpg"
+  imgsrc: "zoom-download.jpg"
   weight: "3"
-  image: "/capture.PNG"
 - name: Install Zoom
   directions: In your downloads folder, you should see a file named "ZoomInstaller.exe"
     or just "ZoomInstaller." Double click this file.
   enableimg: true
   weight: "4"
-  image: "/zoom-installer.PNG"
+  imgsrc: "zoom-installer.jpg"
 - name: Launch Zoom
   directions: Zoom should now show up in your applications. Click it to launch and
     enter a Zoom Meeting ID, or click a Zoom Invitation link to begin a call.
   enableimg: true
   weight: "5"
-  image: "/zoom-client.PNG"
+  imgsrc: "zoom-client.jpg"
 - name: Allow Permissions
   directions: Zoom may prompt you for camera and microphone access. Allow all of these
     permissions.
