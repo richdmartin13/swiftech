@@ -14,7 +14,7 @@ icon: videocam
 layout: guide
 custom: false
 requirements:
-- name: Windows PC
+- name: Windows 8+
   icon: logo-windows
 - name: Wi-Fi
   icon: wifi
