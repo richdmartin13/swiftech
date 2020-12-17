@@ -18,4 +18,4 @@ fields:
   name: icon
   label: icon
 pages:
-- content/quickbytes/news/dropbyte-news.md
+- content/quickbytes/news/_index.md
