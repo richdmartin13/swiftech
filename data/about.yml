@@ -3,45 +3,44 @@ about:
   enable: true
   title: Who are We?
   content: "<p class=\"lead\"> DropByte is a project by Richard Martin that was started
-    in July 2020 in Knoxville, TN, with one goal in mind: to help people learn how to use their tech,
-    and do it better.</p> \n<p class=\"lead\"> Our goal at DropByte is different than anything 
-    you've seen before. While we do on-site visits, we do most of our work via Zoom Video Conferencing,
-    so we're always a call away. 
-    And unlike other tech support companies, we''re not looking for the quick
-    fix that''ll have you calling back next week - we find real solutions, just for
-    you.</p>"
+    in July 2020 in Knoxville, TN, with one goal in mind: to help people learn how
+    to use their tech, and do it better.</p> \n<p class=\"lead\"> Our goal at DropByte
+    is different than anything you've seen before. While we do on-site visits, we
+    do most of our work via Zoom Video Conferencing, so we're always a call away.
+    And unlike other tech support companies, we''re not looking for the quick fix
+    that''ll have you calling back next week - we find real solutions, just for you.</p>"
   button:
     icon: rocket
     btnText: Our Services
     URL: "/services"
   image:
-    x: /img/who-am-i/team.svg
-    _2x: /img/who-am-i/team.svg
+    x: "/img/who-am-i/team.svg"
+    _2x: "/img/who-am-i/team.svg"
 team:
   enable: true
   title: Meet the Team
   items:
   - name: Richard Martin
-    position: Founder, IT Specialist
+    position: Founder & IT Specialist
     image:
       x: https://richdmart.in/assets/images/avatar.png
       _2x: https://richdmart.in/assets/images/avatar.png
-  # - name: Daniel Beckett
-  #   position: Finance & Marketing Consultant
-  #   image:
-  #     x: https://media-exp1.licdn.com/dms/image/C4D03AQE1UtG-zT4ZuA/profile-displayphoto-shrink_400_400/0/1582311788347?e=1613606400&v=beta&t=aoKVRLHbT7L6EuSD2IurYauaufsQh888dmGrv4MI3Rg
-  #     _2x: https://media-exp1.licdn.com/dms/image/C4D03AQE1UtG-zT4ZuA/profile-displayphoto-shrink_400_400/0/1582311788347?e=1613606400&v=beta&t=aoKVRLHbT7L6EuSD2IurYauaufsQh888dmGrv4MI3Rg
+  - name: Dan Beckett
+    position: Finance & Marketing
+    image:
+      x: https://media-exp1.licdn.com/dms/image/C4D03AQE1UtG-zT4ZuA/profile-displayphoto-shrink_400_400/0/1582311788347?e=1613606400&v=beta&t=aoKVRLHbT7L6EuSD2IurYauaufsQh888dmGrv4MI3Rg
+      _2x: https://media-exp1.licdn.com/dms/image/C4D03AQE1UtG-zT4ZuA/profile-displayphoto-shrink_400_400/0/1582311788347?e=1613606400&v=beta&t=aoKVRLHbT7L6EuSD2IurYauaufsQh888dmGrv4MI3Rg
 testimonial:
   enable: true
   title: Testimonials
   items:
   - name: Richard Martin
     position: DropByte Creator
-    content: I created DropByte because I wanted to share my knowledge about technology with others.
-             I figured out that Zoom was also perfectly usable as a tech support tool. And so, DropByte began. 
-             At present, DropByte is just a project that I'm working on. My hopes are to expand to serve both 
-             local and domestic clients, and to build a helpful knowledgebase covering
-             a vast range of tech-related subjects.
+    content: I created DropByte because I wanted to share my knowledge about technology
+      with others. I figured out that Zoom was also perfectly usable as a tech support
+      tool. And so, DropByte began. At present, DropByte is just a project that I'm
+      working on. My hopes are to expand to serve both local and domestic clients,
+      and to build a helpful knowledgebase covering a vast range of tech-related subjects.
     image:
       x: https://richdmart.in/assets/images/avatar.png
       _2x: https://richdmart.in/assets/images/avatar.png
