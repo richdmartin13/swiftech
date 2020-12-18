@@ -1,7 +1,6 @@
 +++
 custom = true
 description = ""
-draft = true
 header = "/undraw_newspaper_k72w.svg"
 icon = "newspaper"
 layout = "guide"
