@@ -66,7 +66,6 @@ fields:
     label: icon
 pages:
 - content/branding-toolkit.md
-- content/quickbytes/corporate/how-we-work.md
 - content/quickbytes/ios/install-zoom-ios.md
 - content/quickbytes/mac/installing-zoom-mac.md
 - content/quickbytes/mac/remote-support-setup.md
