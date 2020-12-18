@@ -13,7 +13,11 @@
 <body>
 
 	{{ partial "header.html" . }}
+
 	{{ partial "quickbytes/guide.html" . }}
+	{{ range .Site.Params.guide }}
+	{{ partial . $ }}
+	{{ end }}
 
 	{{ partial "footer.html" . }}
     {{ partial "base-foot.html" . }}

@@ -35,7 +35,7 @@ URL = "/enterprise"
 name = "Enterprise"
 weight = 4
 [[menu.footer]]
-URL = "/quickbytes/terms-conditions/how-we-work"
+URL = "/quickbytes/terms/how-we-work"
 name = "How We Work"
 weight = "5"
 [[menu.footer]]
@@ -65,6 +65,7 @@ premium = ["premium-perks", "leads", "contact"]
 quickbytes = ["search", "leads", "contact"]
 services = ["client-and-work", "pricing", "leads", "contact"]
 subscribe = ["subscribe-form"]
+guide = ["leads", "contact"]
 [params.footer]
 copyright = "© DropByte and "
 [params.footer.radity_logo]
