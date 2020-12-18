@@ -35,8 +35,8 @@ URL = "/enterprise"
 name = "Enterprise"
 weight = 4
 [[menu.footer]]
-URL = "/services"
-name = "Services"
+URL = "/quickbytes/corporate/"
+name = "How We Work"
 weight = "5"
 [[menu.footer]]
 URL = "/about"
