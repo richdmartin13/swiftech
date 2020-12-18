@@ -17,7 +17,7 @@ QuickBytes are free guides that are centered around tech skills. You do not have
 
 ### Remote Support
 
-Remote Support is scheduled only through online scheduling and is booked in one-hour time slots. Unless you are enrolled in a DropByte Plan, we bill in hourly increments at $30 per hour.   
+Remote Support is scheduled only through online scheduling and is booked in one-hour time slots. Unless you are enrolled in a DropByte Plan, we bill in hourly increments at $30 per hour.
 
 These sessions are intended for work that can be done without being physically present. The full offerings of remote sessions are only available for devices with remote control enabled, but we will still be able to guide you through issues if you are calling via Zoom from another device.
 
@@ -27,7 +27,7 @@ On-Site Meetings are scheduled through online scheduling, though they may be rec
 
 These sessions are intended for work that cannot be done without being physically present. On-Site sessions may be advised only under the discretion of any Support Expert, but may also be requested by clients.
 
-If a request for an On-Site Meeting is a new issue, we will first schedule a free 15-minute consultation to discuss the details of the issue and gather information. After our research is complete, we will schedule an On-Site meeting to address the problem. 
+If a request for an On-Site Meeting is a new issue, we will first schedule a free 15-minute consultation to discuss the details of the issue and gather information. After our research is complete, we will schedule an On-Site meeting to address the problem.
 
 If a request for an On-Site Meeting is a known issue (one that has been worked on by DropByte Support Experts previously) then you are welcome to schedule an On-Site meeting without any consultation.
 
@@ -35,7 +35,7 @@ If a request for an On-Site Meeting is a known issue (one that has been worked o
 
 Free, 15-minute Consultations are only offered for initial discovery of problems. DropByte Support will not provide any advice or solutions during these meetings. Instead, Consultations are for the sole purpose of gathering information related to a specific issue or a variety of requests.
 
-Consultations may extend past their 15 minute scheduled time only if discovery is not complete, at the discretion of any Support Expert. Additionally, we may request a consultation with you before a Remote Session or On-Site Meeting if we feel we do not have enough information.  
+Consultations may extend past their 15 minute scheduled time only if discovery is not complete, at the discretion of any Support Expert. Additionally, we may request a consultation with you before a Remote Session or On-Site Meeting if we feel we do not have enough information. DropByte reserves the right to end or bill for any Consultation in which advice is given or solutions are implemented.
 
 ### DropByte Premium & Enterprise
 
