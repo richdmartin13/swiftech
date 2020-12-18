@@ -2,7 +2,7 @@
 custom = true
 description = ""
 header = "/undraw_contract_uy56.svg"
-icon = "accessibility"
+icon = "earth"
 layout = "guide"
 outcomes = []
 requirements = []
