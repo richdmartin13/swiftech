@@ -35,13 +35,13 @@ If a request for an On-Site Meeting is a known issue (one that has been worked o
 
 Free, 15-minute Consultations are only offered for initial discovery of problems. DropByte Support will not provide any advice or solutions during these meetings. Instead, Consultations are for the sole purpose of gathering information related to a specific issue or a variety of requests.
 
- We may request a consultation with you before an On-Site Meeting if we feel we do not have enough information. Additionally, consultations may extend past their 15 minute scheduled time only if discovery is not complete, at the discretion of any Support Expert. DropByte reserves the right to end or bill for any Consultation in which advice is given or solutions are implemented.
+We may request a consultation with you before an On-Site Meeting if we feel we do not have enough information. Additionally, consultations may extend past their 15 minute scheduled time only if discovery is not complete, at the discretion of any Support Expert. DropByte reserves the right to end or bill for any Consultation in which advice is given or solutions are implemented.
 
 ### DropByte Premium & Enterprise
 
 DropByte Premium & Enterprise are monthly subscriptions that provide discounts and other benefits. A full list of benefits for Premium can be found [here](https://dropbyte.ch/premium), and Enterprise benefits can be found [here](https://dropbyte.ch/enterprise).
 
-At the beginning of your Premium or Enterprise subscription, we will schedule an in-person meeting with you to do an initial survey of your current technology. We will document all devices, including serial/IMEI numbers and model numbers. This information will not be shared, though we may use this data when troubleshooting and considering potential upgrades for you. The cost for this survey is a flat charge of $50, regardless of time spent.
+At the beginning of your Premium or Enterprise subscription, we will schedule an in-person meeting with you to do an initial survey of your current technology. We will document all devices, including serial/IMEI numbers and model numbers. This information will not be shared, though we may use this data when troubleshooting and considering potential upgrades for you. The cost for this survey is a flat charge of $50 for Premium Plans and $10/User for Enterprise Plans, regardless of time spent. 
 
 ### Questions and Comments
 
