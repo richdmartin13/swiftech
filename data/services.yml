@@ -11,11 +11,11 @@ client_and_work:
     button2:
       icon: newspaper
       btnText: See QuickBytes
-      URL: /quickbytes
+      URL: "/quickbytes"
     button:
       icon: mail
       btnText: Contact Us
-      URL: "https://dropbyte.ch/#contact"
+      URL: https://dropbyte.ch/#contact
     image:
       x: img/works/learn.svg
       _2x: img/works/learn.svg
@@ -38,9 +38,9 @@ client_and_work:
       _2x: img/works/support.svg
     is_even: true
   - title: On-Site Meetings
-    description: Have an issue that's a little more hands on? No problem.
-      If we're in the area, we'll schedule a quick remote consultation, then
-      we'll be out there when it works best for you.
+    description: Have an issue that's a little more hands on? No problem. If we're
+      in the area, we'll schedule a quick remote consultation, then we'll be out there
+      when it works best for you.
     button:
       icon: newspaper
       btnText: Schedule a Consultation
@@ -54,33 +54,33 @@ client_and_work:
       _2x: img/works/in-person.svg
     is_even: false
   - title: DropByte Premium
-    description: DropByte Premium is built for home and family. With benefits 
-      geared towards saving you time and money, you can finally sit back and 
-      let your tech do the heavy lifting.
+    description: DropByte Premium is built for home and family. With benefits geared
+      towards saving you time and money, you can finally sit back and let your tech
+      do the heavy lifting.
     button:
       icon: reader
       btnText: Learn More
-      URL: /premium
+      URL: "/premium"
     button2:
       icon: rocket
       btnText: Join Now
-      URL: /subscribe
+      URL: "/subscribe"
     image:
       x: img/works/subscribe.svg
       _2x: img/works/subscribe.svg
     is_even: true
   - title: DropByte Enterprise
-    description: Looking for business tech support? DropByte Enterprise brings
-      unique benefits. Enjoy discounts, on-call consultations, systems management
-      and more. Contact us to get a quote that fits your business model.
+    description: Looking for business tech support? DropByte Enterprise brings unique
+      benefits. Enjoy discounts, on-call consultations, systems management and more.
+      Contact us to get a quote that fits your business model.
     button:
       icon: reader
       btnText: Learn More
-      URL: /enterprise
+      URL: "/enterprise"
     button2:
       icon: rocket
       btnText: Join Now
-      URL: /subscribe
+      URL: "/subscribe"
     image:
       x: img/works/business.svg
       _2x: img/works/business.svg
@@ -91,18 +91,18 @@ pricing:
   description: Need help fast? Try our QuickBytes - they're free tutorials that can
     help in a pinch. If you'd rather us help, you can schedule time with us and we'll
     assist you remotely or in person, on your time. If you'd like personal tech support,
-    DropByte Premium will put you at ease. And if you're looking for business tech support,
-    check out DropByte Enterprise. And now, you can refer a friend and get free remote
-    sessions when they schedule their first session with us.
+    DropByte Premium will put you at ease. And if you're looking for business tech
+    support, check out DropByte Enterprise. And now, you can refer a friend and get
+    free remote sessions when they schedule their first session with us.
   button:
     icon: mail
     icon2: arrow-forward
     btnText: Contact Us
-    URL: "https://dropbyte.us/#contact"
+    URL: https://dropbyte.us/#contact
   button2:
     icon: person-add
     btnText: Refer a Friend
-    URL: /refer
+    URL: "/refer"
   items:
   - title: Access to QuickBytes
     company: FREE
@@ -114,8 +114,8 @@ pricing:
     company: "$50 PER HOUR"
     duration: For the Tough Stuff
   - title: DropByte Premium
-    company: "$15 PER MONTH"
+    company: "$15 PER MONTH + $50 SETUP"
     duration: Personal Tech Support
   - title: DropByte Enterprise
-    company: "CONTACT US"
+    company: CONTACT US
     duration: Better Business Support
