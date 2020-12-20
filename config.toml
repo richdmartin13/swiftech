@@ -57,11 +57,11 @@ weight = 1
 [params]
 about = ["about", "team", "testimonial", "contact"]
 article = ["article"]
-enterprise = ["enterprise-perks", "leads", "contact"]
+enterprise = ["enterprise-perks", "pricing-enterprise", "leads", "contact"]
 form = ["form"]
 googleTagManagerID = "GTM-000000"
 homepage = ["showcase", "overview", "leads", "contact"]
-premium = ["premium-perks", "leads", "contact"]
+premium = ["premium-perks", "pricing-premium", "leads", "contact"]
 quickbytes = ["search", "leads", "contact"]
 services = ["client-and-work", "pricing", "leads", "contact"]
 subscribe = ["subscribe-form"]

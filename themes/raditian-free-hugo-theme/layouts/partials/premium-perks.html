@@ -25,8 +25,7 @@
     </div> -->
     {{ range $index, $element := .Site.Data.premium.subscribe.benefits }}
     <div
-      class="row row--padded rad-animation-group rad-fade-down {{ if .is_even }}flex-column-reverse flex-md-row{{ end }}"
-    >
+      class="row row--padded rad-animation-group rad-fade-down {{ if .is_even }}flex-column-reverse flex-md-row{{ end }}">
       {{ if .is_even }}
       <div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto">
         <h3>{{ .title }}</h3>
@@ -47,20 +46,16 @@
         <img
           class='lozad img-responsive {{ cond (eq ( mod $index 4) 0) "img-clip-left-backward" "img-clip-left-forward" }}'
           src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
-          data-src="{{ .image.x | absURL }}"
-          data-srcset="{{ .image.x | absURL }} 1x, {{ .image._2x | absURL }} 2x"
-          alt="{{ .title }}"
-        />
+          data-src="{{ .image.x | absURL }}" data-srcset="{{ .image.x | absURL }} 1x, {{ .image._2x | absURL }} 2x"
+          alt="{{ .title }}" />
       </div>
       {{ else }}
       <div class="col-12 col-md-7 pl-md-0 text-right">
         <img
           class='lozad img-responsive {{ cond (eq ( mod $index 4) 1)  "img-clip-right-backward" "img-clip-right-forward" }}'
           src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
-          data-src="{{ .image.x | absURL }}"
-          data-srcset="{{ .image.x | absURL }} 1x, {{ .image._2x | absURL }} 2x"
-          alt="{{ .title }}"
-        />
+          data-src="{{ .image.x | absURL }}" data-srcset="{{ .image.x | absURL }} 1x, {{ .image._2x | absURL }} 2x"
+          alt="{{ .title }}" />
       </div>
       <div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto">
         <h3>{{ .title }}</h3>
@@ -73,8 +68,6 @@
       {{ end }}
     </div>
     {{ end }}
-    <a href="{{ .Site.Data.premium.subscribe.button.URL | absURL }}" class="btn btn-primary cta-button"
-    ><ion-icon name="{{ .Site.Data.premium.subscribe.button.icon }}"></ion-icon>&nbsp;{{ .Site.Data.premium.subscribe.button.btnText }}</a>
   </div>
 </section>
 {{ end }}

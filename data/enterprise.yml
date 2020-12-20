@@ -57,3 +57,28 @@ subscribe:
     #   icon: newspaper
     #   btnText: See QuickBytes
     #   URL: https://learn.dropbyte.ch
+pricing:
+  enable: true
+  title: Pricing
+  description: When you subscribe to DropByte Enterprise, you'll get all the perks above
+    and any new perks we develop. You'll also get 20% discounts on all services. And 
+    you only pay the setup fee when we do our survey - you can start enjoying the benefits
+    of premium right away.
+  button:
+    icon: rocket
+    btnText: "Join Now"
+    URL: /subscribe
+  button2:
+    icon: mail
+    btnText: "Contact Us"
+    URL: https://dropbyte.ch/#contact
+  items:
+  - title: Prices on All Services
+    company: 20% DISCOUNT
+    duration: Lower Rates
+  - title: Initial Setup
+    company: $10 PER USER FLAT FEE
+    duration: Enjoy all Enterprise has to Offer
+  - title: DropByte Premium
+    company: CONTACT US
+    duration: Better Business Support
