@@ -7,7 +7,7 @@ layout = "guide"
 outcomes = []
 requirements = []
 steps = []
-title = nil
+title = "How We Work"
 type = "Information"
 
 +++
