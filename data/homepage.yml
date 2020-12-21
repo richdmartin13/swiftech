@@ -24,6 +24,8 @@ showcase:
     URL: https://www.instagram.com/dropbyte.ch/
   - icon: twitter
     URL: https://twitter.com/DropByteTech
+  - icon: logo-facebook
+    URL: https://business.facebook.com/DropByte-Tech-Support-100473845312452/?business_id=2950314551867897
 contact:
   enable: true
   title: Contact
@@ -48,11 +50,11 @@ newsletter:
   success_message: Successfully subscribed
   error_message: Our Newsletter isn't set up yet. Please check later.
   note: We'll never share your email with anyone else.
-leads: 
+leads:
   enable: true
   title: How Can We Help?
   items:
-  - url: /quickbytes
+  - url: "/quickbytes"
     icon: newspaper
     content: QuickBytes
     image:
@@ -78,14 +80,13 @@ leads:
       _2x: img/works/consultation.svg
 overview:
   enable: true
-  content: Unlike other tech support companies, we're not looking for the quick
-    fix that'll have you calling back next week - we find real solutions, just for
-    you.
+  content: Unlike other tech support companies, we're not looking for the quick fix
+    that'll have you calling back next week - we find real solutions, just for you.
   button:
     icon: ribbon
     btnText: About Us
-    URL: /about
+    URL: "/about"
   button2:
     icon: rocket
     btnText: Our Services
-    URL: /services
+    URL: "/services"
