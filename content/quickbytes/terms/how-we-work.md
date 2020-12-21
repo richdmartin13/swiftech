@@ -45,7 +45,11 @@ We may request a consultation with you before an On-Site Meeting if we feel we d
 
 DropByte Premium & Enterprise are monthly subscriptions that provide discounts and other benefits. A full list of benefits for Premium can be found [here](https://dropbyte.ch/premium), and Enterprise benefits can be found [here](https://dropbyte.ch/enterprise).
 
-At the beginning of your Premium or Enterprise subscription, we will schedule an in-person meeting with you to do an initial survey of your current technology. We will document all devices, including serial/IMEI numbers and model numbers. This information will not be shared, though we may use this data when troubleshooting and considering potential upgrades for you. The cost for this survey is a flat charge of $50 for Premium Plans and $10/User for Enterprise Plans, regardless of time spent. During this survey, we will not address any problems; consultation rules apply.
+At the beginning of your Premium or Enterprise subscription, we will schedule an in-person meeting with you to do an initial survey of your current technology. We will document all devices, including serial/IMEI numbers and model numbers. This information will not be shared, though we may use this data when troubleshooting and considering potential upgrades for you. The cost for this survey is a flat charge of $50 for Premium Plans and $10/User for Enterprise Plans. During this survey, we will not address any problems; consultation rules apply.
+
+### Referrals
+
+When you refer a friend to us and they schedule a Remote Session an On-Site Meeting, we'll give you a free Remote Session on us. And for every 5 friends you refer, we'll give you a free month of DropByte Premium.
 
 ### Questions and Comments
 
