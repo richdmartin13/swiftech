@@ -24,8 +24,6 @@ showcase:
     URL: https://www.instagram.com/dropbyte.ch/
   - icon: twitter
     URL: https://twitter.com/DropByteTech
-  - icon: facebook
-    URL: https://business.facebook.com/DropByte-Tech-Support-100473845312452/?business_id=2950314551867897
 contact:
   enable: true
   title: Contact
