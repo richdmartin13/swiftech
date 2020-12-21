@@ -51,6 +51,10 @@ At the beginning of your Premium or Enterprise subscription, we will schedule an
 
 When you refer a friend to us and they schedule a Remote Session an On-Site Meeting, we'll give you a free Remote Session on us. And for every 5 friends you refer, we'll give you a free month of DropByte Premium.
 
+### Refunds
+
+If you are dissatisfied with a Remote Session or an On-Site Meeting, please contact us for a full or partial refund. Refunds are reviewed on a case-by-case basis. Unfortunately, we cannot offer refunds on DropByte Premium or Enterprise subscriptions.
+
 ### Questions and Comments
 
 If you have any questions about our services or would like to know more, please [Contact Us](https://dropbyte.ch/#contact).
