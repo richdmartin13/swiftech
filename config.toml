@@ -29,11 +29,11 @@ weight = 6
 [[menu.footer]]
 URL = "/premium"
 name = "Premium"
-weight = "4"
+weight = "3"
 [[menu.footer]]
 URL = "/enterprise"
 name = "Enterprise"
-weight = 4
+weight = "4"
 [[menu.footer]]
 URL = "/quickbytes/terms/how-we-work"
 name = "How We Work"
@@ -60,12 +60,12 @@ article = ["article"]
 enterprise = ["enterprise-perks", "pricing-enterprise", "leads", "contact"]
 form = ["form"]
 googleTagManagerID = "GTM-000000"
+guide = ["leads", "contact"]
 homepage = ["showcase", "overview", "leads", "contact"]
 premium = ["premium-perks", "pricing-premium", "leads", "contact"]
 quickbytes = ["search", "leads", "contact"]
 services = ["client-and-work", "pricing", "leads", "contact"]
 subscribe = ["subscribe-form"]
-guide = ["leads", "contact"]
 [params.footer]
 copyright = "© DropByte and "
 [params.footer.radity_logo]

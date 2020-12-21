@@ -35,7 +35,3 @@ search:
     type: programming
     icon: logo-html5
     url: web-development/
-  - name: DropByte News
-    type: Information
-    icon: newspaper
-    url: news/
