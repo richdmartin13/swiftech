@@ -10,10 +10,10 @@
             <h3 style="margin-bottom: 0; margin-left: 10px;"> {{ .Title }}</h3>
         </div>
         </header>
-        <div class="row row--padded mb-0 rad-fade-down" style="display: flex; flex-flow: row wrap; align-items: center; justify-content: flex-start; width: 100%; margin: 20px auto;">
+        <div class="row row--padded mb-0 rad-fade-down" style="display: flex; flex-flow: column nowrap; align-items: flex-start; justify-content: flex-start; width: 100%; margin: 20px auto; min-height: 60vh">
                 <!-- Ranges through content/posts/*.md -->
                 {{ range .Pages }}
-                <div class="col-12 col-md-8 mb-2 mb-md-0 category">
+                <div class="col-12 col-md-8 mb-2 mb-md-0 category" style="width: 100%">
                     <a class="category-link" href="{{.Permalink}}">
                         <div class="testimonial__author category-link">
                             <span class="lozad team-image icon-container-sm">
