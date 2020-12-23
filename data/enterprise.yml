@@ -6,79 +6,65 @@ subscribe:
   button:
     icon: rocket
     btnText: Join Now
-    URL: /subscribe
+    URL: "/subscribe"
   benefits:
   - title: Enjoy Discounts
-    description: When you enroll in DropByte Enterprise, you'll also get a 20% discount on all DropByte Services.
-      Plus, remote sessions and on-site meetings are billed quarter-hourly instead of by the hour, so you'll get 
-      more out of your time.
+    description: When you enroll in DropByte Enterprise, you'll also get a 20% discount
+      on all DropByte Services. Plus, remote sessions and on-site meetings are billed
+      quarter-hourly instead of by the hour, so you'll get more out of your time.
     image:
       x: img/subscribe/save.svg
       _2x: img/subscribe/save.svg
     is_even: true
-    # button:
-    #   icon: newspaper
-    #   btnText: See QuickBytes
-    #   URL: https://learn.dropbyte.ch
   - title: Get Answers Faster
-    description: We understand that some issues can't wait. With DropByte Enterprise, you'll be able
-      to skip the scheduling and get right to us for a quick consultation. After that, we'll schedule a time
-      to solve the problem if it's not a quick fix.
+    description: We understand that some issues can't wait. With DropByte Enterprise,
+      you'll be able to skip the scheduling and get right to us for a quick consultation.
+      After that, we'll schedule a time to solve the problem if it's not a quick fix.
     image:
       x: img/subscribe/on-call.svg
       _2x: img/subscribe/on-call.svg
     is_even: false
-    # button:
-    #   icon: newspaper
-    #   btnText: See QuickBytes
-    #   URL: https://learn.dropbyte.ch
   - title: Get to Know Us
-    description: We'll keep tabs on your hardware and software, so you don't have to. Whether you're onboarding a
-      new employee or looking for new solutions, we'll make the transition seamless. And if you're looking to upgrade
-      or manage your office network, we can do that, too. We'll get to know how your office tech works, so your office tech
-      works for you.
+    description: We'll keep tabs on your hardware and software, so you don't have
+      to. Whether you're onboarding a new employee or looking for new solutions, we'll
+      make the transition seamless. And if you're looking to upgrade or manage your
+      office network, we can do that, too. We'll get to know how your office tech
+      works, so your office tech works for you.
     image:
       x: img/subscribe/personal.svg
       _2x: img/subscribe/personal.svg
     is_even: true
-    # button:
-    #   icon: newspaper
-    #   btnText: See QuickBytes
-    #   URL: https://learn.dropbyte.ch
   - title: Need a Website?
-    description: Looking for a space on the web? Web Hosting is included in your DropByte Enterprise subscription.
-      And if you don't already have a website, our front-end developers will create a website in Hugo or React at the
-      same rate as a remote session.
+    description: Looking for a space on the web? Web Hosting is included in your DropByte
+      Enterprise subscription. And if you don't already have a website, our front-end
+      developers will create a website in Hugo or React at the same rate as a remote
+      session.
     image:
       x: img/subscribe/hosting.svg
       _2x: img/subscribe/hosting.svg
     is_even: false
-    # button:
-    #   icon: newspaper
-    #   btnText: See QuickBytes
-    #   URL: https://learn.dropbyte.ch
 pricing:
   enable: true
   title: Pricing
-  description: When you subscribe to DropByte Enterprise, you'll get all the perks above
-    and any new perks we develop. You'll also get 20% discounts on all services. And 
-    you only pay the setup fee when we do our survey - you can start enjoying the benefits
-    of premium right away.
+  description: When you subscribe to DropByte Enterprise, you'll get all the perks
+    above and any new perks we develop. You'll also get 20% discounts on all services.
+    And you only pay the setup fee when we do our survey - you can start enjoying
+    the benefits of premium right away.
   button:
     icon: rocket
-    btnText: "Join Now"
-    URL: /subscribe
+    btnText: Join Now
+    URL: "/subscribe"
   button2:
     icon: mail
-    btnText: "Contact Us"
+    btnText: Contact Us
     URL: https://dropbyte.ch/#contact
   items:
   - title: Prices on All Services
     company: 20% DISCOUNT
     duration: Lower Rates
   - title: Initial Setup
-    company: $10 PER USER FLAT FEE
+    company: "$10 PER USER FLAT FEE"
     duration: Enjoy all Enterprise has to Offer
-  - title: DropByte Premium
+  - title: DropByte Enterprise
     company: CONTACT US
     duration: Better Business Support
