@@ -37,8 +37,8 @@ subscribe:
   - title: Need a Website?
     description: Looking for a space on the web? Web Hosting is included in your DropByte
       Enterprise subscription. And if you don't already have a website, our front-end
-      developers will create a website in Hugo or React at the same rate as a remote
-      session.
+      developers will create a website in Hugo or React for just $50 per hour. If
+      you have a Wordpress site, we can customize it for the same rate.
     image:
       x: img/subscribe/hosting.svg
       _2x: img/subscribe/hosting.svg
