@@ -25,7 +25,7 @@ Please note that DropByte is not affiliated with Zoom - we only provide links to
 
 ### On-Site Meetings
 
-On-Site Meetings are scheduled through online scheduling, though they may be recommended as a follow-up to a consultation or a remote session. Unless you are enrolled in a DropByte Plan, we bill in hourly increments at $50 to $100 per hour, depending on the project scope. This rate will be decided before any work is done.
+On-Site Meetings are scheduled through online scheduling, though they may be recommended as a follow-up to a consultation or a remote session. Unless you are enrolled in a DropByte Plan, we bill in hourly increments at $50 to $150 per hour, depending on the project scope. This rate will be agreed on before any work is done.
 
 These sessions are intended for work that cannot be done without being physically present. On-Site sessions may be advised by DropByte Support, but may also be requested by clients.
 
