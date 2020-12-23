@@ -29,7 +29,7 @@ On-Site Meetings are scheduled through online scheduling, though they may be rec
 
 These sessions are intended for work that cannot be done without being physically present. On-Site sessions may be advised by DropByte Support, but may also be requested by clients.
 
-If a request for an On-Site Meeting is a new issue, we will first schedule a free 15-minute consultation to discuss the details of the issue and gather information. After any issue-specific research is complete, we will schedule an On-Site meeting to address the problem. If you have already scheduled an On-Site meeting, we cannot offer a free consultation.
+If a request for an On-Site Meeting is a new issue, we will first schedule a free consultation to discuss the details of the issue and gather information. After any issue-specific research is complete, we will schedule an On-Site meeting to address the problem. If you have already scheduled an On-Site meeting, we cannot offer a free consultation.
 
 If a request for an On-Site Meeting is a known issue (one that has been worked on by DropByte Support Experts previously) then you are welcome to schedule an On-Site meeting without any consultation.
 
@@ -39,13 +39,13 @@ Free, 15-minute Consultations are only offered for initial discovery of problems
 
 Free Consultations are available for anyone, at the beginning of a project or for general information before a prospective project. However, we cannot offer free consultations for sessions or meetings that have already been scheduled.
 
-We may request a consultation with you before an On-Site Meeting if we feel we do not have enough information. Additionally, consultations may extend past their 15 minute scheduled time only if discovery is not complete, at the discretion of any Support Expert. DropByte reserves the right to end or bill for any Consultation in which advice is given or solutions are implemented.
+We may request a consultation with you before an On-Site Meeting if we feel we do not have enough information. Additionally, consultations may extend past their 15 minute scheduled time only if discovery is not complete, at the discretion of DropByte Support. DropByte reserves the right to end or bill for any Consultation in which advice is given or solutions are implemented.
 
 ### DropByte Premium & Enterprise
 
 DropByte Premium & Enterprise are monthly subscriptions that provide discounts and other benefits. A full list of benefits for Premium can be found [here](https://dropbyte.ch/premium), and Enterprise benefits can be found [here](https://dropbyte.ch/enterprise).
 
-At the beginning of your Premium or Enterprise subscription, we will schedule an in-person meeting with you to do an initial survey of your current technology. We will document all devices, including serial/IMEI numbers and model numbers. This information will not be shared, though we may use this data when troubleshooting and considering potential upgrades for you. The cost for this survey is a flat charge of $50 for Premium Plans and $10/User for Enterprise Plans. During this survey, we will not address any problems; consultation rules apply.
+At the beginning of your Premium or Enterprise subscription, we will schedule an in-person meeting with you to do an initial survey of your current technology. We will document all devices, including their model numbers. This information will not be shared, though we may use this data when troubleshooting and considering potential upgrades for you. The cost for this survey is a flat charge of $50 for Premium Plans and $10/User for Enterprise Plans. During this survey, we will not address any problems; consultation rules apply. You can still enjoy DropByte subscriptions without this setup, though services will be limited.
 
 ### Referrals
 
