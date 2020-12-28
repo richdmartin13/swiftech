@@ -33,10 +33,6 @@ If a request for an On-Site Meeting is a new issue, we will first schedule a fre
 
 If a request for an On-Site Meeting is a known issue (one that has been worked on by DropByte Support Experts previously) then you are welcome to schedule an On-Site meeting without any consultation.
 
-### Cancellations
-
-If you have scheduled a Remote Session or On-Site Meeting and are no longer able to make the appointment, you may reschedule the appointment at no cost, or cancel the appointment for a 50% refund. Unfortunately, we are not able to provide full refunds at this time for cancellations.
-
 ### Consultations
 
 Free, 15-minute Consultations are only offered for initial discovery of problems. DropByte Support will not provide any advice or solutions during these meetings. Instead, Consultations are for the sole purpose of gathering information related to a specific issue or a variety of requests.
@@ -44,6 +40,10 @@ Free, 15-minute Consultations are only offered for initial discovery of problems
 Free Consultations are available for anyone, at the beginning of a project or for general information before a prospective project. However, we cannot offer free consultations for sessions or meetings that have already been scheduled.
 
 We may request a consultation with you before an On-Site Meeting if we feel we do not have enough information. Additionally, consultations may extend past their 15 minute scheduled time only if discovery is not complete, at the discretion of DropByte Support. DropByte reserves the right to end or bill for any Consultation in which advice is given or solutions are implemented.
+
+### Cancellations
+
+If you have scheduled a Remote Session or On-Site Meeting and are no longer able to make the appointment, you may reschedule the appointment at no cost, or cancel the appointment for a 50% refund. Unfortunately, we are not able to provide full refunds at this time for cancellations.
 
 ### Referrals
 
