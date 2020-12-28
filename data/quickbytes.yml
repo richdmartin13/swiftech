@@ -34,7 +34,7 @@ search:
   - name: Online Safety
     type: Security
     icon: shield
-    url: ''
+    url: https://dropbyte.ch/quickbytes/online-safety
   - name: Web Development
     type: programming
     icon: logo-html5
