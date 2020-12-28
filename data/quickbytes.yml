@@ -31,6 +31,10 @@ search:
     type: mobile
     icon: logo-apple
     url: ios/
+  - name: Online Safety
+    type: Security
+    icon: shield
+    url: ''
   - name: Web Development
     type: programming
     icon: logo-html5
