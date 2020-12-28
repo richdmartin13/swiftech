@@ -53,38 +53,6 @@ client_and_work:
       x: img/works/in-person.svg
       _2x: img/works/in-person.svg
     is_even: false
-  - title: DropByte Premium
-    description: DropByte Premium is built for home and family. With benefits geared
-      towards saving you time and money, you can finally sit back and let your tech
-      do the heavy lifting.
-    button:
-      icon: reader
-      btnText: Learn More
-      URL: "/premium"
-    button2:
-      icon: rocket
-      btnText: Join Now
-      URL: "/subscribe"
-    image:
-      x: img/works/subscribe.svg
-      _2x: img/works/subscribe.svg
-    is_even: true
-  - title: DropByte Enterprise
-    description: Looking for business tech support? DropByte Enterprise brings unique
-      benefits. Enjoy discounts, on-call consultations, systems management and more.
-      Contact us to get a quote that fits your business model.
-    button:
-      icon: reader
-      btnText: Learn More
-      URL: "/enterprise"
-    button2:
-      icon: rocket
-      btnText: Join Now
-      URL: "/subscribe"
-    image:
-      x: img/works/business.svg
-      _2x: img/works/business.svg
-    is_even: false
 pricing:
   enable: true
   title: Pricing
