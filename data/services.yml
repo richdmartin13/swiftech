@@ -58,10 +58,8 @@ pricing:
   title: Pricing
   description: Need help fast? Try our QuickBytes - they're free tutorials that can
     help in a pinch. If you'd rather us help, you can schedule time with us and we'll
-    assist you remotely or in person, on your time. If you'd like personal tech support,
-    DropByte Premium will put you at ease. And if you're looking for business tech
-    support, check out DropByte Enterprise. And now, you can refer a friend and get
-    free remote sessions when they schedule their first session with us.
+    assist you remotely or in person, on your time. And now, you can refer a friend
+    and get free remote sessions when they schedule their first session with us.
   button:
     icon: mail
     icon2: arrow-forward
@@ -81,9 +79,3 @@ pricing:
   - title: On-Site Meetings
     company: "$50 - $150 PER HOUR"
     duration: For the Tough Stuff
-  - title: DropByte Premium
-    company: "$15 PER MONTH + $50 SETUP"
-    duration: Personal Tech Support
-  - title: DropByte Enterprise
-    company: CONTACT US
-    duration: Better Business Support
