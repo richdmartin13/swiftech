@@ -27,14 +27,6 @@ URL = "/quickbytes"
 name = "QuickBytes"
 weight = "2"
 [[menu.footer]]
-URL = "/premium"
-name = "Premium"
-weight = "3"
-[[menu.footer]]
-URL = "/enterprise"
-name = "Enterprise"
-weight = "4"
-[[menu.footer]]
 URL = "/quickbytes/terms/how-we-work"
 name = "How We Work"
 weight = "5"
