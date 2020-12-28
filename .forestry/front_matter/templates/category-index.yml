@@ -18,6 +18,7 @@ fields:
   name: icon
   label: icon
 pages:
+- content/online-safety-copy.md
 - content/online-safety.md
 - content/quickbytes/news/_index.md
 - content/quickbytes/news/_index.md
