@@ -70,12 +70,6 @@ leads:
     image:
       x: img/works/in-person.svg
       _2x: img/works/in-person.svg
-  - url: https://dropbyte.hbportal.co/schedule/5fcfc255bd4ffb2598f7beea
-    icon: document-text
-    content: Free Consultation
-    image:
-      x: img/works/consultation.svg
-      _2x: img/works/consultation.svg
 overview:
   enable: true
   content: Unlike other tech support companies, we're not looking for the quick fix
