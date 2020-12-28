@@ -35,7 +35,3 @@ search:
     type: Security
     icon: shield
     url: online-safety/
-  - name: Web Development
-    type: programming
-    icon: logo-html5
-    url: web-development/
