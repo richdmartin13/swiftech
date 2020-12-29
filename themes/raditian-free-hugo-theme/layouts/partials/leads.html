@@ -7,7 +7,7 @@
         <div class="row row--padded mb-0 rad-fade-down" style="display: flex; flex-flow: row wrap; align-items: center; justify-content: center; width: 100%">
             {{ range .Site.Data.homepage.leads.items }}
             <a href="{{ .url | absURL }}" class="col-8 col-md-3 mb-8 mb-md-3 category" style="height: 256px; display: flex; flex-flow: column nowrap; align-items: center; justify-content: center">
-              <div class="" style="display: flex; flex-flow: column nowrap; align-items: center; justify-content: center">
+              <div class="" style="display: flex; flex-flow: column nowrap; align-items: center; justify-content: center; align-self: center">
                 <img class='lozad img-responsive lead-img'  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
                     data-src="{{ .image.x | absURL }}"
                     data-srcset="{{ .image.x | absURL }} 1x, {{ .image._2x | absURL }} 2x" alt="{{ .title }}" />
