@@ -6,18 +6,20 @@
         <h2 class="rad-fade-down" style="align-self: center; margin: 0 auto; width: fit-content">{{ .Site.Data.homepage.leads.title }}</h2>
         <div class="row row--padded mb-0 rad-fade-down" style="display: flex; flex-flow: row wrap; align-items: center; justify-content: center; width: 100%">
             {{ range .Site.Data.homepage.leads.items }}
-            <a href="{{ .url | absURL }}" class="col-8 col-md-3 mb-8 mb-md-3 category" style="height: 256px; display: flex; flex-flow: column nowrap; align-items: center; justify-content: center">
-              <div class="" style="display: flex; flex-flow: column nowrap; align-items: center; justify-content: center; align-self: center">
-                <img class='lozad img-responsive lead-img'  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
-                    data-src="{{ .image.x | absURL }}"
-                    data-srcset="{{ .image.x | absURL }} 1x, {{ .image._2x | absURL }} 2x" alt="{{ .title }}" />
-                <p class="lead" style="font-weight:500; margin-top: 10px">{{ .content }}</p>
-                <!--<a href="{{ .url | absURL }}" class="btn btn-primary btn-leads">
-                    <ion-icon name="{{ .icon }}"></ion-icon>
-                    &nbsp;{{ .content }}
-                </a>-->
-              </div>
-            </a>
+          <div class="col-12 col-md-3 mb-1 mb-md-0 category" style="width: 100%">
+                    <a class="category-link" href="{{ .url | absURL }}">
+                        <div class="testimonial__author category-link">
+                            <span class="lozad team-image icon-container-sm">
+                                <ion-icon name="{{ .icon }}"
+                                    style="text-align: center; margin: 0 auto; color: #fff" />
+                            </span>
+                            <div class="testimonial__author-info">
+                                <h4>{{ .content }}</h4>
+                                <span style="text-transform: capitalize;">{{ .Params.type }}</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
             {{ end }}
         </div>
     </div>
