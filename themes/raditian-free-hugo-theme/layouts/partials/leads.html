@@ -3,10 +3,10 @@
 {{ if .Site.Data.homepage.leads.enable }}
 <section class="section rad-animation-group section--border-bottom">
     <div class="container">
-        <h2 class="rad-fade-down" style="align-self: center; margin: 0 auto; width: fit-content">{{ .Site.Data.homepage.leads.title }}</h2>
-        <div class="row row--padded mb-0 rad-fade-down" style="display: flex; flex-flow: row wrap; align-items: center; justify-content: center; width: 100%">
+        <h2 class="rad-fade-down" style="align-self: center; margin: 0 auto; width: fit-content; margin-bottom: 20px">{{ .Site.Data.homepage.leads.title }}</h2>
+        <div class="row row--padded mb-0 rad-fade-down" style="display: flex; flex-flow: row wrap; align-items: center; justify-content: center; width: 100%; margin: 0 auto;">
             {{ range .Site.Data.homepage.leads.items }}
-          <div class="col-12 col-md-3 mb-1 mb-md-0 category" style="width: 100%">
+          <div class="col-12 col-md-3 mb-1 mb-md-0 category" style="width: 100%;">
                     <a class="category-link" href="{{ .url | absURL }}">
                         <div class="testimonial__author category-link">
                             <span class="lozad team-image icon-container-sm">
