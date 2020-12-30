@@ -18,5 +18,6 @@ fields:
   name: icon
   label: icon
 pages:
+- content/quickbytes/microsoft-word/microsoft-word.md
 - content/quickbytes/news/_index.md
 - content/quickbytes/news/_index.md
