@@ -35,3 +35,7 @@ search:
     type: Security
     icon: shield
     url: online-safety/
+  - name: Microsoft Word
+    type: Office
+    icon: document-text
+    url: microsoft-word/
