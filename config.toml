@@ -36,7 +36,7 @@ name = "Contact"
 weight = 6
 [[menu.header]]
 name = "Log In"
-url = "https://client.dropbyte.ch/login"
+url = "https://portal.dropbyte.ch"
 weight = "6"
 [[menu.header]]
 name = "Services"
