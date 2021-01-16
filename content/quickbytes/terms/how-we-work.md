@@ -25,21 +25,11 @@ Please note that DropByte is not affiliated with Zoom - we only provide links to
 
 ### On-Site Meetings
 
-On-Site Meetings are scheduled through online scheduling, though they may be recommended as a follow-up to a consultation or a remote session. We bill in hourly increments at $50 to $150 per hour, depending on the project scope. This rate will be agreed on before any work is done.
+On-Site Meetings are scheduled as a follow-up to Remote Sessions where we were not able to assist you remotely. We bill in hourly increments at $50 to $150 per hour, depending on the project scope. This rate will be agreed on before any work is done.
 
 These sessions are intended for work that cannot be done without being physically present. On-Site sessions may be advised by DropByte Support, but may also be requested by clients.
 
-If a request for an On-Site Meeting is a new issue, we will first schedule a free consultation to discuss the details of the issue and gather information. After any issue-specific research is complete, we will schedule an On-Site meeting to address the problem. If you have already scheduled an On-Site meeting, we cannot offer a free consultation.
-
-If a request for an On-Site Meeting is a known issue (one that has been worked on by DropByte Support Experts previously) then you are welcome to schedule an On-Site meeting without any consultation.
-
-### Consultations
-
-Free, 15-minute Consultations are only offered for initial discovery of problems. DropByte Support will not provide any advice or solutions during these meetings. Instead, Consultations are for the sole purpose of gathering information related to a specific issue or a variety of requests.
-
-Free Consultations are available for anyone, at the beginning of a project or for general information before a prospective project. However, we cannot offer free consultations for sessions or meetings that have already been scheduled.
-
-We may request a consultation with you before an On-Site Meeting if we feel we do not have enough information. Additionally, consultations may extend past their 15 minute scheduled time only if discovery is not complete, at the discretion of DropByte Support. DropByte reserves the right to end or bill for any Consultation in which advice is given or solutions are implemented.
+If a request for an On-Site Meeting is a known issue (one that has been worked on by DropByte Support Experts previously) then you are welcome to schedule an On-Site meeting without a prior Remote Session.
 
 ### Cancellations
 
@@ -53,7 +43,7 @@ When you refer a friend to us and they schedule a Remote Session an On-Site Meet
 
 DropByte is not just a Tech Support Provider - instead, we are a Tech Support Company with a goal to educate. We are here to make progress towards fixing your technical problems and to help you understand how to best address these kinds of issues in the future. Despite this goal, we understand that we may not be able to solve every problem.
 
-If you are dissatisfied with a Remote Session or an On-Site Meeting, please contact us for a refund of up to 50%. Unfortunately, we cannot offer full refunds at this time.
+If you are dissatisfied with a Remote Session or an On-Site Meeting, please contact us for a refund of up to 50%. Unfortunately, we cannot offer full refunds at this time. Tech Workshops are non-refundable.
 
 ### Questions and Comments
 

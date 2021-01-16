@@ -15,9 +15,9 @@
             </div>
         </div>
         <h3 style="margin-top: 52px; margin-bottom: 0px;"> {{ .Site.Data.quickbytes.search.category_title }}</h3>
-        <div class="row row--padded mb-0 rad-fade-down" style="margin-bottom: 52px!important;">
+        <div class="row row--padded mb-0 rad-fade-down" style="margin-bottom: 52px!important; display: flex; flex-flow: row wrap; align-items: center; justify-content: center;">
             {{ range .Site.Data.quickbytes.search.categories }}
-            <div class="col-12 col-md-3 mb-2 mb-md-0 category">
+            <div class="col-md-3 mb-0 mb-md-0 category">
                 <a class="category-link" href="{{ .url }}">
                     <div class="testimonial__author category-link">
                         <span class="lozad team-image icon-container">

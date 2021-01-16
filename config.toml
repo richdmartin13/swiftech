@@ -58,6 +58,7 @@ premium = ["premium-perks", "pricing-premium", "leads", "contact"]
 quickbytes = ["search", "leads", "contact"]
 services = ["client-and-work", "pricing", "leads", "contact"]
 subscribe = ["subscribe-form"]
+tech_support = ["tech_header", "timeline", "pricing", "contact"]
 [params.footer]
 copyright = "© DropByte and "
 [params.footer.radity_logo]

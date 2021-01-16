@@ -21,37 +21,38 @@ client_and_work:
       _2x: img/works/learn.svg
     has_search: false
     is_even: false
-  - title: Remote Support
-    description: We leverage Zoom Video Conferencing to meet with you face-to-face
-      and address your problems. Just schedule a meeting with us and you'll be back
-      up and running in no time.
+  - title: Tech Workshops
+    description: Whether you're learning to code working with a new program, you can schedule
+      a Remote Session with us to work through it. Just give us some information on what
+      you're working with, and we'll make custom guides and give you a call.
     button:
-      icon: videocam
-      btnText: Get Zoom
-      URL: https://zoom.us/download
+      icon: newspaper
+      btnText: See QuickBytes
+      URL: /quickbytes
     button2:
       icon: calendar
       btnText: Schedule a Session
       URL: http://meet.dropbyte.ch/60min
     image:
-      x: img/works/support.svg
-      _2x: img/works/support.svg
-    is_even: true
-  - title: On-Site Meetings
-    description: Have an issue that's a little more hands on? No problem. If we're
-      in the area, we'll schedule a quick remote consultation, then we'll be out there
-      when it works best for you.
-    button:
-      icon: newspaper
-      btnText: Schedule a Consultation
-      URL: https://dropbyte.hbportal.co/schedule/5fcfc255bd4ffb2598f7beea
-    button2:
-      icon: business
-      btnText: Schedule a Meeting
-      URL: https://dropbyte.hbportal.co/schedule/5fcfc167fb7bbf0783a2661f
-    image:
       x: img/works/in-person.svg
       _2x: img/works/in-person.svg
+    is_even: true
+  - title: Tech Support
+    description: We leverage Zoom Video Conferencing to meet with you face-to-face
+      and address your problems. Just schedule a meeting with us and you'll be back
+      up and running in no time. And if you have an issue that's more hands-on, we'll
+      come to you whenever you're ready.
+    button:
+      icon: newspaper
+      btnText: Learn More
+      URL: /support
+    button2:
+      icon: calendar
+      btnText: Schedule a Session
+      URL: http://meet.dropbyte.ch/60min
+    image:
+      x: img/works/desktop.svg
+      _2x: img/works/desktop.svg
     is_even: false
 pricing:
   enable: true
