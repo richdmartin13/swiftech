@@ -1,0 +1,46 @@
+{{ if .Site.Data.quickbytes.meta.enable }}
+<section class="section rad-animation-group section">
+    <div class="container">
+        <div style="display: flex; flex-flow: row wrap-reverse;">
+            <div class="col-12 col-md-7 pl-md-0 text-right">
+                <img class='lozad img-responsive img-clip-right-backward }}'
+                    src="{{ .Site.Data.tech_support.meta.image }}" alt="{{ .Site.Data.tech_support.meta.title }}" />
+            </div>
+            <div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto">
+                <h2 class="rad-fade-down">{{ .Site.Data.tech_support.meta.title }}</h2>
+                <p class="lead">
+                    {{ .Site.Data.tech_support.meta.description }}
+                </p>
+                <a href="{{ .Site.Data.homepage.showcase.button.URL | absURL }}" class="btn btn-primary">
+                    <ion-icon name="{{ .Site.Data.homepage.showcase.button.icon }}"></ion-icon>
+                    &nbsp;{{ .Site.Data.homepage.showcase.button.btnText }}
+                </a>
+                <a href="{{ .Site.Data.homepage.showcase.button2.URL | absURL }}" class="btn btn-frameless">
+                    <ion-icon name="{{ .Site.Data.homepage.showcase.button2.icon }}"></ion-icon>
+                    &nbsp;{{ .Site.Data.homepage.showcase.button2.btnText }}
+                </a>
+            </div>
+        </div>
+        <!-- <h3 style="margin-top: 52px; margin-bottom: 0px;"> All QuickBytes</h3>
+        <div class="row row--padded mb-0 rad-fade-down"
+            style="display: flex; flex-flow: row wrap; align-items: center; justify-content: flex-start; width: 100%;">
+            Ranges through content/posts/*.md
+            {{ range where .Site.Pages "Params.layout" "==" "guide"}}
+            <div class="col-12 col-md-8 mb-2 mb-md-0 category">
+                <a class="category-link" href="{{.Permalink}}">
+                    <div class="testimonial__author category-link">
+                        <span class="lozad team-image icon-container-sm">
+                            <ion-icon name="{{ .Params.icon }}" style="text-align: center; margin: 0 auto; color: #fff" />
+                        </span>
+                        <div class="testimonial__author-info">
+                            <h4>{{ .Params.title }}</h4>
+                            <span style="text-transform: capitalize;">{{ .Params.type }}</span>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            {{ end }}
+        </div> -->
+    </div>
+</section>
+{{ end }}
