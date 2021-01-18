@@ -2,12 +2,15 @@
 meta:
   enable: true
   title: Tech Support
-  description: Got a problem? Just grab some time with us and we'll start a video chat with you on Zoom. And if we can't assist you remotely, we'll come to you. It's that easy. With DropByte, your tech steps out of the way - allowing you to get more done with less hassle.
+  description: Got a problem? Just grab some time with us and we'll start a video
+    chat with you on Zoom. And if we can't assist you remotely, we'll come to you.
+    It's that easy. With DropByte, your tech steps out of the way - allowing you to
+    get more done with less hassle.
   image: "/img/works/desktop.svg"
   button:
-    icon: rocket
+    icon: calendar
     btnText: Schedule A Session
-    URL: "http://meet.dropbyte.ch/60min"
+    URL: http://meet.dropbyte.ch/60min
   button2:
     icon: videocam
     btnText: Get Zoom
@@ -25,25 +28,26 @@ timeline:
     is_even: true
   - title: Follow Up
     description: If we aren't able to resolve your issue remotely, we'll put together
-      a proposal based on the information we gathered during the first remote session. Then,
-      we'll send it to you for your approval before we take the next steps in the project.
+      a proposal based on the information we gathered during the first remote session.
+      Then, we'll send it to you for your approval before we take the next steps in
+      the project.
     image:
       x: img/works/timeline.svg
       _2x: img/works/timeline.svg
     is_even: false
   - title: On-Site Sessions
-    description: Once you've accepted the proposal, we'll schedule an on-site session with you
-     and head your way. We'll begin work in person at a time that works best for you.
+    description: Once you've accepted the proposal, we'll schedule an on-site session
+      with you and head your way. We'll begin work in person at a time that works
+      best for you.
     image:
       x: img/works/in-person.svg
       _2x: img/works/in-person.svg
     is_even: true
   - title: Ongoing Work
-    description: Some more advanced projects may need several sessions. The type of these
-      ongoing sessions depends on your specific needs and the type of work needed for the project.
+    description: Some more advanced projects may need several sessions. The type of
+      these ongoing sessions depends on your specific needs and the type of work needed
+      for the project.
     image:
       x: img/works/ongoing.svg
       _2x: img/works/ongoing.svg
     is_even: false
-
-  

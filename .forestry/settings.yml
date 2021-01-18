@@ -24,7 +24,6 @@ sections:
 - type: document
   path: data/tech_support.yml
   label: Support
-  match: "**/*"
 - type: heading
   label: CONTENT
 - type: directory
