@@ -11,7 +11,8 @@
 }
 
 img, svg {
-    vertical-align: middle
+    vertical-align: middle;
+    max-height: 300px;
 }
 
 svg {
