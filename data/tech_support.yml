@@ -4,6 +4,14 @@ meta:
   title: Tech Support
   description: Got a problem? Just grab some time with us and we'll start a video chat with you on Zoom. And if we can't assist you remotely, we'll come to you. It's that easy. With DropByte, your tech steps out of the way - allowing you to get more done with less hassle.
   image: "/img/works/desktop.svg"
+  button:
+    icon: rocket
+    btnText: Schedule A Session
+    URL: "http://meet.dropbyte.ch/60min"
+  button2:
+    icon: videocam
+    btnText: Get Zoom
+    URL: https://zoom.us/download
 timeline:
   enable: true
   title: Our Process
