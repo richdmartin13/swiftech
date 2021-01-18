@@ -17,9 +17,9 @@ showcase:
     btnText: Get Started
     URL: "/support"
   button2:
-    icon: videocam
-    btnText: Get Zoom
-    URL: https://zoom.us/download
+    icon: mail
+    btnText: Contact Us
+    URL: "#contact"
   socialLinks:
   - icon: instagram
     URL: https://www.instagram.com/dropbyte.ch/
