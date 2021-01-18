@@ -22,11 +22,9 @@ sections:
   path: data/quickbytes.yml
   label: QuickBytes
 - type: document
-  path: data/premium.yml
-  label: Premium
-- type: document
-  path: data/enterprise.yml
-  label: Enterprise
+  path: data/tech_support.yml
+  label: Support
+  match: "**/*"
 - type: heading
   label: CONTENT
 - type: directory
