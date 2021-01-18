@@ -23,17 +23,21 @@ URL = "/about"
 name = "About"
 weight = 1
 [[menu.footer]]
+URL = "/support"
+name = "Tech Support"
+weight = "2"
+[[menu.footer]]
 URL = "/quickbytes"
 name = "QuickBytes"
-weight = "2"
+weight = "3"
 [[menu.footer]]
 URL = "/quickbytes/terms/how-we-work"
 name = "How We Work"
-weight = "5"
+weight = "4"
 [[menu.footer]]
 URL = "https://dropbyte.ch/#contact"
 name = "Contact"
-weight = 6
+weight = "5"
 [[menu.header]]
 name = "Log In"
 url = "https://portal.dropbyte.ch"
