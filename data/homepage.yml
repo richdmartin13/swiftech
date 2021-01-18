@@ -13,8 +13,8 @@ showcase:
   imageMobile:
     x: img/showcase/showcase-mobile.jpg
   button:
-    icon: calendar
-    btnText: Schedule a Session
+    icon: rocket
+    btnText: Get Started
     URL: "/support"
   button2:
     icon: videocam
