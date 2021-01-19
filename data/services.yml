@@ -54,7 +54,7 @@ client_and_work:
       x: img/works/desktop.svg
       _2x: img/works/desktop.svg
     is_even: false
-  - title: Website Development & Hosting
+  - title: Web Development & Hosting
     button:
       icon: globe
       btnText: Learn More
