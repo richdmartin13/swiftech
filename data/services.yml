@@ -59,7 +59,9 @@ client_and_work:
       icon: globe
       btnText: Learn More
       URL: "/hosting"
-    image: ''
+    image:
+      x: img/works/hosting.svg
+      _2x: img/works/hosting.svg
     is_even: ''
     has_search: ''
     description: Whether you're looking for a website for yourself or your business,
