@@ -22,13 +22,13 @@ client_and_work:
     has_search: false
     is_even: false
   - title: Tech Workshops
-    description: Whether you're learning to code working with a new program, you can schedule
-      a Remote Session with us to work through it. Just give us some information on what
-      you're working with, and we'll make custom guides and give you a call.
+    description: Whether you're learning to code working with a new program, you can
+      schedule a Remote Session with us to work through it. Just give us some information
+      on what you're working with, and we'll make custom guides and give you a call.
     button:
       icon: newspaper
       btnText: See QuickBytes
-      URL: /quickbytes
+      URL: "/quickbytes"
     button2:
       icon: calendar
       btnText: Schedule a Session
@@ -45,7 +45,7 @@ client_and_work:
     button:
       icon: newspaper
       btnText: Learn More
-      URL: /support
+      URL: "/support"
     button2:
       icon: calendar
       btnText: Schedule a Session
@@ -54,6 +54,21 @@ client_and_work:
       x: img/works/desktop.svg
       _2x: img/works/desktop.svg
     is_even: false
+  - title: Website Development & Hosting
+    button:
+      icon: globe
+      btnText: Learn More
+      URL: "/hosting"
+    image: ''
+    is_even: ''
+    has_search: ''
+    description: Whether you're looking for a website for yourself or your business,
+      we'll make one that shows off your best side. We can modify pre-built themes
+      or build one from scratch - all at the rate of an hourly session.
+    button2:
+      icon: mail
+      btnText: Contact Us
+      URL: https://dropbyte.ch/#contact
 pricing:
   enable: true
   title: Pricing
