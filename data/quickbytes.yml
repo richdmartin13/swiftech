@@ -4,10 +4,10 @@ meta:
   title: QuickBytes
   subtitle: Snack-Sized Tech Lessons
   description: QuickBytes are Snack-Sized Lessons about your tech. They're designed
-    to be short and easy - and if it's too hard, we're always here to help. You'll
-    find everything here from basic tech guides to intermediate web design, and if
-    you can't find what you're looking for, feel free to ask us to make one for you.
-    Just click a category below to get started.
+    to be short and easy - and if you’re having trouble, we're always here to help.
+    You'll find everything here from basic tech guides to intermediate web design,
+    and if you can't find what you're looking for, feel free to ask us to make one
+    for you. Just click a category below to get started.
   image: "/img/works/learn.svg"
 search:
   enable: true
