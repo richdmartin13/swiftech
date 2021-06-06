@@ -1,12 +1,12 @@
 ---
 showcase:
   enable: true
-  title: Your Desktop, Anywhere
+  title: Tech Help, on Your Time
   subtitle: ''
-  description: Access all your files and apps wherever you go, without the middlemen.
-    DropByte leverages Remote Desktop, Cloud Storage and Virtual networks so you can
-    use your desktop as if you were sitting at it. Privacy and security are built
-    in.
+  description: Get the help you need, when you need it. Whether you’re looking for
+    remote support for a quick fix or an on-site meeting to rewire your home network,
+    DropByte has you covered. And if you’re keen on trying it yourself, we have an
+    ever-growing list of QuickBytes to get you on your feet.
   image:
     x: img/showcase/showcase.png
     _2x: img/showcase/showcase@2x.png
