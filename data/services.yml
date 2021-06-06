@@ -54,23 +54,6 @@ client_and_work:
       x: img/works/desktop.svg
       _2x: img/works/desktop.svg
     is_even: false
-  - title: Web Development & Hosting
-    button:
-      icon: globe
-      btnText: Learn More
-      URL: "/hosting"
-    image:
-      x: img/works/hosting.svg
-      _2x: img/works/hosting.svg
-    is_even: true
-    has_search: ''
-    description: Whether you're looking for a website for yourself or your business,
-      we'll make one that shows off your best side. We can modify pre-built themes
-      or build one from scratch - all at the rate of a remote session.
-    button2:
-      icon: mail
-      btnText: Contact Us
-      URL: https://dropbyte.ch/#contact
 pricing:
   enable: true
   title: Pricing
@@ -92,7 +75,7 @@ pricing:
     company: FREE
     duration: Learn Something
   - title: Remote Support Sessions
-    company: "$30 PER HOUR"
+    company: "$15 PER HOUR"
     duration: For Most Issues
   - title: On-Site Meetings
     company: "$50 - $150 PER HOUR"
