@@ -54,17 +54,23 @@ client_and_work:
       x: img/works/desktop.svg
       _2x: img/works/desktop.svg
     is_even: false
-extras: 
-  - title: "Custom PC Builds"
-    icon: hardware-chip
-  - title: "Network Installation"
-    icon: link
-  - title: Device Recommendations
-    icon: thumbs-up
-  - title: Web Development
-    icon: logo-javascript
-  - title: Backup & Storage
-    icon: refresh
+extras:
+- title: Tutorials
+  icon: book
+- title: Custom PC Builds
+  icon: hardware-chip
+- title: Network Installation
+  icon: link
+- title: Device Recommendations
+  icon: thumbs-up
+- title: Device Updates
+  icon: cog
+- title: Web Development
+  icon: logo-javascript
+- title: Backup & Storage
+  icon: refresh
+- title: File Migration
+  icon: folder
 pricing:
   enable: true
   title: Pricing
@@ -91,4 +97,3 @@ pricing:
   - title: On-Site Meetings
     company: "$30 - $150 PER HOUR"
     duration: For the Tough Stuff
-
