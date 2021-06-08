@@ -79,6 +79,8 @@ extras:
   icon: folder
 - title: Printers
   icon: print
+- title: Data Entry
+  icon: text
 pricing:
   enable: true
   title: Pricing
