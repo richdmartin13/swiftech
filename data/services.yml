@@ -55,6 +55,12 @@ client_and_work:
       _2x: img/works/desktop.svg
     is_even: false
 extras:
+- title: Threat Prevention
+  icon: shield
+- title: Remote Access
+  icon: terminal
+- title: Smart Home
+  icon: home
 - title: Tutorials
   icon: book
 - title: Custom PC Builds
@@ -71,6 +77,8 @@ extras:
   icon: refresh
 - title: File Migration
   icon: folder
+- title: Printers
+  icon: print
 pricing:
   enable: true
   title: Pricing
