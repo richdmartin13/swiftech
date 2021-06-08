@@ -55,8 +55,6 @@ client_and_work:
       _2x: img/works/desktop.svg
     is_even: false
 extras:
-- title: Threat Prevention
-  icon: shield
 - title: Remote Access
   icon: terminal
 - title: Smart Home
@@ -75,6 +73,8 @@ extras:
   icon: logo-javascript
 - title: Backup & Storage
   icon: refresh
+- title: Threat Prevention
+  icon: shield
 - title: File Migration
   icon: folder
 - title: Printers
