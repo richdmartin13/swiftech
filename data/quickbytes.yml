@@ -39,3 +39,7 @@ search:
     type: Office
     icon: document-text
     url: microsoft-word/
+  - name: Network & Internet
+    type: Connectivity
+    icon: wifi
+    url: network-internet/
