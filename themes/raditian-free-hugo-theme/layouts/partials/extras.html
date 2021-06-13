@@ -1,0 +1,14 @@
+<section class="section rad-animation-group section--border-bottom">
+    <div class="container">
+        <h3 style="margin: 0 auto">{{ .Site.Data.services.specialties }}</h3>
+        <br>
+        <div style="display: flex; flex-flow: row wrap; ">
+            {{ range .Site.Data.services.extras }}
+            <div style="margin: 10px; padding: 10px 20px; border-radius: 50px; background-color: #101010; flex-flow: row nowrap; display: flex; align-items: center; justify-content: center;">
+                <span style="margin-right: 10px; margin-top: 4px"><ion-icon name="{{ .icon }}" size="small" style="text-align: center; margin: 0 auto; color: #fff" /></span>
+                <p style="color: #fff; margin: 0; font-weight: 600; font-size: 0.9em">{{ .title }}</p>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
