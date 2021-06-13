@@ -43,7 +43,7 @@ search:
     type: Office
     icon: document-text
     url: microsoft-word/
-  - name: Making a Website
+  - name: Web Development
     type: Web Development
     icon: logo-javascript
     url: web-development/
