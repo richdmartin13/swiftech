@@ -5,8 +5,8 @@ showcase:
   subtitle: ''
   description: Get the help you need, when you need it. Whether you’re looking for
     remote support for a quick fix or an on-site meeting to rewire your home network,
-    DropByte has you covered. And if you’re keen on trying it yourself, we have an
-    ever-growing list of QuickBytes to get you on your feet.
+    DropByte has you covered. And if you want to learn it yourself, we have an ever-growing
+    list of QuickBytes to get you on your feet.
   image:
     x: img/showcase/showcase.png
     _2x: img/showcase/showcase@2x.png
