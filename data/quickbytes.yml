@@ -15,6 +15,10 @@ search:
   category_title: Categories
   selected_category: 
   categories:
+  - name: Making a Website
+    type: Web Development
+    icon: 'logo-javascript '
+    url: web-development
   - name: Windows
     type: desktop
     icon: logo-windows
