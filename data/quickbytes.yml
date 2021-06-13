@@ -17,7 +17,7 @@ search:
   categories:
   - name: Making a Website
     type: Web Development
-    icon: 'logo-javascript '
+    icon: logo-javascript
     url: web-development/
   - name: Windows
     type: desktop
