@@ -34,16 +34,16 @@ testimonial:
   enable: true
   title: Testimonials
   items:
-  - name: Richard Martin
-    position: DropByte Creator
-    content: I created DropByte because I wanted to share my knowledge about technology
-      with others. I figured out that Zoom was also perfectly usable as a tech support
-      tool. And so, DropByte began. At present, DropByte is just a project that I'm
-      working on. My hopes are to expand to serve both local and domestic clients,
-      and to build a helpful knowledgebase covering a vast range of tech-related subjects.
-    image:
-      x: https://richdmart.in/assets/images/avatar.png
-      _2x: https://richdmart.in/assets/images/avatar.png
+#  - name: Richard Martin
+    #position: DropByte Creator
+    #content: I created DropByte because I wanted to share my knowledge about technology
+      #with others. I figured out that Zoom was also perfectly usable as a tech support
+      #tool. And so, DropByte began. At present, DropByte is just a project that I'm
+      #working on. My hopes are to expand to serve both local and domestic clients,
+      #and to build a helpful knowledgebase covering a vast range of tech-related subjects.
+    #image:
+      #x: https://richdmart.in/assets/images/avatar.png
+      #_2x: https://richdmart.in/assets/images/avatar.png
 contact:
   enable: true
   title: Contact
