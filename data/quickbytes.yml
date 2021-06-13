@@ -15,18 +15,18 @@ search:
   category_title: Categories
   selected_category: 
   categories:
-  - name: Making a Website
-    type: Web Development
-    icon: logo-javascript
-    url: web-development/
-  - name: Windows
-    type: desktop
-    icon: logo-windows
-    url: windows/
+  - name: Online Safety
+    type: Security
+    icon: shield
+    url: online-safety/
   - name: Mac
     type: desktop
     icon: logo-apple
     url: mac/
+  - name: Windows
+    type: desktop
+    icon: logo-windows
+    url: windows/
   - name: Android
     type: mobile
     icon: logo-android
@@ -35,15 +35,15 @@ search:
     type: mobile
     icon: logo-apple
     url: ios/
-  - name: Online Safety
-    type: Security
-    icon: shield
-    url: online-safety/
-  - name: Microsoft Word
-    type: Office
-    icon: document-text
-    url: microsoft-word/
   - name: Network & Internet
     type: Connectivity
     icon: wifi
     url: network-internet/
+  - name: Microsoft Word
+    type: Office
+    icon: document-text
+    url: microsoft-word/
+  - name: Making a Website
+    type: Web Development
+    icon: logo-javascript
+    url: web-development/
