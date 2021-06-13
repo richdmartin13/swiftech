@@ -1,6 +1,6 @@
 +++
 custom = false
-description = ""
+description = "Description go here"
 header = "/undraw_secure_login_pdn4.svg"
 icon = "shield"
 layout = "guide"
