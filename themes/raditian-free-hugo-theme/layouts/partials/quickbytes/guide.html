@@ -25,10 +25,6 @@
 
         {{ else }}
 
-        <div class="row--padded mb-0 rad-fade-down" style="padding-top: 20px;">
-            {{ .Content }}
-        </div>
-
         <div class="guide" style="display: flex; flex-flow: column nowrap; width: 100%">
             <h3>Requirements</h3>
             <hr>
@@ -75,6 +71,14 @@
                     <p style="margin: 0; margin-left: 5px;">{{ .name }}</p>
                 </div>
                 {{ end }}
+            </div>
+        </div>
+        
+        <div class="guide" style="display: flex; flex-flow: column nowrap; width: 100%">
+        <h3>Why It Works</h3>
+        <hr>
+        <div style="display: flex; flex-flow: row wrap;">
+            {{ .Content }}
             </div>
         </div>
         {{ end }}
