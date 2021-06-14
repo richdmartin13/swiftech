@@ -17,7 +17,7 @@ QuickBytes are free guides that are centered around tech skills. You do not have
 
 ### Remote Support
 
-Remote Support is scheduled only through online scheduling and is booked in one-hour time slots. We bill in hourly increments at $30 per hour.
+Remote Support is scheduled only through online scheduling and is booked in one-hour time slots. We bill in hourly increments, subject to the price agreed upon prior to work being done. This rate is generally what is listed in the pricing section on our services page, but may differ under certain circumstances.
 
 These sessions are intended for work that can be done without being physically present. The full offerings of remote sessions are only available for devices with remote control enabled, but we will still be able to guide you through issues if you are calling via Zoom from another device.
 
@@ -25,7 +25,7 @@ Please note that DropByte is not affiliated with Zoom - we only provide links to
 
 ### On-Site Meetings
 
-On-Site Meetings are scheduled as a follow-up to Remote Sessions where we were not able to assist you remotely. We bill in hourly increments at $50 to $150 per hour, depending on the project scope. This rate will be agreed on before any work is done.
+On-Site Meetings are scheduled as a follow-up to Remote Sessions where we were not able to assist you remotely. We bill in hourly increments, subject to the price agreed upon prior to work being done. This rate is generally what is listed in the pricing section on our services page, but may differ under certain circumstances.
 
 These sessions are intended for work that cannot be done without being physically present. On-Site sessions may be advised by DropByte Support, but may also be requested by clients.
 
