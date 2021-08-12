@@ -1,4 +1,4 @@
-baseURL = "https://dropbyte.ch"
+baseURL = "https://swifte.ch"
 languageCode = "en-us"
 pluralizeListTitles = false
 theme = "raditian-free-hugo-theme"
