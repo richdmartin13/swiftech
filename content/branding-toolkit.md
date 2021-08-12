@@ -13,19 +13,19 @@ type = "Corporate"
 +++
 ### Logo
 
-DropByte has a short and long logo. The following images are to be used:
+Swiftech has a short and long logo. The following images are to be used:
 
 Long Logo:
 
-![](/dblogo.png)
+![](/dblogo.png) \[Deprecated]
 
 Short Logo
 
-![](/android-icon-192x192.png)
+![](/android-icon-192x192.png) \[Deprecated]
 
 ### Colors
 
-DropByte has three primary colors. These colors are to be associated only with the DropByte Brand unless otherwise approved.
+Swiftech has three primary colors. These colors are to be associated only with the Swiftech Brand unless otherwise approved.
 
 ![](/50cc98.png)
 

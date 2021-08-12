@@ -8,13 +8,13 @@ layout: more
 
 #### How Our Web Platform Works
 
-DropByte uses Hugo and Github for development, Forestry for content management, Firebase for hosting, and Square & SnipCart for online payments.
+Swiftech uses Hugo and Github for development, Forestry for content management, Netlify for hosting, and HoneyBook, Square & SnipCart for online payments.
 
 `Here's the breakdown:`
 
 ##### Website Development
 
-* Hugo is a static site generator. Much like wordpress or other sites, it uses highly customizable themes. The DropByte website is a perfect example of all that a Hugo site can do. If you'd like to learn more about Hugo, check it out [here](https://gohugo.io).
+* Hugo is a static site generator. Much like wordpress or other sites, it uses highly customizable themes. The Swiftech website is a perfect example of all that a Hugo site can do. If you'd like to learn more about Hugo, check it out [here](https://gohugo.io).
 * Github is our code management system. It allows us to be agile in how we develop your site - while some things are editible with Forestry, most of the customization is hand-coded. Plus, if your website is broken, we'll be able to quickly roll back the code and get you back up in no time.
 
 ##### Content Management
@@ -35,10 +35,10 @@ DropByte uses Hugo and Github for development, Forestry for content management, 
 
 #### Website Development, Hosting, and CMS Pricing
 
-* DropByte's website development services are charged at the standard rate of $30 per hour and are subject to the same billing practices as our Remote Support Sessions.
+* Swiftech's website development services are charged at the standard rate of $30 per hour and are subject to the same billing practices as our Remote Support Sessions.
 * Hosting and CMS services are billed at $10 per month until cancelled.
 * E-Commerce sites pay hosting & CMS services + vendor fees\[^2\]
 * Domain registration fees and any other applicable fees will be billed to you.
 
 \[^1\]: `Currently, we only support Hugo sites with Forestry. We can host any website that you may have code for, but we will not be able to provide content management services.`
-\[^2\]: `Square's charges are 2.9% + 30¢ per transaction, and SnipCart's charges are 2% per transaction. This brings the total charge to 4.9% + 30¢ per transaction, as of the writing of this article. DropByte is not responsible for changes in prices from our vendors.`
+\[^2\]: `Square's charges are 2.9% + 30¢ per transaction, and SnipCart's charges are 2% per transaction. This brings the total charge to 4.9% + 30¢ per transaction, as of the writing of this article. Swiftech is not responsible for changes in prices from our vendors.`

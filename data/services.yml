@@ -15,7 +15,7 @@ client_and_work:
     button:
       icon: mail
       btnText: Contact Us
-      URL: https://dropbyte.ch/#contact
+      URL: https://swifte.ch/#contact
     image:
       x: img/works/learn.svg
       _2x: img/works/learn.svg
@@ -32,7 +32,7 @@ client_and_work:
     button2:
       icon: calendar
       btnText: Schedule a Session
-      URL: http://meet.dropbyte.ch/60min
+      URL: http://meet.swifte.ch/60min
     image:
       x: img/works/in-person.svg
       _2x: img/works/in-person.svg
@@ -49,7 +49,7 @@ client_and_work:
     button2:
       icon: calendar
       btnText: Schedule a Session
-      URL: http://meet.dropbyte.ch/60min
+      URL: http://meet.swifte.ch/60min
     image:
       x: img/works/desktop.svg
       _2x: img/works/desktop.svg
@@ -95,7 +95,7 @@ pricing:
     icon: mail
     icon2: arrow-forward
     btnText: Contact Us
-    URL: https://dropbyte.us/#contact
+    URL: https://swifte.us/#contact
   button2:
     icon: person-add
     btnText: Refer a Friend
@@ -105,7 +105,7 @@ pricing:
     company: FREE
     duration: Learn Something
   - title: Remote Support Sessions
-    company: "$15 PER HOUR"
+    company: "$20 PER HOUR"
     duration: For Most Issues
   - title: On-Site Meetings
     company: "$30 - $150 PER HOUR"

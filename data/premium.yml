@@ -1,11 +1,11 @@
 ---
 subscribe:
-  title: DropByte Premium
+  title: Swiftech Premium
   enable: true
   clients: 
   benefits:
   - title: Enjoy Discounts
-    description: When you enroll in DropByte Premium, you'll also get a 20% discount on all DropByte Services.
+    description: When you enroll in Swiftech Premium, you'll also get a 20% discount on all Swiftech Services.
       Plus, remote sessions and on-site meetings are billed quarter-hourly instead of by the hour, so you'll get 
       more out of your time.
     image:
@@ -17,7 +17,7 @@ subscribe:
     #   btnText: See QuickBytes
     #   URL: https://learn.dropbyte.ch
   - title: Get Answers Faster
-    description: We understand that some issues can't wait. With DropByte Premium, you'll be able
+    description: We understand that some issues can't wait. With Swiftech Premium, you'll be able
       to skip the scheduling and get right to us for a quick consultation. After that, we'll schedule a time
       to solve the problem if it's not a quick fix.
     image:
@@ -39,9 +39,9 @@ subscribe:
     # button:
     #   icon: newspaper
     #   btnText: See QuickBytes
-    #   URL: https://learn.dropbyte.ch
+    #   URL: https://learn.Swiftech.ch
   - title: Add Your Family, too.
-    description: "DropByte Premium is perfect for the family. When we find a problem that affects
+    description: "Swiftech Premium is perfect for the family. When we find a problem that affects
     your family members too, we'll make sure everyone's taken care of. Take care of everyone in the
     family when you add them for only $5 per member, per month."
     image:
@@ -51,11 +51,11 @@ subscribe:
     # button:
     #   icon: newspaper
     #   btnText: See QuickBytes
-    #   URL: https://learn.dropbyte.ch
+    #   URL: https://learn.Swiftech.ch
 pricing:
   enable: true
   title: Pricing
-  description: When you subscribe to DropByte Premium, you'll get all the perks above
+  description: When you subscribe to Swiftech Premium, you'll get all the perks above
     and any new perks we develop. You'll also get 20% discounts on all services. And 
     you only pay the setup fee when we do our survey - you can start enjoying the benefits
     of premium right away, for only $15 per month.
@@ -70,7 +70,7 @@ pricing:
   - title: Initial Setup
     company: $50 FLAT FEE
     duration: Enjoy all Premium has to Offer
-  - title: DropByte Premium
+  - title: Swiftech Premium
     company: "$15 PER MONTH"
     duration: Personal Tech Support
 

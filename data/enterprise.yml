@@ -1,6 +1,6 @@
 ---
 subscribe:
-  title: DropByte Enterprise
+  title: Swiftech Enterprise
   enable: true
   clients: 
   button:
@@ -9,15 +9,15 @@ subscribe:
     URL: "/subscribe"
   benefits:
   - title: Enjoy Discounts
-    description: When you enroll in DropByte Enterprise, you'll also get a 20% discount
-      on all DropByte Services. Plus, remote sessions and on-site meetings are billed
+    description: When you enroll in Swiftech Enterprise, you'll also get a 20% discount
+      on all Swiftech Services. Plus, remote sessions and on-site meetings are billed
       quarter-hourly instead of by the hour, so you'll get more out of your time.
     image:
       x: img/subscribe/save.svg
       _2x: img/subscribe/save.svg
     is_even: true
   - title: Get Answers Faster
-    description: We understand that some issues can't wait. With DropByte Enterprise,
+    description: We understand that some issues can't wait. With Swiftech Enterprise,
       you'll be able to skip the scheduling and get right to us for a quick consultation.
       After that, we'll schedule a time to solve the problem if it's not a quick fix.
     image:
@@ -35,7 +35,7 @@ subscribe:
       _2x: img/subscribe/personal.svg
     is_even: true
   - title: Need a Website?
-    description: Looking for a space on the web? Web Hosting is included in your DropByte
+    description: Looking for a space on the web? Web Hosting is included in your Swiftech
       Enterprise subscription. And if you don't already have a website, our front-end
       developers will create a website in Hugo or React for just $50 per hour. If
       you have a Wordpress site, we can customize it for the same rate.
@@ -46,7 +46,7 @@ subscribe:
 pricing:
   enable: true
   title: Pricing
-  description: When you subscribe to DropByte Enterprise, you'll get all the perks
+  description: When you subscribe to Swiftech Enterprise, you'll get all the perks
     above and any new perks we develop. You'll also get 20% discounts on all services.
     And you only pay the setup fee when we do our survey - you can start enjoying
     the benefits of premium right away.
@@ -57,7 +57,7 @@ pricing:
   button2:
     icon: mail
     btnText: Contact Us
-    URL: https://dropbyte.ch/#contact
+    URL: https://Swiftech.ch/#contact
   items:
   - title: Prices on All Services
     company: 20% DISCOUNT
@@ -65,6 +65,6 @@ pricing:
   - title: Initial Setup
     company: "$10 PER USER FLAT FEE"
     duration: Enjoy all Enterprise has to Offer
-  - title: DropByte Enterprise
+  - title: Swiftech Enterprise
     company: CONTACT US
     duration: Better Business Support

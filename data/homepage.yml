@@ -5,7 +5,7 @@ showcase:
   subtitle: ''
   description: Get the help you need, when you need it. Whether you’re looking for
     remote support for a quick fix or an on-site meeting to rewire your home network,
-    DropByte has you covered. And if you want to learn it yourself, we have an ever-growing
+    Swiftech has you covered. And if you want to learn it yourself, we have an ever-growing
     list of QuickBytes to get you on your feet.
   image:
     x: img/showcase/showcase.png
@@ -22,9 +22,9 @@ showcase:
     URL: "#contact"
   socialLinks:
   - icon: instagram
-    URL: https://www.instagram.com/dropbyte.ch/
+    URL: https://www.instagram.com/Swifte.ch/
   - icon: twitter
-    URL: https://twitter.com/DropByteTech
+    URL: https://twitter.com/Swiftech
 contact:
   enable: true
   title: Contact
@@ -39,7 +39,7 @@ contact:
     number: "(865) 272-9554"
   email:
     title: Email
-    email: <a href="mailto:hello@dropbyte.ch">hello@dropbyte.ch</a>
+    email: <a href="mailto:hello@swifte.ch">hello@swifte.ch</a>
   button:
     icon: icon-mail-fill
     btnText: Send Message
@@ -59,13 +59,13 @@ leads:
     image:
       x: img/works/learn.svg
       _2x: img/works/learn.svg
-  - url: https://dropbyte.hbportal.co/schedule/5f6144be79cb801c01a1bf7d
+  - url: https://swiftech.hbportal.co/schedule/5f6144be79cb801c01a1bf7d
     icon: videocam
     content: Remote Session
     image:
       x: img/works/support.svg
       _2x: img/works/support.svg
-  - url: https://dropbyte.hbportal.co/schedule/5fcfc167fb7bbf0783a2661f
+  - url: https://swiftech.hbportal.co/schedule/5fcfc167fb7bbf0783a2661f
     icon: business
     content: On-Site Meeting
     image:

@@ -2,13 +2,12 @@
 about:
   enable: true
   title: Who are We?
-  content: "<p class=\"lead\"> DropByte is a project by Richard Martin that was started
-    in July 2020 in Knoxville, TN, with one goal in mind: to help people learn how
-    to use their tech, and do it better.</p> \n<p class=\"lead\"> Our goal at DropByte
-    is different than anything you've seen before. While we do on-site visits, we
-    do most of our work via Zoom Video Conferencing, so we're always a call away.
-    And unlike other tech support companies, we''re not looking for the quick fix
-    that''ll have you calling back next week - we find real solutions, just for you.</p>"
+  content: "<p class=\"lead\"> Swiftech was founded around a single goal: to help 
+    people make the best use of their technology.</p> \n<p class=\"lead\"> We believe
+    that the best way to solve tech problems is through helping our customers understand
+    how their devices work. And we do most of our work over Zoom Video Meetings, so we can help
+    you whenever and wherever you are. Have something that's a little more hands on? We'll come to you.
+    So you can say goodbye to the man behind the curtain when it comes to your tech - help is just a call away.</p>"
   button:
     icon: rocket
     btnText: Our Services
@@ -18,13 +17,18 @@ about:
     _2x: "/img/who-am-i/team.svg"
 team:
   enable: true
-  title: You like it Personal - We get That
+  title: Our Team
   items:
   - name: Richard Martin
-    position: Director & IT Specialist
+    position: Director & Remote Specialist
     image:
-      x: https://richdmart.in/assets/images/avatar.png
-      _2x: https://richdmart.in/assets/images/avatar.png
+      x: https://media-exp1.licdn.com/dms/image/C5603AQExRr91ozjMpQ/profile-displayphoto-shrink_200_200/0/1543618548666?e=1634169600&v=beta&t=LqFYePYSku7fa4ZFsC_-C_4xBcvTPsC5Cbt1sxpabGE
+      _2x: https://media-exp1.licdn.com/dms/image/C5603AQExRr91ozjMpQ/profile-displayphoto-shrink_200_200/0/1543618548666?e=1634169600&v=beta&t=LqFYePYSku7fa4ZFsC_-C_4xBcvTPsC5Cbt1sxpabGE
+  - name: Tyler Boullie
+    position: Repair Specialist
+    image:
+      x: https://media-exp1.licdn.com/dms/image/C5603AQGTALg0yksQhg/profile-displayphoto-shrink_200_200/0/1615240276756?e=1634169600&v=beta&t=pUsNZxcUhinMfVr8vEqz0BJynxn6vxsFxITPsXWhwBc
+      _2x: https://media-exp1.licdn.com/dms/image/C5603AQGTALg0yksQhg/profile-displayphoto-shrink_200_200/0/1615240276756?e=1634169600&v=beta&t=pUsNZxcUhinMfVr8vEqz0BJynxn6vxsFxITPsXWhwBc
 testimonial:
   enable: true
   title: Testimonials
@@ -43,7 +47,7 @@ contact:
     number: "(865) 272-9554"
   email:
     title: Email
-    email: <a href="mailto:hello@dropbyte.ch">hello@dropbyte.ch</a>
+    email: <a href="mailto:hello@Swiftech.ch">hello@Swiftech.ch</a>
   button:
     icon: icon-mail-fill
     btnText: Send Message
