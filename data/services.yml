@@ -83,6 +83,8 @@ extras:
   icon: print
 - title: Data Entry
   icon: text
+- title: Device Repair
+  icon: hammer
 specialties: Our Focus Areas
 pricing:
   enable: true
