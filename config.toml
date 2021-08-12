@@ -64,7 +64,7 @@ services = ["client-and-work", "extras", "pricing", "leads", "contact"]
 subscribe = ["subscribe-form"]
 tech_support = ["tech_header", "timeline", "pricing", "contact"]
 [params.footer]
-copyright = "© DropByte and "
+copyright = "© Richard Martin and "
 [params.footer.radity_logo]
 _2x = "img/general/design-and-code-radity@2x.png"
 alt = "Design & Code - Radity"
