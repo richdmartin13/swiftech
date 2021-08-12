@@ -1,4 +1,5 @@
-baseURL = "https://swiftech.onrender.com/"
+baseURL = "/"
+relativeURLs = true
 languageCode = "en-us"
 pluralizeListTitles = false
 theme = "raditian-free-hugo-theme"
