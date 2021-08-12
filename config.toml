@@ -1,4 +1,4 @@
-baseURL = "www.swifte.ch"
+baseURL = ""
 languageCode = "en-us"
 pluralizeListTitles = false
 theme = "raditian-free-hugo-theme"
@@ -35,7 +35,7 @@ URL = "/quickbytes/terms/how-we-work"
 name = "How We Work"
 weight = "4"
 [[menu.footer]]
-URL = "https://swifte.ch/#contact"
+URL = "https://dropbyte.ch/#contact"
 name = "Contact"
 weight = "5"
 [[menu.header]]
@@ -64,7 +64,7 @@ services = ["client-and-work", "extras", "pricing", "leads", "contact"]
 subscribe = ["subscribe-form"]
 tech_support = ["tech_header", "timeline", "pricing", "contact"]
 [params.footer]
-copyright = "© Swiftech and "
+copyright = "© DropByte and "
 [params.footer.radity_logo]
 _2x = "img/general/design-and-code-radity@2x.png"
 alt = "Design & Code - Radity"
