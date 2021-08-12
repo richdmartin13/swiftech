@@ -10,7 +10,7 @@ meta:
   button:
     icon: calendar
     btnText: Schedule A Session
-    URL: http://meet.swifte.ch/60min
+    URL: https://swiftech.hbportal.co/schedule/6115934070ad6c00328a2a4c
   button2:
     icon: videocam
     btnText: Get Zoom

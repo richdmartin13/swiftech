@@ -32,7 +32,7 @@ client_and_work:
     button2:
       icon: calendar
       btnText: Schedule a Session
-      URL: http://meet.swifte.ch/60min
+      URL: https://swiftech.hbportal.co/schedule/6115934070ad6c00328a2a4c
     image:
       x: img/works/in-person.svg
       _2x: img/works/in-person.svg
@@ -49,7 +49,7 @@ client_and_work:
     button2:
       icon: calendar
       btnText: Schedule a Session
-      URL: http://meet.swifte.ch/60min
+      URL: https://swiftech.hbportal.co/schedule/6115934070ad6c00328a2a4c
     image:
       x: img/works/desktop.svg
       _2x: img/works/desktop.svg

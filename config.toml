@@ -41,7 +41,7 @@ name = "Contact"
 weight = "5"
 [[menu.header]]
 name = "Log In"
-url = "https://portal.dropbyte.ch"
+url = "https://swiftech.hbportal.co/app/"
 weight = "6"
 [[menu.header]]
 name = "Services"

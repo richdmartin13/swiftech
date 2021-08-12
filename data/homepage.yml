@@ -59,13 +59,13 @@ leads:
     image:
       x: img/works/learn.svg
       _2x: img/works/learn.svg
-  - url: https://swiftech.hbportal.co/schedule/5f6144be79cb801c01a1bf7d
+  - url: https://swiftech.hbportal.co/schedule/6115934070ad6c00328a2a4c
     icon: videocam
     content: Remote Session
     image:
       x: img/works/support.svg
       _2x: img/works/support.svg
-  - url: https://swiftech.hbportal.co/schedule/5fcfc167fb7bbf0783a2661f
+  - url: https://swiftech.hbportal.co/schedule/6115934070ad6c00328a2a4c
     icon: business
     content: On-Site Meeting
     image:
