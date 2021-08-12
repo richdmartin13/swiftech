@@ -1,4 +1,4 @@
-baseURL = "swifte.ch"
+baseURL = "swiftech.netlify.app"
 languageCode = "en-us"
 pluralizeListTitles = false
 theme = "raditian-free-hugo-theme"
