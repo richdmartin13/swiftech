@@ -6,7 +6,6 @@ draft: false
 layout: more
 subtitle: img/works/learn.svg
 ---
-***
 
 `Please Note: We are currently working on updating this page.`
 

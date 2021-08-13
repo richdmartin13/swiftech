@@ -10,7 +10,6 @@ steps = []
 title = "Branding Toolkit"
 type = "Corporate"
 
-+++
 ### Logo
 
 Swiftech has a short and long logo. The following images are to be used:
