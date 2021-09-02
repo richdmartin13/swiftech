@@ -18,32 +18,32 @@ search:
   - name: Online Safety
     type: Security
     icon: shield
-    url: online-safety/
+    url: quickbytes/online-safety/
   - name: Mac
     type: desktop
     icon: logo-apple
-    url: mac/
+    url: quickbytes/mac/
   - name: Windows
     type: desktop
     icon: logo-windows
-    url: windows/
+    url: quickbytes/windows/
   - name: Android
     type: mobile
     icon: logo-android
-    url: android/
+    url: quickbytes/android/
   - name: iOS
     type: mobile
     icon: logo-apple
-    url: ios/
+    url: quickbytes/ios/
   - name: Network & Internet
     type: Connectivity
     icon: wifi
-    url: network-internet/
+    url: quickbytes/network-internet/
   - name: Microsoft Word
     type: Office
     icon: document-text
-    url: microsoft-word/
+    url: quickbytes/microsoft-word/
   - name: Web Development
     type: Digital Advertising
     icon: logo-javascript
-    url: web-development/
+    url: quickbytes/web-development/
