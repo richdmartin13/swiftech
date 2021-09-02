@@ -9,6 +9,7 @@ requirements = []
 steps = []
 title = "Branding Toolkit"
 type = "Corporate"
++++
 
 ### Logo
 
