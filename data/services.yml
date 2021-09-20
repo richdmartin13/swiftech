@@ -56,7 +56,7 @@ client_and_work:
     is_even: false
 extras:
 - title: Cybersecurity
-  icon: lock
+  icon: lock-closed
 - title: Remote Access
   icon: terminal
 - title: Smart Home
