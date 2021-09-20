@@ -55,8 +55,6 @@ client_and_work:
       _2x: img/works/desktop.svg
     is_even: false
 extras:
-- title: Cybersecurity
-  icon: lock-closed
 - title: Remote Access
   icon: terminal
 - title: Smart Home
@@ -77,6 +75,8 @@ extras:
   icon: earth
 - title: Backup & Storage
   icon: refresh
+- title: Cybersecurity
+  icon: lock-closed
 - title: Threat Prevention
   icon: shield
 - title: File Migration
