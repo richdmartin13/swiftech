@@ -71,10 +71,14 @@ extras:
   icon: cog
 - title: Web Development
   icon: logo-javascript
+- title: Wordpress Development
+  icon: logo-wordpress
 - title: Web Hosting
   icon: earth
 - title: Backup & Storage
   icon: refresh
+- title: Cybersecurity
+  icon: lock-closed
 - title: Threat Prevention
   icon: shield
 - title: File Migration
