@@ -2,12 +2,13 @@
 about:
   enable: true
   title: Who are We?
-  content: "<p class=\"lead\"> Swiftech was founded around a single goal: to help 
+  content: "<p class=\"lead\"> Swiftech was founded around a single goal: to help
     people make the best use of their technology.</p> \n<p class=\"lead\"> We believe
     that the best way to solve tech problems is through helping our customers understand
-    how their devices work. And we do most of our work over Zoom Video Meetings, so we can help
-    you whenever and wherever you are. Have something that's a little more hands on? We'll come to you.
-    So you can say goodbye to the man behind the curtain when it comes to your tech - help is just a call away.</p>"
+    how their devices work. And we do most of our work over Zoom Video Meetings, so
+    we can help you whenever and wherever you are. Have something that's a little
+    more hands on? We'll come to you. So you can say goodbye to the man behind the
+    curtain when it comes to your tech - help is just a call away.</p>"
   button:
     icon: rocket
     btnText: Our Services
@@ -20,7 +21,7 @@ team:
   title: Our Team
   items:
   - name: Richard Martin
-    position: Director & Remote Specialist
+    position: Founder
     image:
       x: https://media-exp1.licdn.com/dms/image/C5603AQExRr91ozjMpQ/profile-displayphoto-shrink_200_200/0/1543618548666?e=1634169600&v=beta&t=LqFYePYSku7fa4ZFsC_-C_4xBcvTPsC5Cbt1sxpabGE
       _2x: https://media-exp1.licdn.com/dms/image/C5603AQExRr91ozjMpQ/profile-displayphoto-shrink_200_200/0/1543618548666?e=1634169600&v=beta&t=LqFYePYSku7fa4ZFsC_-C_4xBcvTPsC5Cbt1sxpabGE
