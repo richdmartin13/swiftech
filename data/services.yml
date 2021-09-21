@@ -55,8 +55,6 @@ client_and_work:
       _2x: img/works/desktop.svg
     is_even: false
 extras:
-- title: Wordpress Development
-  icon: logo-wordpress
 - title: Remote Access
   icon: terminal
 - title: Smart Home
@@ -73,6 +71,8 @@ extras:
   icon: cog
 - title: Web Development
   icon: logo-javascript
+- title: Wordpress Development
+  icon: logo-wordpress
 - title: Web Hosting
   icon: earth
 - title: Backup & Storage
