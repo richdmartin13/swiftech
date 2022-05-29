@@ -1,0 +1,36 @@
+<div id="site-search">
+    <h4><span class="underline--magical">Search</span></h4>
+    <div class="search-flex">
+      <form id="search-form" name="searchForm" role="form" onsubmit="return false">
+        <div class="search-wrapper">
+          <div class="search-container">
+            <i class="fa fa-search"></i>
+            <input autocomplete="off" placeholder="" id="search" class="search-input" aria-label="Search site" type="text" name="q">
+          </div>
+          <div class="search-error hide-element"><span class="search-error-message"></span></div>
+        </div>
+      </form>
+      <button id="clear-search-results-sidebar" class="button clear-search-results hide-element">Clear Search Results</button>
+    </div>
+  </div>
+
+<script>
+    window.store = {
+        // You can specify your blog section only:
+        {{ range .Site.Pages }}
+        // For all pages in your site, use "range .Site.Pages"
+        // You can use any unique identifier here
+        "{{ .Permalink }}": {
+            // You can customize your searchable fields using any .Page parameters
+            "title": "{{ .Title  }}",
+            "tags": [{{ range .Params.Tags }}"{{ . }}",{{ end }}],
+            "content": {{ .Content | plainify }}, // Strip out HTML tags
+            "url": "{{ .Permalink }}"
+        },
+        {{ end }}
+    }
+    </script>
+    <!-- Include Lunr and code for your search function,
+    which you'll write in the next section -->
+    <script src="/js/lunr.min.js"></script>
+    <script src="/js/search.js"></script>

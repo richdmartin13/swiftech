@@ -12,6 +12,7 @@ showcase:
     _2x: img/showcase/showcase@2x.png
   imageMobile:
     x: img/showcase/showcase-mobile.jpg
+  meta: true
   button:
     icon: rocket
     btnText: Get Started

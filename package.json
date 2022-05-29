@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "index": "hugo-lunr -i \"content/quickbytes/**\" -o static/index.json",
+        "start": "hugo serve"
+    }
+}
