@@ -40,8 +40,8 @@ URL = "https://dropbyte.ch/#contact"
 name = "Contact"
 weight = "5"
 [[menu.header]]
-name = "Log In"
-url = "https://swiftech.hbportal.co/app/"
+name = "Book Us"
+url = "https://squareup.com/appointments/book/9cr6y2mo19srqj/LA3WFZ0GKQAR3/start"
 weight = "6"
 [[menu.header]]
 name = "Services"
