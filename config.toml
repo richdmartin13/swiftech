@@ -40,8 +40,8 @@ URL = "https://dropbyte.ch/#contact"
 name = "Contact"
 weight = "5"
 [[menu.header]]
-name = "Book Us"
-url = "https://squareup.com/appointments/book/9cr6y2mo19srqj/LA3WFZ0GKQAR3/start"
+name = "Log In"
+url = "https://rdm.hbportal.co/app/"
 weight = "6"
 [[menu.header]]
 name = "Services"
@@ -61,11 +61,11 @@ guide = ["leads", "contact"]
 homepage = ["showcase", "overview", "leads", "contact"]
 premium = ["premium-perks", "pricing-premium", "leads", "contact"]
 quickbytes = ["search", "leads", "contact"]
-services = ["client-and-work", "extras", "pricing", "leads", "contact"]
+services = ["client-and-work", "extras", "leads", "contact"]
 subscribe = ["subscribe-form"]
-tech_support = ["tech_header", "timeline", "pricing", "contact"]
+tech_support = ["tech_header", "timeline", "contact"]
 [params.footer]
-copyright = "© Richard Martin and "
+copyright = "© "
 [params.footer.radity_logo]
 _2x = "img/general/design-and-code-radity@2x.png"
 alt = "Design & Code - Radity"

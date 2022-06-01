@@ -21,11 +21,11 @@ showcase:
     icon: mail
     btnText: Contact Us
     URL: "#contact"
-  socialLinks:
-  - icon: instagram
-    URL: https://www.instagram.com/Swifte.ch/
-  - icon: twitter
-    URL: https://twitter.com/Swiftech
+  # socialLinks:
+  # - icon: instagram
+  #   URL: https://www.instagram.com/Swifte.ch/
+  # - icon: twitter
+  #   URL: https://twitter.com/Swiftech
 contact:
   enable: true
   title: Contact
@@ -37,10 +37,10 @@ contact:
     message: Type Your Message Here
   phone:
     title: Phone Number
-    number: "(865) 272-9554"
+    number: "(865) 274-9603"
   email:
     title: Email
-    email: <a href="mailto:hello@swifte.ch">hello@swifte.ch</a>
+    email: <a href="mailto:rich@richdmart.in">rich@richdmart.in</a>
   button:
     icon: icon-mail-fill
     btnText: Send Message

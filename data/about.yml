@@ -2,7 +2,7 @@
 about:
   enable: true
   title: Who are We?
-  content: "<p class=\"lead\"> Swiftech was founded around a single goal: to help
+  content: "<p class=\"lead\"> We're a team of independent contractors, tightly knitted around one purpose: to help
     people make the best use of their technology.</p> \n<p class=\"lead\"> We believe
     that the best way to solve tech problems is through helping our customers understand
     how their devices work. And we do most of our work over Zoom Video Meetings, so
@@ -17,7 +17,7 @@ about:
     x: "/img/who-am-i/team.svg"
     _2x: "/img/who-am-i/team.svg"
 team:
-  enable: true
+  enable: false
   title: Our Team
   items:
   - name: Richard Martin
@@ -31,7 +31,7 @@ team:
       x: https://media-exp1.licdn.com/dms/image/C5603AQGTALg0yksQhg/profile-displayphoto-shrink_200_200/0/1615240276756?e=1634169600&v=beta&t=pUsNZxcUhinMfVr8vEqz0BJynxn6vxsFxITPsXWhwBc
       _2x: https://media-exp1.licdn.com/dms/image/C5603AQGTALg0yksQhg/profile-displayphoto-shrink_200_200/0/1615240276756?e=1634169600&v=beta&t=pUsNZxcUhinMfVr8vEqz0BJynxn6vxsFxITPsXWhwBc
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   items: 
 contact:

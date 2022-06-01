@@ -78,13 +78,17 @@
             </div>
         </div>
         
+        {{ if .Params.sources }}
         <div class="guide" style="display: flex; flex-flow: column nowrap; width: 100%">
-        <h3>Why It Works</h3>
+        <h6>Sources</h6>
         <hr>
-        <div style="display: flex; flex-flow: row wrap;">
-            {{ .Content }}
-            </div>
+        <ul>
+            {{ range .Params.sources }}
+                <li><a href={{ .url }}>{{ .url }}</a></li>
+            {{ end }}
+        </ul>
         </div>
+        {{ end }}
         {{ end }}
     </div>
     </div>

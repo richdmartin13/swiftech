@@ -111,8 +111,8 @@ pricing:
     company: FREE
     duration: Learn Something
   - title: Remote Support Sessions
-    company: "$20 PER HOUR"
+    company: "Per Issue"
     duration: For Most Issues
   - title: On-Site Meetings
-    company: "$30 - $150 PER HOUR"
+    company: "Per Issue"
     duration: For the Tough Stuff
