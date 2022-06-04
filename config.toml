@@ -78,7 +78,7 @@ text2 = "Byte"
 clientId = "0oa59zl1m4EdJ6IlN5d7"
 baseUrl = "login.swifte.ch"
 redirectUri = "http://swifte.ch/login"
-issuer = "https://login.swifte.ch/oauth2/"
+issuer = "https://dev-3370284.okta.com/oauth2/default"
 [[params.plugins.css]]
 URL = "css/main.css"
 [[params.plugins.css]]
