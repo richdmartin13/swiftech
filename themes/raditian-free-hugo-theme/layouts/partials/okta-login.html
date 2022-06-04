@@ -1,0 +1,47 @@
+<!-- <div id="okta-login-container"></div>
+<div id="okta-login-success" style="display:none;">
+ <h2>Welcome, <span id="okta-login-firstname"></span>!</h2>
+ <p>You are currently logged in.</p>
+ <p><button id="okta-sign-out">Sign Out</button></p>
+</div> -->
+
+<div class="container">
+    <div id="messageBox" class="jumbotron" style="margin-top: 128px">
+      You are not logged in.
+    </div>
+    <!-- where the sign-in form appears -->
+    <div id="okta-login-container"></div>
+    <button id="logout" class="button" onclick="logout()" style="display: none">Logout</button>
+  </div>
+  <script type="text/javascript">
+    const oktaSignIn = new OktaSignIn({
+      issuer: "https://{{ .Site.Params.okta.baseUrl }}",
+      redirectUri: '{{ .Site.Params.okta.redirectUri }}',
+      clientId: "{{ .Site.Params.okta.clientId }}",
+      useInteractionCodeFlow: true
+    });
+
+    oktaSignIn.authClient.token.getUserInfo().then(function(user) {
+      document.getElementById("messageBox").innerHTML = "Hello, " + user.email + "! You are *still* logged in! :)";
+      document.getElementById("logout").style.display = 'block';
+    }, function(error) {
+      oktaSignIn.showSignInToGetTokens({
+        el: '#okta-login-container'
+      }).then(function(tokens) {
+        oktaSignIn.authClient.tokenManager.setTokens(tokens);
+        oktaSignIn.remove();
+
+        const idToken = tokens.idToken;
+        document.getElementById("messageBox").innerHTML = "Hello, " + idToken.claims.email + "! You just logged in! :)";
+        document.getElementById("logout").style.display = 'block';
+
+      }).catch(function(err) {
+        console.error(err);
+      });
+    });
+
+    function logout() {
+      oktaSignIn.authClient.signOut();
+      location.reload();
+    }
+  </script>

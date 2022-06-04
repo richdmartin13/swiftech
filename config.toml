@@ -36,12 +36,12 @@ URL = "/quickbytes/terms/how-we-work"
 name = "How We Work"
 weight = "4"
 [[menu.footer]]
-URL = "https://dropbyte.ch/#contact"
+URL = "https://swifte.ch/#contact"
 name = "Contact"
 weight = "5"
 [[menu.header]]
 name = "Log In"
-url = "https://rdm.hbportal.co/app/"
+url = "/login"
 weight = "6"
 [[menu.header]]
 name = "Services"
@@ -64,6 +64,7 @@ quickbytes = ["search", "leads", "contact"]
 services = ["client-and-work", "extras", "leads", "contact"]
 subscribe = ["subscribe-form"]
 tech_support = ["tech_header", "timeline", "contact"]
+login = ["okta-login"]
 [params.footer]
 copyright = "© "
 [params.footer.radity_logo]
@@ -73,6 +74,10 @@ x = "img/general/design-and-code-radity.png"
 [params.logo]
 text1 = "Drop"
 text2 = "Byte"
+[params.okta]
+clientId = "0oa59rxolnvjmghas5d7"
+baseUrl = "dev-3370284.okta.com"
+redirectUri = "http://localhost:1313/login"
 [[params.plugins.css]]
 URL = "css/main.css"
 [[params.plugins.css]]

@@ -232,6 +232,11 @@
     }
 </style>
 
+{{ if .Site.Params.okta }}
+     <link href="https://global.oktacdn.com/okta-signin-widget/3.1.0/css/okta-sign-in.min.css" type="text/css" rel="stylesheet"/>
+     {{ partial "script.html" . }}
+{{ end }}
+
 {{ range .Site.Params.plugins.css }}
 <link rel="stylesheet" href="{{ .URL | absURL }}"/>
 <link rel="stylesheet" href="/css/main.css"/>
