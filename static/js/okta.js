@@ -3,6 +3,7 @@ $(document).ready(function () {
     // create an instance of the Okta Sign-In widget
     var config = window.okta.config;
     var signIn = new OktaSignIn({
+      issuer: config.issuer,
       clientId: config.clientId,
       baseUrl: config.baseUrl,
       redirectUri: config.redirectUri

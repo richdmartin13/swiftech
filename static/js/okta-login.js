@@ -5,6 +5,7 @@ $(document).ready(function () {
    
     // create an instance of the Okta Sign-In widget
     var signIn = new OktaSignIn({
+      issuer: config.issuer,
       clientId: config.clientId,          // required okta config
       baseUrl: config.baseUrl,            // required okta config
       redirectUri: config.redirectUri,    // required okta config

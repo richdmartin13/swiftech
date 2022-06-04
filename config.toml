@@ -75,9 +75,10 @@ x = "img/general/design-and-code-radity.png"
 text1 = "Drop"
 text2 = "Byte"
 [params.okta]
-clientId = "0oa59rxolnvjmghas5d7"
-baseUrl = "dev-3370284.okta.com"
-redirectUri = "http://localhost:1313/login"
+clientId = "0oa59zl1m4EdJ6IlN5d7"
+baseUrl = "login.swifte.ch"
+redirectUri = "http://swifte.ch/login"
+issuer = "https://login.swifte.ch/oauth2/v1/authorize"
 [[params.plugins.css]]
 URL = "css/main.css"
 [[params.plugins.css]]
