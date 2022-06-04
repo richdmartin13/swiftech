@@ -15,8 +15,8 @@
   </div>
   <script type="text/javascript">
     const oktaSignIn = new OktaSignIn({
-      issuer: "https://{{ .Site.Params.okta.baseUrl }}",
-      redirectUri: '{{ .Site.Params.okta.redirectUri }}',
+      issuer: "https://{{ .Site.Params.okta.baseUrl }}/oauth2/v1/authorize",
+      redirectUri: '{{ .Site.Params.okta.redirectUri }}/callback',
       clientId: "{{ .Site.Params.okta.clientId }}",
       useInteractionCodeFlow: true
     });
